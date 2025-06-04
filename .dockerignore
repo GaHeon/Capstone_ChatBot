@@ -1,0 +1,54 @@
+# Git
+.git
+.gitignore
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python Caches and artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.cache/
+dist/
+build/
+wheels/
+parts/
+sdist/
+develop-eggs/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+env/
+venv/
+ENV/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.tgz
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Local files (not needed in image)
+.env
+Dockerfile # Dockerfile 자체는 이미지에 보통 불필요
+check_env.py
+test_search.py
+create_embeddings.py
+
+# Large data / Model data (should be handled differently, e.g., mounted volumes or downloaded at runtime if needed)
+embed_faiss/
+slm_lora/
+chunks/
+train_data.jsonl 
