@@ -1,0 +1,1718 @@
+--- Chunk 1 ---
+1 
+ 
+Radiation Safety Guide 
+2022 
+ 
+ 
+ 
+ 
+ 
+The Division of Radiation Safety, a component of the Office of 
+Research Services, Office of the Director, National Institutes of Health
+
+--- Chunk 2 ---
+2 
+ 
+Table of Contents 
+Preface…………………………………………………………………………………………………………………………………….4 
+Scope……………………………………………………………………………………………………………………………………….4 
+Authority to Use Ionizing Radiation………………………………………………………………………………………….4 
+Guiding Philosophy and Enforcement..…………………………………………………………………………………….5 
+Radiation Safety Committee……………...…………………………………………………………………………………….6 
+Getting Started with Radioactivity……..…………………………………………………………………………………….6 
+Becoming Responsible for Radioactive Materials.…………………………………………………………………….7 
+Other Radiation Safety Training……………………………………………………………………………………..………..7 
+Administering Radioactivity to Human Subjects.……………………………………………………………………...8 
+Activity Control System..…………………………………………………………………………….……………………..…….8 
+Obtaining Radioactive Materials………..…………………………………………………………………………………….9 
+Obtaining and Working with Radiation-Producing Devices……………………………………………….…….10 
+Security of Radioactive Materials..…………………………………………………………………………….…………….11
+
+--- Chunk 3 ---
+Security of Radioactive Materials..…………………………………………………………………………….…………….11 
+Dose Monitoring for Radiation Workers………………………………………………………………………….……….12 
+Dose Limits at NIH………………………………………………………………………………………………….……….……….13 
+Internal Dose Monitoring…………………….………………………………………………………………………….……….13 
+Declared Pregnancy and Breastfeeding Programs..………………………………………………………….…..….14 
+Minors in Posted Spaces…………………………………………………………………………………………………………..14 
+Working with Radioactive Materials…..………………………………………………………………………….…………15 
+Monitoring for Radioactive Contamination..………………………………………………………..………….……….16 
+Radioactive Waste…………………………………………….…………………………………………………………….……….20 
+Emergencies Involving Radioactive Materials………………………………………………………………….……….22 
+DRS Oversight Activities…..………………….………………………………………………………………………….……….24 
+Nuclear Regulatory Commission Oversight Activities……………………………………………………….…..….25 
+Working with Radioactive Materials in Clinical Settings.………………………………………………….……….25
+
+--- Chunk 4 ---
+Working with Radioactive Materials in Clinical Settings.………………………………………………….……….25 
+Radiological Clearances……………………….………………………………………………………………………….……….27 
+Radiological Clearances for Major Renovations……………………………………………………………….……...28 
+Construction and Commissioning New Radiological Areas……………………………………………………….29
+
+--- Chunk 5 ---
+3 
+ 
+Appendix A – Basic Physics of Radiation/Radioactivity………………………………………………….……….30 
+Appendix A – Radioactive Decay……………………………….………………………………………………….……….31 
+Appendix A – Amount of Radioactivity……………………..………………………………………………….……….31 
+Appendix A – Background Radiation…………………………………………………………………………….……….32 
+Appendix A – Bioeffects from Radiation……………………………………………………………………….……….33 
+Appendix A – Occupational Exposure in Context………………………………………………………….……….34 
+Appendix B – Glossary of Terms……………………………….………………………………………………….……….36 
+Appendix C – Resources Related to Radiation/Radioactivity………….…………………………….……….39
+
+--- Chunk 6 ---
+4 
+ 
+ 
+Preface 
+The Radiation Safety Guide has long been used as official guidance for those working with ionizing 
+radiation at the National Institutes of Health (NIH).  Historically the guide was revised every few years as 
+regulations and policies changed over time, the last being in 1998.  When the earliest version of the 
+Radiation Safety website came out around 2000, the Radiation Safety Guide was presumed to be 
+present in an on-line form throughout the various web pages.  Instead of revising the guide as a sole 
+document every few years, the web pages were updated as things changed over time.  After a number 
+of years operating this way, the Division of Radiation Safety (DRS) is bringing back the Radiation Safety 
+Guide as a standalone guide that can be referenced for relevant policies all in one document for those 
+who would prefer that over navigating web pages to find information.  
+ 
+Scope
+
+--- Chunk 7 ---
+who would prefer that over navigating web pages to find information.  
+ 
+Scope 
+DRS provides oversight for the use of radioactive materials or ionizing radiation producing devices at 
+NIH.  DRS does not have purview over any of the following (contact the Division of Occupational Health 
+and Safety instead) technologies at NIH: magnets or MRI, lasers, microwaves, ultraviolet, infrared, EMF 
+or ultrasound. 
+DRS provides its oversight of ionizing radiation activities for the following locations: main NIH campus in 
+Bethesda; Poolesville Animal Center; Integrated Research Facility (IRF) at Ft. Detrick in Frederick; The 
+NIA facilities in Baltimore; a few small leased labs in the Rockville area.  DRS does not provide any 
+oversight whatsoever for the following NIH-affiliated areas, and each has its own separate radiation 
+safety program: NCI Research Facilities in Frederick; Research Triangle Park NC; Rocky Mountain Lab in 
+Hamilton MT; Indian Health Service in Phoenix AZ
+
+--- Chunk 8 ---
+Hamilton MT; Indian Health Service in Phoenix AZ 
+ 
+Authority to Use Ionizing Radiation 
+Radioactive Materials 
+The vast majority of radioactive material in use at NIH is governed by the Nuclear Regulatory 
+Commission (NRC).  The NRC has many regulations covering the possession, use and disposal of 
+radioactive material.  They provide active oversight of NIH through the issuance of specific licenses 
+covering NIH activities and they conduct comprehensive unannounced inspections.  DRS ensures that 
+regulations and license commitments are followed at all times by NIH personnel.  The DRS Director is 
+also the NIH Radiation Safety Officer (RSO) who must meet specific NRC qualifications.  Additionally, the 
+RSO is specifically named on NRC licenses and has been explicitly given the authority by the Deputy 
+Director of Intramural Research to maintain the radiation safety program at NIH, including the ability to
+
+--- Chunk 9 ---
+stop any activity at NIH that the RSO believes jeopardizes the safety of NIH staff, patients or visitors, or 
+stop any activity that will cause NIH to be in violation of NRC requirements. 
+All radiation workers have the right to contact the NRC directly with a concern regarding radiation safety 
+at NIH.  There are postings in numerous locations, including any lab authorized to store or use
+
+--- Chunk 10 ---
+5 
+ 
+radioactive materials that go into more detail about the rights and responsibilities of radiation workers, 
+including how to contact the NRC.  While DRS hopes someone with a concern would contact DRS first to 
+address an issue, DRS recognizes and supports the right for workers to contact the NRC directly.  Note 
+that trained radiation workers also have a responsibility to follow all radiation safety requirements. 
+Instruments/Equipment with Radioactive Sources Built-in 
+There are instruments and equipment that contain sealed sources of radioactive materials that are 
+integral to the function of the device.  Common examples at NIH include Liquid Scintillation Counters 
+(LSC), gas chromatographs and explosive sniffers.  These devices are not covered by NIH’s specific NRC 
+licenses but are instead covered under 10 CFR 31 directly as “Generally Licensed Devices.”  NIH 
+researchers can purchase these directly from a vendor and they do not come through Building 21 for
+
+--- Chunk 11 ---
+researchers can purchase these directly from a vendor and they do not come through Building 21 for 
+receipt or inspection.  However, there are some regulations regarding their use that DRS must ensure 
+are followed.  Therefore, DRS requests that anyone acquiring a generally licensed device notify DRS once 
+they receive it.  Some of these devices require leak testing of the sources on a specified frequency and 
+they cannot be taken apart for repair unless specifically licensed by the NRC to do so.  Additionally, 
+disposal of the device has requirements and anyone disposing of a generally licensed device should do 
+so with the coordination of DRS.  For LSCs specifically, see the section on radiological clearances. 
+Note that modern smoke detectors are exempt from general license device requirements.  Also note 
+that by NIH Policy, radioactive tritium (H-3) exit signs are prohibited on campus.  
+Radiation Producing Devices
+
+--- Chunk 12 ---
+Radiation Producing Devices 
+Devices that produce radiation as a part of how they operate are not regulated by the NRC.  Ordinarily 
+the state would regulate these devices, but since NIH is a federal facility the State of Maryland has no 
+jurisdiction over its operations.  Therefore, the Occupational Safety and Health Administration (OSHA) is 
+the regulatory authority over these devices (mostly x-ray units).  DRS does strive to follow state 
+regulations when these devices are inspected for safety.  
+“Source Material” 
+Chemicals that contain (naturally) radioactive uranyl or thoriated compounds (often used in microscopy 
+applications) are defined by the NRC as “source material” and can be obtained without DRS involvement 
+from commercial suppliers.  However, there are possession limits (1.5 kg per lab) and these materials 
+must be disposed as radioactive waste.  DRS does conduct an annual contamination survey in spaces 
+that use source material. 
+Guiding philosophy and enforcement
+
+--- Chunk 13 ---
+that use source material. 
+Guiding philosophy and enforcement 
+DRS provides its oversight with the goal of ALARA heavily emphasized.  ALARA means As Low As 
+Reasonably Achievable.  It means that contamination and exposures shall be kept as low as reasonably 
+possible given the circumstances involved (lab setup limitations and economic considerations are the 
+usual limiting factors).  It means that just being under the limits is not enough.  Note, though, that 
+generally speaking it is not possible to reduce someone’s exposure to absolutely zero when working 
+with ionizing radiation.  However, for most NIH staff exposure can be reduced to less than 1% of the 
+limits.  NRC Regulatory Guide 8.29
+ discusses risks from occupational radiation exposure.
+
+--- Chunk 14 ---
+6 
+ 
+DRS is obligated to comply with all regulations and licenses involving ionizing radiation.  Violations of 
+policies by radiation workers can result in enforcement which is usually an official memo from DRS 
+describing the violation(s) and a request from the recipient to describe corrective actions.  Some 
+violations may require targeted refresher training for lab staff involved in an infraction.  Egregious or 
+repeated violations can also result in a radiation worker appearing before the Radiation Safety 
+Committee to explain their actions and how they will comply in the future.  Although rare, the 
+Committee may choose to suspend a radiation worker’s use of ionizing radiation for any length of time 
+including permanently. 
+In the course of conducting work involving ionizing radiation, never falsify anything or intentionally 
+mislead DRS or NRC inspectors.  The penalties for falsifying are steep and can include termination from
+
+--- Chunk 15 ---
+employment.  Note the NRC can also impose monetary fines on individuals and prevent violators from 
+working with radioactive materials anywhere in the United States for up to 5 years.  If you make a 
+mistake or fail to comply with a DRS requirement, just say so and implement corrective actions to 
+prevent recurrence.  Covering up non-compliance will jeopardize your career and can impact NIH’s 
+ability to have radioactive materials. 
+Radiation Safety Committee 
+The Radiation Safety Committee (RSC) has existed in one form or another back to the late 1940s at NIH 
+when it was first chartered by the NIH Director.  Its primary function is to serve as an advisory body to 
+DRS and NIH on all matters related to ionizing radiation.  NRC regulations mandate the composition of 
+some of the committee members – a chair, a member of NIH Management, members who are proficient 
+in specific medical modalities of the use of radiation/radioactivity in human patients.  The NRC also
+
+--- Chunk 16 ---
+mandates some of the activities of the RSC such as the approval of Clinical Authorized Users for human 
+administration of radiation/radioactivity; approval of laboratory Authorized Users; approval of certain 
+uses of radioactive materials; approval of changes in DRS policies or the addition of new facilities that 
+work with non-trivial amounts of radioactivity. 
+Getting Started with Radioactivity 
+Anyone 18 years of age or older wishing to work with radioactive material must register with DRS
+. The 
+registration page will ask what types of radioactive materials and what kind of work will be done with 
+them.  DRS will then send the new user a link to the required baseline training modules that are 
+completed on-line.  All users get a set of modules that cover basic aspects of working with ionizing 
+radiation at NIH, including topics mandated by 10 CFR 19.12.  Specialty users of radioactivity will get
+
+--- Chunk 17 ---
+additional modules tailored to those specialties.  Once all training is completed and the accompanying 
+test is passed, the new user is considered an Individual User (IU) and will be allowed to work with 
+radioactive materials under the supervision of an Authorized User (AU).  There are limitations to the 
+amount and types of radioactivity allowed through the basic training course (RSL - Radiation Safety in 
+the Lab).  See the section on the Activity Control System regarding these limitations. 
+Any former NIH Radiation Worker who has returned to NIH can resume working with radioactive 
+materials as before, provided the period of absence was under 4 years.  Absences greater than 4 years 
+will require going through the initial training regimen again.
+
+--- Chunk 18 ---
+7 
+ 
+If someone under the age of 18 will be present in a lab posted for radioactivity, there are specific 
+training requirements whether the individual will be working with radioactive materials or not.  See the 
+section on minors for details on what to do for persons under 18 in the labs. 
+Becoming Responsible for Radioactive Materials 
+IUs must work under the supervision of a responsible AU.  If an IU wishes to become an AU, the IU must 
+complete an additional on-line set of training modules (RSAU – Radiation Safety for Authorized Users) 
+and also complete an in-person practical demonstration designed to ensure the IU has sufficient 
+knowledge and skills to become responsible for radioactive materials at NIH.  The IU would then take a 
+written exam.  Upon passing the IU would need to formally apply for AU status, which is reviewed by 
+DRS and the RSC. 
+After an AU is formally approved, he/she may order radioactivity as prescribed in the Activity Control
+
+--- Chunk 19 ---
+System and be listed as the responsible individual for radioactive labs and other IUs. 
+AUs who leave NIH and later return do not have to start the Authorization process over other than re-
+submitting an application.  However, if the absence was more than 4 years the RSL would have to be 
+completed again.  Additionally, any AU-specific training refreshers conducted during the absence would 
+need to be completed. 
+Other DRS Training Programs 
+DRS runs several training programs at NIH.  The most common are the RSL and RSAU courses described 
+earlier for individual users and authorized users respectively. 
+DRS provides refresher training for various populations at the NIH.  Some groups, such as radiotherapy 
+nurses and oncology staff who use sealed sources within human subjects are required to receive annual 
+training per 10 CFR 35.  These trainings are largely in-person sessions conducted by DRS staff.  Further,
+
+--- Chunk 20 ---
+some groups receive in-person annual refresher training per DRS policy by virtue of their job, such as 
+police, firefighters and high activity radiochemists. 
+Additionally, anyone who receives 100 mrem or more whole body exposure during the year is required 
+by NRC License commitment to receive a refresher training specific to their work.  This training can be 
+in-person or in an electronic format. 
+Further, on a periodic basis (every 2-3 years on average), refresher training for all radiation workers or 
+just all Authorized Users is administered electronically.  Also included in these types of refresher training 
+are groups working with radioactive animal housing or housekeeping staff. 
+Regardless of situation, all staff who are offered refresher training must complete the training by the 
+specified deadline or will be suspended from their ability to work with ionizing radiation.
+
+--- Chunk 21 ---
+8 
+ 
+Administering Radioactivity to Human Subjects 
+Separately from an AU for radioactivity, there is a process to become authorized to administer 
+radioactive materials in human subjects.  These can be diagnostic or therapeutic administrations.  
+Anyone wishing to work as a Clinical Authorized User (CAU) in this manner must apply through the 
+Executive Secretary of the RSC.  Note that a CAU wishing to order radioactive materials for non-human 
+purposes must separately become an AU. 
+Activity Control System 
+There are limitations to how much radioactive material an AU may possess at any one time.  This has 
+been governed by DRS via the Activity Control System (ACS) since 2003.  When an AU is first authorized, 
+he/she is allowed a baseline amount (ceiling) of basic life science radionuclides (“The Basic Set”), based 
+on completing the RSAU training course.  If a lab wishes to use a nuclide not in the Basic Set, DRS must
+
+--- Chunk 22 ---
+be contacted.  An Area Health Physicist (AHP) will evaluate the lab to ensure it is sufficiently set up to 
+use the requested materials – ability to survey for contamination, waste set-up, work area set-up, 
+dosimetry considerations and adequate shielding are among the items that will be evaluated.  If the AHP 
+agrees the lab can handle the nuclide, the AU will be given a default ceiling for that radionuclide. 
+Ceilings are decay-corrected in real time.  If a lab needs more than the default ceiling for a nuclide, the 
+AHP can evaluate the lab to ensure the higher amount of radioactivity can be worked with safely and in 
+compliance with policies.  The AHP can raise the ceiling up to a maximum amount specified by policy.  
+The ceiling thresholds for common nuclides at NIH can be found in this table
+. 
+If a lab needs more than the maximum ceiling for a radionuclide (even for the Basic set), then a DRS
+
+--- Chunk 23 ---
+Protocol is required.  DRS Protocols are written agreements between the lab and DRS that indicate what 
+kind of radioactive work will be performed and what radiation safety precautions and procedures will 
+apply.  The AHP will verify the lab meets the protocol requirements and will conduct periodic oversight 
+of the work once the protocol is approved by the RSC.  Protocols must be renewed every 2 years. 
+There are some situations that always require a DRS Protocol: 
+• volatile radioactive materials 
+• any alpha emitter (does not include natural uranyl or thoriated compounds) 
+• receiving unprocessed cyclotron targets 
+A few endeavors are exempt from the DRS lab protocol process: 
+• sealed sources 
+• human use of radioactivity 
+• experiments conducted in the Bldg. 21 Hot Lab Facility 
+• experiments conducted in a lab with DRS physically present (meant to be one-offs) 
+If a lab believes a DRS protocol will be required, it should contact DRS for a consultation on what needs
+
+--- Chunk 24 ---
+to be included in their protocol application
+.
+
+--- Chunk 25 ---
+9 
+ 
+Working with Radioactive Animals 
+Anyone wishing to administer radioactive materials to animals must follow the process of their 
+institute’s Animal Care and Use Committee (ACUC) which requires an Animal Study Proposal (ASP) for 
+the work.  The ACUC evaluates the ASP for appropriateness in a number of issues surrounding animal 
+welfare.  If there is radiation or radioactive material involved, the ASP is forwarded to DRS for review.  
+DRS has a standard set of requirements for working with radioactive animals
+.  If necessary for specific 
+ASPs, DRS may impose additional requirements, including submittal of a regular DRS Protocol if that 
+criteria is met. 
+Obtaining Radioactive Material 
+Any Authorized User (AU) may order and receive radioactive materials.  To do so, the AU must submit an 
+88-1 form which will tell DRS the nuclide and amount, chemical form, the intended users of the material
+
+--- Chunk 26 ---
+and where the material needs to be delivered.  This is done solely electronically through the AU Portal
+. 
+Separately the AU must procure the material from a vendor through their own institute’s procedures for 
+buying chemicals.  The institute order MUST indicate the address below is the receiving address for the 
+radioactive package and make sure the AU’s name and DRS number are listed as the clearance 
+name/number. 
+Division of Radiation Safety 
+National Institutes of Health 
+Bldg. 21, Room 107 
+21 Wilson Drive 
+Bethesda, MD 20892-6780 
+All packages of radioactive material MUST be delivered to Building 21 for NRC regulated surveys and 
+inspections.  After inspection, DRS will deliver the radioactive material to the location indicated on the 
+88-1 form.  The delivery will include a Utilization/Disposal form (U/D sheet).  When radioactivity is 
+aliquoted out of the source vial, the user must document this on the U/D sheet.  If a user needs to
+
+--- Chunk 27 ---
+aliquot material but was not listed on the U/D sheet initially, the AU may handwrite the user’s name 
+with the pre-printed ones and sign their full name to indicate permission to use the material was 
+granted.  Be sure to only allow users to be added to a U/D sheet who have completed the RSL training. 
+Once the material is used up or the source vial is sent to radwaste, the U/D sheet must be closed out 
+and a copy returned to DRS.  If no users were added to the U/D sheet, simply closeout the item on the 
+AU Portal.  If a user was added to the U/D sheet, please send a copy to DRS by Fax (301-480-9708) or by 
+campus mail (21/116). 
+DRS will also specifically alert the lab if contamination was found on the outer surfaces of the source vial 
+during the receipt inspection so that the lab can take precautions to prevent the spread of 
+contamination when opening/using the package. 
+If a radioactive package arrives at Building 21 and there is no accompanying 88-1 for it, DRS will contact
+
+--- Chunk 28 ---
+the AU and hold the package until an 88-1 is submitted.  If the package causes the AU to exceed their 
+ceiling (see the section on the Activity Control System), the package will be held until the ceiling is raised
+
+--- Chunk 29 ---
+10 
+ 
+by the AHP; the AU disposes of other items of that nuclide; or a DRS Protocol is in place to receive the 
+nuclide at that amount. 
+IMPORTANT – if you receive a radioactive package from someone not in DRS (commercial carrier such 
+as FedEx or UPS), do not open the package!  Immediately notify DRS who will retrieve the package and 
+conduct the required inspections and surveys.  The regulations require these steps within 3 hours of 
+receiving the package!  One important clue that the package did not come to Building 21 first as 
+required will be that there is no U/D sheet accompanying it. 
+Once you receive a radioactive package it must not be left unattended and must immediately be taken 
+to a proper storage location within a posted space.  Once the package is opened, survey the outer 
+packages for contamination (wearing lab coat and gloves) and fully deface any radioactive labeling prior
+
+--- Chunk 30 ---
+to disposing in the regular trash.  If there are discrepancies with the order, notify DRS. If you suspect the 
+inner packaging container is contaminated, or you receive a message from DRS that we found it 
+contaminated, take great care to avoid spreading contamination once you access the inner packaging 
+items.  If the material comes in a more durable container (e.g. an ammo can) that is meant to be 
+returned to the vendor at a later time, ensure that container is contamination-free before letting it leave 
+the laboratory. 
+Transfers of Radioactive Material 
+If a lab wants to give some or all of a source vial to another AU, the receiving AU must go onto the AU 
+Portal and complete an 88-1 form.  List the first AU as the supplier and clearly indicate the amount being 
+transferred.  This procedure is also required if receiving material from a lab group that takes raw 
+radioactive materials and labels them to compounds as a service to other labs who do not want to do
+
+--- Chunk 31 ---
+this work themselves. 
+If a lab receives radioactive materials from the NIH Cyclotron directly, it MUST document the receipt of 
+this radioactive material via an 88-1 form on the AU Portal in a timely manner after receiving the 
+material.  Fill out the form per usual but list NIH Cyclotron as the supplier.  The NIH Cyclotron is NOT 
+responsible for documenting this transfer…they are only responsible for ensuring they give radioactive 
+materials only to labs who have been cleared by DRS to have them. 
+Obtaining and Working with Radiation-Producing Devices 
+Labs can purchase radiation-producing devices without going through DRS.  However, once such a 
+device is received, DRS must be contacted to register the unit to get an initial inspection and placement  
+on an annual inspection schedule.  NOTE – open beam devices (fluoro, CT, etc.) require a DRS shielding 
+evaluation of the room where they will reside.  This should be done prior to acquiring the unit to
+
+--- Chunk 32 ---
+evaluation of the room where they will reside.  This should be done prior to acquiring the unit to 
+prevent delays or expensive retrofitting of a space with shielding. 
+Note that DRS no longer tracks Electron Microscopes and notifying DRS of their existence is not 
+necessary unless the shielding integrity of the unit is in question.  However, electron microscopes do 
+often utilize uranyl or thoriated compounds (source material) which are radioactive from naturally 
+occurring elements.  DRS does need to know about the existence of these chemicals as there are some 
+regulations regarding their possession and disposal.
+
+--- Chunk 33 ---
+11 
+ 
+DRS has training modules for both self-shielded and open beam machines. All users of radiation-
+producing devices require training appropriate for the type of machine being used. When a registering 
+user indicates one of these kinds of machines will be used, the correct training module will be included. 
+Dosimetry is not required for self-shielded machines.  Dosimetry is usually required for open beam 
+machines.   
+Working with shielded units is straightforward – do not defeat safety interlocks or other features 
+designed to prevent direct exposure to any part of the body.  Contact DRS for an evaluation if the unit 
+becomes damaged and/or the integrity of its shielding is in question.   
+When working with open beam x-ray units, it is important to observe several work practices to prevent 
+unnecessary and potentially appreciable exposure: 
+• Wear lead aprons and organ shields if working in close proximity of the beam
+
+--- Chunk 34 ---
+• Wear lead aprons and organ shields if working in close proximity of the beam 
+• Always wear dosimetry assigned to you when working with open beam units 
+• Try to stay 6 feet from the beam if possible 
+• If you have to hold a patient/animal during a procedure, wear leaded gloves 
+• Use the lowest settings on the unit that will produce a useful result; use image hold on units 
+that have this feature 
+• In general, practices that reduce the exposure to the patient will also reduce occupational 
+worker exposure 
+Notify DRS if any radiation producing device is relocated – a shielding evaluation may be required.  
+Consult the refresher training module for a fuller discussion of open beam x-ray units. 
+Security of Radioactive Materials 
+All radioactive materials must be used or stored in spaces that have been posted for this purpose by 
+DRS.  Radioactive items are not allowed to be used or stored in corridors except for the following two 
+situations:
+
+--- Chunk 35 ---
+situations: 
+• Film cassettes may be stored in a locked container labeled as containing radioactive film 
+cassettes 
+• Liquid Scintillation and Gamma Counters may be used in non-posted areas, provided the 
+counting vials are removed and placed in a posted space following their analysis.  It is OK for 
+samples to be queued up inside the counter prior to counting. 
+• Locked storage of DRS-approved quantities of radiolabeled gels, tissues, cells, or reference 
+standards contained on slides or in imaging cassettes. 
+Note that some NIH buildings do not allow corridor storage of any kind.  The exceptions above are not 
+meant to circumvent building-wide prohibitions on corridor usage. 
+The security of radioactive materials at NIH is very important.  All radioactive materials (includes waste, 
+any contaminated item and used LSC/gamma vials) must be locked up or attended by lab staff at all
+
+--- Chunk 36 ---
+any contaminated item and used LSC/gamma vials) must be locked up or attended by lab staff at all 
+times.  It is permissible to lock these materials up within a room as opposed to locking the room itself.
+
+--- Chunk 37 ---
+12 
+ 
+Additionally, since 2001 all source vials must be locked up within the room even if the door is locked 
+when unoccupied.  This can be done by locking the freezer, etc. If the lab needs to leave the freezer 
+unlocked, the source vial can be placed in a locked box within the freezer and that box must be tethered 
+to the freezer.  DRS can provide guidance on whether an intended security arrangement is compliant 
+with this policy. 
+DRS conducts periodic security sweeps of buildings and issues enforcement citations to AUs whose 
+radioactive material or waste can be accessed when no lab staff is present.  The contractor who 
+performs the sweeps will restore a lab to a secured configuration if they are able to access radioactive 
+materials.  In the event a lab cannot be restored to a secure configuration, the contractor, in 
+consultation with DRS Management, will attempt to relocate source vials to another posted room or
+
+--- Chunk 38 ---
+consultation with DRS Management, will attempt to relocate source vials to another posted room or 
+confiscate them and bring them to Building 21 for appropriate temperature storage until the non-
+compliant lab is able to store materials properly. 
+Lab staff should be cognizant of unknown persons entering their areas and challenge them regarding 
+their entry.  Legitimate visitors should be briefed on areas of the lab to avoid due to radioactive 
+materials or other occupational hazards. 
+Dose Monitoring for Radiation Workers 
+Since 1997, DRS has directly applied the 10 CFR 20 criteria for wearing dosimetry.  Workers who have a 
+reasonable potential to exceed 10% of the NRC exposure limits will be issued dosimetry.  Each worker 
+upon completing training submits a Dosimeter Evaluation Form
+ that describes the intended use of 
+ionizing radiation at NIH.  DRS then determines if the worker meets the criteria for whole body or ring
+
+--- Chunk 39 ---
+dosimetry.  Note that dosimetry is never required for work with these nuclides, regardless of the 
+amount: H-3, C-14, P-33, S-35, Ca-45, Fe-55, I-125 or I-129. 
+If you are issued dosimetry, you need to wear it whenever conducting work with ionizing radiation.  Only 
+wear your dosimeter! Never take your dosimeter home or wear it anywhere outside of NIH.  Store 
+dosimeters away from sources of radiation and away from heat sources (like a car) which could damage 
+the dosimeter.  Dosimeters are exchanged on a frequency commensurate with the potential amount of 
+exposure.  It is essential that dosimetry be promptly exchanged when replacements arrive so that your 
+dose amount will be known and applied to your record.  Notify DRS immediately if you lose a dosimeter 
+or if you believe you were exposed to a potentially large amount of radiation (with or without a 
+dosimeter present). 
+Some workers will be issued both a chest dosimeter and a collar dosimeter.  Be sure to always wear the
+
+--- Chunk 40 ---
+correct dosimeter in the correct location.  Finger rings are marked L and R and should be worn with the 
+label facing inward on the finger with the highest potential for exposure.  If you are an x-ray user and 
+are issued one dosimeter, wear it at the collar level outside any lead apron.  If an x-ray user receives two 
+dosimeters, the second one should be worn underneath the lead apron. 
+DRS will provide dosimetry results annually to anyone who had dosimetry during the year.  Separately, a 
+worker may request their exposure in writing (DOSIMETRY@mail.nih.gov
+) while either a current or 
+former employee and DRS will provide this information within 30 days as required by 10 CFR 19.13. 
+DRS tracks users’ cumulative dose totals over the course of a calendar year.  Should a worker exceed 
+10% of any dose limit, an ALARA investigation is triggered.  Reaching 30% and 50% also trigger additional
+
+--- Chunk 41 ---
+13 
+ 
+investigations.  DRS discusses the exposures with the worker and evaluates whether there are measures 
+that can be taken to reduce exposure - additional shielding, remote handling devices and sharing the 
+workload are common techniques.  For some workers at NIH the workload is such that reaching 10% is a 
+normal outcome over the course of the year.  In these cases, DRS ensures that nothing unusual is going 
+on and that engineering controls are in place that can reasonably be applied.  The 30% and 50% 
+investigations are usually more involved and may involve a worker’s AU and/or supervisor.  Any worker 
+reaching 70% of any limit during the year will be prohibited from performing further work involving 
+ionizing radiation for the remainder of the calendar year.  DRS is obligated to prevent workers from 
+exceeding the regulatory limits. 
+The dose limits depend on who regulates the activity.  Staff who only work with radioactive materials
+
+--- Chunk 42 ---
+are subject to the NRC limits.  Staff who only work with x-ray equipment are subject to OSHA limits.  
+Staff who work in both arenas are held to both sets of limits by DRS policy and the NRC has jurisdiction 
+over all occupational exposure if ANY of it comes from NRC regulated activities. 
+Dose limits observed at NIH: 
+Location or circumstance NRC – 10 CFR 20.1201 OSHA – 29 CFR 1910.1096 
+Whole Body (DDE)  5,000 mrem/yr 1,250 mrem/qtr 
+Lens of the Eye (LDE) 15,000 mrem/yr 1,250 mrem/qtr 
+Extremities (SDE) 50,000 mrem/yr 18,750 mrem/qtr 
+Skin (SDE) 50,000 mrem/yr 7,500 mrem/qtr 
+Organs  50,000 mrem/yr 1,250 mrem/qtr 
+Declared Pregnant Worker 500 mrem/gestation period N/A 
+Persons under 18 years old 10% of the above limits 10% of the above limits 
+Members of the Public 100 mrem/yr and no more than 
+2 mrem in any one hour 
+N/A 
+ 
+Internal Dose Monitoring (Bioassay) 
+DRS has the ability to conduct internal monitoring of staff who may have internalized radioactive
+
+--- Chunk 43 ---
+DRS has the ability to conduct internal monitoring of staff who may have internalized radioactive 
+materials.  The two main ways bioassay is conducted at NIH are urinalysis and body scanning.  The 
+method employed depends upon the decay characteristics of the specific nuclide and/or the biological 
+characteristics of the element/compound itself.   
+Most workers at NIH do not require routine bioassays but instead might be required to undergo one if 
+involved in a contamination event or otherwise believe radioactive materials have gotten inside the 
+body. 
+Urinalysis can be a single sample or a 24-hour collection.  DRS then analyzes the urine for radioactivity 
+(and nothing else).  For body scanning, the worker would come to Building 21 and a sensitive detector 
+would be placed in front of the appropriate part of the clothed worker (thyroid, lung, gut, etc.). 
+If air sampling was performed in conjunction with a procedure that precipitates bioassay, the
+
+--- Chunk 44 ---
+If air sampling was performed in conjunction with a procedure that precipitates bioassay, the 
+concentration of the air sample can also be used to estimate internal dose. 
+For bioassays with detectable radioactivity, DRS calculates an estimated internal exposure plus an 
+equivalent whole body dose value that results from internalization of radioactivity, using the NRC tables
+
+--- Chunk 45 ---
+14 
+ 
+for Annual Limit on Intake (ALI).  As a part of that process the worker might be required to continue a 
+bioassay schedule to determine or verify the rate of elimination from the body via the combination of 
+radiological decay and biological elimination.  DRS will investigate the cause of internalization of 
+radioactive materials so that measures can be put into place to prevent recurrence. 
+Declared Pregnancy and Breastfeeding Programs 
+An embryo/fetus can be more sensitive to radiation than an adult (highly dependent on the stage of 
+pregnancy).  Per NRC Regulatory Guide 8.13, DRS has a Declared Pregnancy policy in place.  Any 
+pregnant worker can voluntarily be evaluated for the potential of internal/external exposure as part of 
+their job duties.  The Authorized User or supervisor will be a part of the discussion. DRS will recommend 
+if any changes in duties are needed to prevent the embryo/fetus from exceeding the regulatory limit of
+
+--- Chunk 46 ---
+500 mrem for the pregnancy.  DRS will prohibit working with radioiodines for declared pregnant workers 
+to prevent a damaging thyroid dose to the fetus.  Other duties that may result in restrictions include 
+open-beam x-rays (fluoro/CT) or work involving hot cells.  It is also recommended that any dose is evenly 
+spread out over the pregnancy. DRS will issue a dosimeter specifically to track this exposure. 
+The pregnant worker must declare formally in writing for the dose limits and monitoring to apply.  This 
+can be done by campus mail (mark an envelope ‘confidential’) to Building. 21, Room 116 or by giving the 
+declaration to a DRS Health Physicist directly.  You can choose to fax it to 301-496-3544 but 
+confidentiality cannot be guaranteed.  DRS will contact the worker within 2 business days to arrange a 
+consultation. 
+Note that the Declared Pregnancy status is completely voluntary and a woman who chooses to
+
+--- Chunk 47 ---
+Note that the Declared Pregnancy status is completely voluntary and a woman who chooses to 
+participate can withdraw at any time.  Undeclared pregnant workers are not subject to the 500 mrem 
+dose limit. 
+Similar to the Declared Pregnancy program, DRS also offers a Declared Breastfeeding program.  Some 
+chemical compounds or radionuclides can transfer to breast milk if ingested by the mother.  For any 
+breastfeeding mother who declares, the consultation would evaluate the potential for the infant to 
+receive 100 mrem.  DRS may recommend declared mothers refrain from certain kinds of work with 
+open-form radioactive materials and have the mother undergo periodic bioassay to ensure uptakes of 
+radioactive material have not occurred.  The potential for uptake is greatest for volatile forms of 
+radioiodine, as well as potentially volatile forms of H-3, S-35, Br-76 and At-211. 
+The Declared Breastfeeding program works administratively exactly the same as the Declared Pregnancy 
+program.
+
+--- Chunk 48 ---
+program. 
+Minors in Posted Spaces 
+If someone under the age of 18 is going to be in a location posted for radioactive materials, but not 
+working with them, he/she must complete the Radiation Safety Orientation training
+. 
+If someone who is 16 or 17 wishes to work with radioactive materials or ionizing radiation-producing 
+machines, they must apply for specific permission from the RSO.  There are restrictions on what a minor 
+is allowed to do, per RSC directive in 2001: 
+• No one under the age of 16 may work with ionizing radiation
+
+--- Chunk 49 ---
+15 
+ 
+• The minor must complete the Radiation Safety in the Lab (RSL) course and also the lab safety 
+course conducted by the Division of Occupational Health and Safety (DOHS) 
+• The minor must complete and submit an application to DRS for permission to work with ionizing 
+radiation, which includes parental consent and an affirmation by an adult in the lab who will be 
+present 100% of the time during any radiation work conducted by the minor 
+• The minor may not directly handle source vials or work with protocol quantities 
+Working with Radioactive Materials 
+General Practices 
+Any room/space that has radioactive materials stored (including waste) or the materials are being 
+manipulated must be posted by Radiation Safety.  DRS will evaluate whether the room is set up 
+sufficiently to use the intended radionuclides – waste containers, monitoring capability, shielding if 
+needed. 
+Eating, drinking and smoking are all prohibited in a posted area, or in an adjacent area that is not
+
+--- Chunk 50 ---
+separated from the posted area by full height walls and has separate ventilation.  This policy is 
+consistent with that of the Division of Occupational Health and Safety for working with chemical or 
+biological materials. 
+Anyone working with radioactive material must wear at a minimum a lab coat and gloves.  Additional 
+protective clothing may be specified in a DRS Protocol.  Open-toe shoes are not permitted while working 
+with radioactive material. 
+Areas/benches where radioactive work is taking place should be covered with absorbent paper or 
+equivalent to prevent the spread of contamination.  All items that are expected to become 
+contaminated or come into direct contact with the radioactivity should be labeled in advance of the 
+work with Caution Radioactive Material (CRAM) tape.  Items that are radioactive in some way that are 
+not waste must remain labeled to include nuclide, estimated activity, date and a radiation level if it is 
+significantly above background.
+
+--- Chunk 51 ---
+significantly above background. 
+Where practical, work should occur within a fume hood, especially if thawing out a frozen source vial 
+containing H-3 or S-35.  Note for procedures involving aerosols or inherently volatile work (e.g. halogens 
+like radioiodine) DRS will mandate that the work be conducted in a working fume hood. 
+Internal Hazards 
+There are four main ways radioactivity can end up inside your body – ingestion, inhalation, absorption 
+and puncture.  The methods to prevent these pathways from being available include wearing protective 
+clothing (PPE), engineering practices such as hoods or ventilation controls, and prohibitions on eating, 
+etc. within the lab.  In a few labs it is necessary to employ further controls such as fully enclosed boxes 
+and air monitoring. 
+NEVER pipette by mouth… 
+External Hazards
+
+--- Chunk 52 ---
+16 
+ 
+An external hazard means that radiation can impact living cells from sources outside the body.  At NIH 
+this would be gamma radiation or high-energy beta radiation.  The principles to minimize exposure from 
+external sources are: 
+• Time – limit the time handling radioactive materials.  Do practice runs of procedures without the 
+radioactivity so that you will be efficient when using the radioactivity. 
+• Distance – keep the sources of radiation in locations not near work areas when not using them.  
+Use remote handling tools when practical while working with radioactive materials…even having 
+them a couple feet away from your body makes an appreciable difference in the dose rate when 
+compared to having the source up close due to the inverse square law nature of radiation 
+intensity over distances. 
+• Shielding – using appropriate materials in between you and the source to attenuate the 
+incoming radiation
+
+--- Chunk 53 ---
+incoming radiation 
+ 
+Laboratories should conduct radioactive work in a way such that dose rates within the lab do not exceed 
+2 mrem/hr or cause a dose rate in an unrestricted area to exceed 0.5 mrem/hr.  Shielding may be 
+required for source storage or waste collection areas to maintain dose levels ALARA.  Note that labs 
+working with many mCi of radioactivity at a time may not feasibly be able to meet the 2 mrem/hr 
+standard in localized areas of a laboratory during the radioactive work.  In these rare cases DRS will work 
+with the lab to have levels as low as can be reasonably achieved and may post the lab as a Radiation 
+Area as defined in 10 CFR 20.  In all cases, the dose rates in unrestricted areas must be maintained 
+below 0.5 mrem/hr. 
+Monitoring for Contamination 
+Labs must have the ability to perform contamination monitoring for the radionuclide(s) in use.  For high-
+energy beta emitters such as P-32, a Geiger-Mueller (GM) probe is required.  DRS allows for either the
+
+--- Chunk 54 ---
+end window or pancake style of GM meter, but recommends the pancake style for better detection 
+efficiency.  For low-energy emitters such as H-3 and C-14, the lab must be able to perform Liquid 
+Scintillation counting for smear/swipe analysis.  For low-energy photon emitters like I-125, a NaI 
+scintillation probe is recommended or smear surveys can be performed. 
+Note that the lab MUST conduct a contamination survey any day that radioactive material is used.  
+Unless otherwise directed by DRS, these daily surveys are not documented.  You should monitor the 
+work area, the floor below that area, the equipment used in the experiment, yourself and the traverse 
+route to waste containers. 
+Hand-Held Meters 
+When using a hand-held instrument for monitoring, it is vital that you ensure the instrument is working 
+properly prior to use by performing these steps: 
+• Battery check the instrument – most instruments have a setting called Bat Check or similar…the
+
+--- Chunk 55 ---
+• Battery check the instrument – most instruments have a setting called Bat Check or similar…the 
+needle should deflect to the Bat OK area on the dial.  Do not use the meter if it fails this test, 
+even if it makes clicks
+
+--- Chunk 56 ---
+17 
+ 
+• Calibration date check – the instrument should have a sticker on it with a calibration date within 
+the last year.  If the date is greater than 1 year or there is no sticker at all, contact DRS 
+• Source check – the instrument has a check source attached to the side of it.  The calibration 
+sticker has the cpm value that source reads with the probe of the instrument.  Put the probe on 
+the source to ensure it deflects off the first scale.  At least once a week you should adjust the 
+scale when performing this check to ensure you get within ±20% of the value on the sticker. 
+Prior to surveying, note the background level of the meter by turning it on in an area that should not 
+have any radiation sources present.  While surveying if you find 100 cpm above background and is 
+repeatable, that is likely contamination and should be addressed. 
+When surveying with a hand-held instrument, move the probe slowly, no faster than 2 inches per
+
+--- Chunk 57 ---
+When surveying with a hand-held instrument, move the probe slowly, no faster than 2 inches per 
+second and keep the probe within ½” of the surface being measured. Be careful not to touch the surface 
+with the probe, as it can be difficult to decontaminate a probe.  Never cover the probe with plastic wrap 
+or anything else as this prevents beta particles from reaching the probe. 
+If the general background from nearby radiation sources (i.e. waste or source storage areas) reaches 200 
+cpm on an instrument, you have to survey more slowly to find low-level contamination.  You should 
+consider shielding or moving those sources of radiation while surveying for contamination.  If this is not 
+feasible, you can do a smear survey in a high background area OR if you need to do a quick check of an 
+area to ensure contamination from high-energy beta emitters is not present, take an area wipe with 
+absorbent paper or a Kimwipe, move to a low background area and survey the wipe with the instrument
+
+--- Chunk 58 ---
+probe. 
+If you are unsure of the radionuclide from contamination found with a pancake GM, there are some 
+techniques to narrow down the possibilities.  First, turn the probe over – if the count rate drops to 
+essentially zero, it is a pure beta emitter.  Second, place a thick card (index card works) between the 
+probe window and the contamination – if the count rate drops noticeably, it is a low energy beta 
+emitter. 
+Radiation Dose vs. Contamination 
+One thing to keep in mind when using a pancake probe is that it tells you nothing about the dose rate to 
+the whole body.  This is due to how the instrument works.  If radiation interacts with a gas molecule 
+within the detection chamber, it sets off an ionizing avalanche that creates an electrical pulse signal.  
+The pulse size is the same no matter what the energy of the incident radiation was – if it can penetrate 
+the detector window, it generates a pulse.  The instrument is actually counting how frequently the
+
+--- Chunk 59 ---
+the detector window, it generates a pulse.  The instrument is actually counting how frequently the 
+pulses are occurring (thus a count rate).  Since dose is defined as energy per mass of something (such as 
+air or tissue), not being able to discern the energy makes it impossible to use the instrument for a dose 
+rate measurement.   
+If a lab is concerned about the dose rate from their work, waste containers, source storage or from 
+something nearby, DRS can visit and take dose rate measurements with an instrument meant for that 
+purpose. 
+Liquid Scintillation Counting
+
+--- Chunk 60 ---
+18 
+ 
+Use smears or swipes that will dissolve in the LSC cocktail being used.  Smear a reasonably sized area 
+when conducting a smear survey; otherwise, the location of a contaminated smear might be hard to 
+determine.  Ensure your LSC is working by using a check source (internal or external radioactive 
+standard).  DRS recommends an annual calibration by the manufacturer.  Include a blank smear with 
+your set of smears as a background to ensure cross-contamination is not occurring.  Be sure to apply a 
+counting efficiency to any positive results (consult user manuals for the specific machine or contact DRS 
+for estimates).  Note that erroneous results can occur from chemiluminescence (chemical reactions in 
+the cocktail instead of radiation).  This can usually be counteracted by dark-adapting the samples for at 
+least 30 minutes (store them inside the counter with the lid closed). 
+ 
+ 
+Selection of Monitoring Method
+
+--- Chunk 61 ---
+Selection of Monitoring Method 
+The chart below shows the recommended monitoring method for nuclides commonly used at NIH.  If 
+you are using something not in this chart you can contact your Area Health Physicist for guidance: 
+Nuclides 
+For personnel or check 
+for gross lab 
+contamination: 
+For verifying a lab is 
+not contaminated at 
+the lab limits (end of 
+day or spill surveys) 
+Notes 
+H-3, Fe-55, Ni-63 smears smears 
+Very low energy beta 
+emitters that cannot be 
+detected by hand-held 
+instruments 
+C-11, N-13, F-18, P-32, 
+Cl-36, Mn-51, Fe-59, 
+Zn-65, Cu-64, Ga-68, 
+Br-76, Y-86, Y-88, Sr-90, 
+Tc-94m, I-131, Lu-177, 
+Bi-205  
+Pancake GM probe Pancake GM probe High-energy beta or 
+beta/gamma emitters 
+C-14, P-33, S-35, Ca-45, 
+Cr-511, Mn-521, Zn-651, 
+Ga-67, Se-75, Zr-891, I-
+1241, 
+Pancake GM probe smears Low energy beta 
+emitters 
+I-125, I-129 NaI probe or smears smears Very low energy x-
+ray/gammas 
+Tc-99m, In-111, I-123, 
+Gd-153, Tl-201, Pb-203 
+Pancake GM probe or
+
+--- Chunk 62 ---
+ray/gammas 
+Tc-99m, In-111, I-123, 
+Gd-153, Tl-201, Pb-203 
+Pancake GM probe or 
+NaI probe smears Low energy x-
+ray/gammas 
+At-211, Pb-212, Bi-213, 
+Ra-223, Ra-224, Ac-
+225, Ra-226, Th-227, 
+Am-241 
+ZnS probe ZnS probe 
+Alpha emitters; a 
+pancake probe can be 
+used if ZnS meter fails 
+1 – These nuclides emit energetic particles or gammas.  However, the percentage of the time they decay this way is small.  
+Thus, when these are detected by a hand-held instrument the contamination level is well above the lab limits.
+
+--- Chunk 63 ---
+19 
+ 
+Contamination limits are in disintegrations per minute (dpm), whereas hand-held instruments read out 
+in counts per minute (cpm).  To get dpm from the cpm value, simply take the cpm and divide by the 
+efficiency of the meter for that nuclide.  P32 efficiencies are provided on the calibration sticker.  Typical 
+efficiencies are estimated below.  For example, 1,000 cpm of P32 would be (divide by 0.25) 4,000 dpm 
+while 1,000 cpm of C14 (divide by 0.05) would be 20,000 dpm. 
+ 
+ 
+ 
+Estimates of detector efficiencies for selected nuclides: 
+Nuclides Detection Efficiency Estimates 
+H-3, Fe-55, Ni-63 not detectable 
+Cr-51, Zn-65, Ga-67, Tc-99m, In-111, Tl-201 1-2% (pancake GM) 
+C-14, P-33, S-35, Ca-45, Mn-52, Zr-89, I-124 5% (pancake GM) 
+Cu-64, Br-76, Y-86, Lu-177 10-15% (pancake GM) 
+I-125, I-129 15-20% (NaI probe) 
+F-18, Ga-68, Tc-94m 20% (pancake GM) 
+At-211, Pb-212, Bi-213, Ra-223, Ra-224, Ac-225, 
+Ra-226, Th-227, Am-241 
+20% (ZnS probe)
+
+--- Chunk 64 ---
+At-211, Pb-212, Bi-213, Ra-223, Ra-224, Ac-225, 
+Ra-226, Th-227, Am-241 
+20% (ZnS probe) 
+C-11, N-13, P-32, Cl-36, Mn-51, Sr-90 25% (pancake GM) 
+ 
+The removable contamination limits in NIH laboratories are as follows: 
+ Beta/gamma emitters Alpha emitters 
+Posted area 2,200 dpm/100 cm² 220 dpm/100 cm² 
+Unposted/Unrestricted areas 220 dpm/100 cm² 22 dpm/100 cm² 
+ 
+Non-removable contamination is evaluated by DRS on a case by case basis to determine whether further 
+decontamination is necessary. 
+Shielding 
+If you are working with high-energy beta emitters, you must use plexiglass shielding (beta shield) to 
+reduce your exposure.  If you are using a gamma emitter, DRS will advise on a thickness of lead shielding 
+recommended for keeping exposures ALARA.  Never use lead for pure beta emitters like P-32, as doing 
+so produces Bremsstrahlung x-ray radiation from beta particles interacting with dense materials.  This
+
+--- Chunk 65 ---
+creates an exposure hazard where there had been none with plexiglass.  If you are working with a high-
+energy beta-gamma emitter, shield with the heavy plastic first, then lead closest to the worker. 
+Additional Requirements 
+If you are working under a DRS protocol or an Animal Study Proposal (ASP), there may be additional job-
+specific requirements imposed by DRS.  Any additional requirement will be communicated to the lab as 
+part of the approval process for these types of procedures.
+
+--- Chunk 66 ---
+20 
+ 
+Collaborating with Outside Entities 
+Researchers sometimes wish to collaborate with another institution with their research involving 
+radioactive materials.  This can involve wanting to send radioactive materials (raw materials, labeled 
+cells, etc.) to another location.  There are numerous Department of Transportation (DOT) regulations 
+surrounding the shipment of radioactive materials on public highways.  Therefore, DRS must be 
+contacted to ship radioactive materials of any amount to a location outside the boundaries of the main 
+campus, even if it is to another NIH-owned site.  DRS will package the item in accordance with DOT 
+requirements and ship it to the intended destination.  Note that DRS requests 1 week notice for shipping 
+radioactive items, as it is necessary to do some prep work in advance of the shipment, such as verifying 
+the recipient is licensed to possess the radioactive material. 
+Radioactive Waste
+
+--- Chunk 67 ---
+the recipient is licensed to possess the radioactive material. 
+Radioactive Waste 
+Minimizing the amount of radioactive waste should be a goal of anyone working with radioactive 
+materials to reduce disposal costs and environmental impact.  However, some radioactive waste is 
+inevitable.  Some general requirements are delineated below.  For more details on a particular type of 
+radioactive waste, see the Radioactive Waste section
+ of the DEP Waste Calendar.  
+Radioactive waste should be segregated in the following ways: 
+• Solid vs. Liquid – step cans with a plastic bag are provided for solid wastes and carboys are 
+provided for liquid radioactive waste collections.  Step cans should not be overflowing – 
+schedule pickups to prevent this.  Never fill the liquid waste carboys past the marked fill line.  
+Except for washing skin contamination off, NEVER put liquid radioactive waste down any NIH 
+sink.
+
+--- Chunk 68 ---
+sink.   
+• Half-life segregation – all radioactive waste with a half-life greater than 120 days should be kept 
+separate from those with a half-life less than that.  Labs may not “decay in storage” any 
+radioactive waste, regardless of how short the half-life is.  Have all radioactive waste collected 
+by DRS, who will conduct proper and formalized decay in storage to meet regulatory guidelines 
+for any waste that can be decayed in storage. 
+• Mixed waste vs. Regular Radwaste – any radioactive waste that contains another hazard 
+(flammable, oxidizer, organic etc.) must be kept separate from radwaste with no other hazards.  
+Consult the waste calendar to ensure your mixed waste is being collected properly based on 
+what your lab is working with. 
+Radioactive waste containers should be located in a defined area of the lab, with the floor underneath 
+lined with absorbent paper or equivalent.  Liquid waste carboys should be inside a secondary spill
+
+--- Chunk 69 ---
+lined with absorbent paper or equivalent.  Liquid waste carboys should be inside a secondary spill 
+container.  Radioactive waste is subject to the DRS Security Policy and therefore must be locked up 
+within the lab or else the lab door must be locked when unoccupied. 
+Take care when transferring waste from the work area to the waste container to avoid contaminating 
+the traverse area or the exterior of waste containers. 
+Disposal Information 
+Anything that is contaminated with radioactive material that cannot be completely decontaminated 
+must be picked up as radioactive waste.  DRS collects radioactive waste on a standing schedule or
+
+--- Chunk 70 ---
+21 
+ 
+through ad hoc pickups.  Either can be arranged through the AU Portal or by calling 301-496-4451.  Note 
+that off-campus locations may only do standing pickups on a specific day of the week.  All radioactive 
+waste containers must be labeled with Caution Radioactive Material Tape/Labels and also have a 
+Radioactive Waste Tag completed and attached. 
+Source Vial Disposal 
+Empty source vials may be disposed as dry radioactive waste.  Unused or partially used vials should be 
+placed in a small cardboard box with its own radioactive waste tag for pick up. 
+Medical Pathological Waste (MPW) Disposal 
+General MPW must be double bagged and packaged in MPW boxes.  Label the boxes as radioactive 
+material and include a radioactive waste tag, in addition to writing directly on the box the origin of the 
+box. 
+If storing animal carcasses while awaiting pickup, the MPW boxes must be refrigerated if stored >4 
+hours and frozen if >24 hours.
+
+--- Chunk 71 ---
+hours and frozen if >24 hours. 
+Note that some animal facilities may have larger totes for marshalling MPW waste.  These are intended 
+for non-radioactive wastes, although the totes are surveyed externally for signs of radiation prior to 
+being sent off campus. 
+Infectious Materials 
+Radioactive waste that also contains infectious agents must be inactivated biologically prior to pickup by 
+the Radioactive Waste Service.  Note that use of an autoclave on radioactive items has a specific 
+procedure: 
+• Label the autoclave as radioactive prior to starting 
+• Two autoclavable bags must be used 
+• Add 50 mL water to the inner bag and seal each bag separately 
+• The bags shall be placed in a pan for transport and autoclaving 
+• Process for at least 60 minutes at 121 degrees C 
+• After cooling, label the bag(s) as radioactive and attach a radioactive waste tag 
+• Survey the interior of the autoclave with a portable detector (high energy beta or gamma 
+nuclides) and smears (all cases)
+
+--- Chunk 72 ---
+nuclides) and smears (all cases) 
+• If the above survey finds no contamination, remove the label affixed in the first step 
+Sharps Disposal 
+Use the red puncture resistant containers for needles, syringes or anything sharp.  Label the container as 
+radioactive and include a radioactive waste tag. 
+LSC Vial Disposal 
+Separate out groups of vials by radionuclide (except H-3 and C-14 may be disposed together) and place 
+in cardboard trays.  The tray must be labeled as radioactive material (not each vial) and a radioactive 
+waste tag is required.
+
+--- Chunk 73 ---
+22 
+ 
+Emergencies Involving Radioactive Materials 
+Despite the best intentions of everyone, accidents do happen in the laboratory involving radioactive 
+materials.  Following the proper course of actions following a contamination event will limit the spread 
+of contamination and reduce the likelihood of appreciable exposures from the event. 
+A spill is simply radioactive material where it is not wanted.  When a spill occurs or is discovered, the lab 
+needs to take actions to determine its extent, minimize the spread, ensure others are aware in the lab of 
+the contamination and to get the contamination cleaned up.  You MUST notify DRS (see notification 
+table below) if any of the following situations arise: 
+• Anyone is injured or contaminated with radioactive material 
+• Contamination is found outside posted spaces or in obvious unrestricted areas such as sinks or 
+internal offices 
+• Greater than 1 mCi of activity is involved 
+• Greater than 1 liter of radioactive liquid is involved
+
+--- Chunk 74 ---
+• Greater than 1 liter of radioactive liquid is involved 
+• The spill area covers more than 10 ft² (not necessarily continuous) 
+DRS is happy to respond to contamination events that do not meet the above criteria. 
+How to contact DRS for emergencies involving radioactivity - 
+For fire or serious emergencies, call 911 on campus and 9-911 off-campus 
+ On-campus IRF at Frederick All other off-campus 
+Normal working hours     
+(7 a.m. to 5 p.m., Mon-Fri) 
+301-496-5774 301-631-7226 or  
+301-496-5774 
+301-496-5774 
+Off-hours 911 301-496-5685 and ask for 
+radiation safety assistance 
+301-496-5685 and ask for 
+radiation safety assistance 
+ 
+Spill Clean-up 
+In general, lab staff cleans inside their posted spaces and DRS cleans unrestricted areas. 
+NEVER ask housekeeping staff to assist cleaning radioactive spills and do not borrow their equipment. 
+When cleaning a spill, wear a lab coat, gloves and shoe covers/booties.  Start at the outer edges of the
+
+--- Chunk 75 ---
+spill and work inward.  Minimize the amount of water added to the spill clean-up.  Treat all cleaning 
+materials as radioactive waste.  Check your gloves and shoe covers for contamination regularly during 
+clean-up operations, limit the movement of people and materials inside/outside the spill area and check 
+all impacted lab staff carefully for contamination.  Once you believe the spill is cleaned, monitor the spill 
+area with a hand-held instrument (if appropriate for the nuclide) and follow-up with a smear survey to 
+declare the area contamination free.  If you find contamination with the meter that will not come up, 
+notify DRS so that they can confirm the contamination is fixed and evaluate if any further actions 
+(covering for decay, removing floor tile, etc.) are necessary. 
+During the clean-up be sure to let others in the area know there is a spill and to stay away from the area.  
+Mark the area(s) as best you can.
+
+--- Chunk 76 ---
+23 
+ 
+Skin Contamination 
+If you find contamination on clothing or PPE, remove the top layer and survey underneath.  Bag up any 
+contaminated clothing for decay or disposal as radioactive waste. 
+If you find contamination on the skin, notify DRS immediately. It is important to get a quantified 
+measurement with the instrument used.  If the instrument reads higher than the highest scale you can 
+try the following techniques to get a usable reading: 
+• Cover the probe with thick paper or plastic, but not so much that it blocks all the beta particles.  
+Once you get a value on the instrument that is not off the highest scale, note what was used to 
+shield the probe for that reading and DRS can figure out the true unshielded value 
+• If the lab has an exposure rate meter with a window, open the window and measure the skin.  
+DRS can do an experiment later to quantify the amount of contamination
+
+--- Chunk 77 ---
+DRS can do an experiment later to quantify the amount of contamination 
+Do not unduly delay decontaminating the skin.  Attempt to wash it off in the nearest sink.  This is the 
+only exception to the sink disposal prohibition.  After wiping/washing, take a new measurement and 
+document.  Use gentle methods to remove skin contamination.  Keep going until the contamination 
+level no longer drops or if the skin begins to redden.  If decontamination continues on damaged skin it 
+could internalize the contamination which is usually a worse result that leaving it on the skin. 
+DRS may instruct the worker to wear something over any non-removable skin contamination to keep it 
+contained should the contamination start to work its way off the skin.  DRS will follow-up the day after 
+to re-check the contamination to see if it is reducing at a faster rate than physical decay.  Based on the 
+initial measurements and subsequent follow-up, DRS will calculate an estimated skin dose from the
+
+--- Chunk 78 ---
+initial measurements and subsequent follow-up, DRS will calculate an estimated skin dose from the 
+contamination. 
+If the skin contamination is in the facial area DRS may request the worker undergo a bioassay to verify 
+radioactivity was not inhaled/ingested.  DRS may also do some basic field measurements that determine 
+the likelihood of that occurring. 
+Eye contamination 
+Immediately flush the eyes with water and notify/report to OMS.  Alert DRS who will report to OMS to 
+monitor the contamination. 
+Medical Emergencies 
+Life-saving ALWAYS takes precedence over contamination issues.  If something happens and you would 
+normally dial 911 for emergency response, do that without regard to radiological contamination issues 
+that might be present.  Someone in the lab should additionally notify DRS who will perform monitoring 
+of the lab and follow-up with first responders once the emergency is over.
+
+--- Chunk 79 ---
+of the lab and follow-up with first responders once the emergency is over. 
+If there is a minor injury involving radioactive material, notify DRS so that they can accompany the 
+worker to OMS who will want to know the contamination status of anyone who visits their clinic.
+
+--- Chunk 80 ---
+24 
+ 
+Other Kinds of Emergencies 
+For floods or fires in a posted lab, notify DRS when safe to do so.  DRS will conduct surveys of the 
+affected area once first responders deem it physically safe to enter.  Do not dispose of collected flood 
+water (from a flood event or fire response) without DRS sampling it first. 
+Lost Material 
+If you believe a radioactive source vial has gone missing, conduct a thorough search in your lab.  Check 
+to see that it wasn’t disposed as radioactive waste or in a non-radiological disposal outlet.  Check other 
+freezers and storage areas within the lab and check with staff in neighboring labs, as well as asking 
+everyone who is listed on the U/D sheet if they know where it is.  Once it is evident the source is 
+missing, notify DRS immediately, as under some circumstances it is necessary to notify the NRC of lost 
+material.  DRS will come to the lab and attempt to locate the source vial in addition to verifying it was
+
+--- Chunk 81 ---
+not picked up as radioactive waste and brought back to Building 21. 
+DRS Oversight Activities 
+DRS is obligated by NRC regulations and license commitments to ensure workers, patients and visitors 
+are protected from unnecessary exposure.  For workers, this means ensuring contamination and 
+exposure limits are observed and work practices are utilized to minimize exposure from working with 
+ionizing radiation. 
+Because NIH is a large program with regard to ionizing radiation, DRS relies on its Authorized Users to 
+implement day-to-day oversight within the labs. For procedures that are novel or involve larger 
+potential for exposure, DRS may observe procedures in the lab.   
+In general DRS conducts its oversight through its comprehensive survey and lab inspection program.  
+While a lab using radioactive material must conduct a survey at least once a day it is used, DRS or its 
+contractors will conduct an unannounced monthly evaluation of all posted rooms and will do a
+
+--- Chunk 82 ---
+contractors will conduct an unannounced monthly evaluation of all posted rooms and will do a 
+contamination survey regardless if any radioactive material was used during the month.  Additionally, all 
+posted spaces and adjacent corridors undergo a comprehensive inspection at least twice a year.  In 
+addition to conducting radiation and contamination surveys, a number of other radiation safety 
+inspection items are evaluated, such as use of absorbent paper and PPE, radioactive waste 
+management, radioactive material security and appropriate monitoring is being performed within the 
+lab.  The inspection also includes looking at records to ensure DRS requirements are being carried out.  
+Minor findings may be corrected on the spot, with some infractions being followed up by an Area Health 
+Physicist. 
+Labs with histories of non-compliance or who use larger quantities of high-energy radioactive materials 
+undergo these comprehensive inspections more often.
+
+--- Chunk 83 ---
+undergo these comprehensive inspections more often. 
+Annually all AUs undergo a material inventory to reconcile DRS records with what is actually in the lab.  
+Even AUs with no inventory will be visited to ensure source vials are not physically present that may 
+have inadvertently been cleared from an AU’s record.  Additionally, several aspects of the AU’s 
+intersection with DRS will be reviewed to ensure our records are accurate.  The AU Audit, a 
+comprehensive look at AUs over the previous 2 years, was discontinued in 2020 and folded into the 
+annual inventory for a much more streamlined process for both the AU and DRS.
+
+--- Chunk 84 ---
+25 
+ 
+Separately, sealed sources of radioactivity are inventoried every 6 months and tested for leakage by DRS 
+in accordance with NRC requirements.   
+NRC Oversight Activities 
+As the regulator of most radioactive materials and the issuer of NIH’s licenses to possess them, the NRC 
+conducts oversight of how DRS implements and complies with all relevant regulations and license 
+commitments.  The NRC conducts unannounced routine inspections on a recurring frequency.  During 
+these inspections they immerse themselves in the NIH radiation safety programs.  The NRC visits 
+laboratories who use radioactive materials and talks with lab staff to see if they know DRS policies and 
+general radiation safety principles.  For procedures with more exposure potential they may observe a 
+procedure or ask lab staff to demonstrate how they comply with policies. They also closely scrutinize 
+DRS’ recordkeeping and procedures.
+
+--- Chunk 85 ---
+DRS’ recordkeeping and procedures. 
+The NRC may also conduct inspections after specific radiation safety incidents that have come to their 
+attention either through DRS notifying them as required or if a radiation worker contacts them directly. 
+In all cases, if the NRC contacts or visits you, please cooperate with the inspector(s).  Answer all 
+questions truthfully to the best of your ability.  If you do not know the answer then say so.  The penalties 
+for misleading the NRC are very steep, so always be straightforward, even if it means the answer might 
+violate a policy or regulation.   
+All NRC inspections culminate in a written report that outlines any violations or findings that NIH should 
+address.  Severe or repeated violations can result in monetary fines to the NIH or restrictions on NIH’s 
+ability to possess radioactive material.  Radiation workers have the right to see this inspection report, 
+which is posted publicly in Building 21 or a copy can be requested.
+
+--- Chunk 86 ---
+which is posted publicly in Building 21 or a copy can be requested. 
+Working with Radioactive Materials in Clinical Applications 
+The NIH has an extensive clinical program that includes using radioactive materials for diagnostic and 
+therapeutic purposes.  The NRC regulates how radioactive materials are used in these contexts in 10 CFR 
+35, in addition to license commitments. 
+For any human administration of radioactivity, there must be a Clinical Authorized User (CAU) who has 
+been approved by the NIH RSC in accordance with 10 CFR 35.  The CAU then has specific protocols for 
+human administration approved by the RSC as well.  The CAU is responsible for prescribing the 
+radioactive dose for specific procedures and the radioactive material is delivered to an RSC-approved 
+radiopharmacist who dispenses the correct amount of radioactivity for the administration.  Note that for 
+diagnostic procedures involving I-131 in an amount greater than 1.11 MBq (30 µCi) and ALL therapeutic
+
+--- Chunk 87 ---
+doses of radioactive material, a written directive must be completed by the CAU.  See the Therapeutic 
+Procedures section below for details on the written directive. 
+Diagnostic Procedures 
+For diagnostic procedures, small amounts of radioactive material are administered to a patient.  After a 
+brief (up to an hour) uptake period, the patient is evaluated on a radiation scanner, then released to go 
+home.  The radionuclides used have half-lives ranging from 2 minutes up to a few days.  Thus, some 
+patients are still radioactive when they are released from the diagnostic clinic.  The exposure hazard to 
+anyone around them is low – NRC regulations require any patient with the potential to give 500 mrem
+
+--- Chunk 88 ---
+26 
+ 
+dose to another person must be quarantined at the facility where the administration occurred.  Patients 
+who do not meet that standard are allowed to leave.  Patients are given instructions on how to minimize 
+exposure to others and to limit contamination in their homes.  Radioactive contamination is possible 
+from any form of excretion from the patient (urine, sweat, etc.) and the extent depends upon the 
+radiochemical used and how the body processes it (the same as if the compound were non-radioactive).  
+Pathology samples from diagnostic procedures contain trivial amounts of radioactivity and are not 
+labeled as radioactive.  DRS is generally not directly involved in diagnostic administrations, except for 
+ones involving I-131. 
+Therapeutic Procedures 
+For therapeutic procedures, larger amounts of radioactive material are administered to a patient, or 
+patients are exposed to high doses of radiation from a radioactive sealed source.  DRS is heavily involved
+
+--- Chunk 89 ---
+in the safety procedures that are followed by the nursing staff in caring for these patients and is 
+frequently present during the administration of radiopharmaceuticals.  As with diagnostic procedures, 
+the CAU and the protocols involved are approved by the RSC.  For new therapy applications, there must 
+be extensive consultation with DRS well in advance (months) to ensure that NIH is licensed to conduct 
+the intended radiotherapies.  Therapies involving sealed sources or external radiation beams from a 
+radioactive source may involve implementation of physical security requirements and significant 
+radiation shielding is likely needed.  Amendments to the NIH Broad Scope License generally take 2-6 
+months and require approval by the RSC and NIH Senior Management to proceed.  Additionally, DRS will 
+develop specific safety operating procedures that highly depend upon the specific radionuclide, the
+
+--- Chunk 90 ---
+location of the therapies and whether the patient must be quarantined for some period of time.   
+All therapeutic procedures require a written directive.  The written directive specifies the nuclide, the 
+amount administered and the route of administration, in addition to other basic information. It must be 
+signed by the CAU in advance of the administration.  A written directive can be changed by the CAU as 
+long as it is prior to administration of the radiopharmaceutical.  In a medical emergency that threatens 
+the life of the patient, this can be an oral change so long as a written change is done as soon as possible.  
+For new therapies, DRS will work with the CAU on ensuring a written directive template and 
+implementing procedures are in place that comply with 10 CFR 35.40 and 35.41
+.  If an 
+overdose/underdose occurs, the radioactivity was the wrong nuclide/drug, the administration was the
+
+--- Chunk 91 ---
+wrong method or the wrong person was dosed, DRS must be notified immediately as it will be necessary 
+to evaluate the potential dose consequences to the patient and NRC notification may be required. 
+If a patient received enough radioactivity to cause someone near them to receive 500 mrem dose if they 
+were sent home, he/she must be quarantined until that is no longer true.  Quarantine rooms are 
+restricted for entry to only nursing staff involved in caring for the patient’s medical needs.  All nursing 
+staff for quarantine therapies receive specific annual training in contamination and exposure control 
+procedures.  All objects within the quarantine room are monitored for contamination before release 
+outside the room. 
+All pathology samples from therapeutic administrations must be labeled as radioactive for the benefit of 
+the staff who process these samples and to ensure they are not inappropriately disposed as non-
+radioactive.
+
+--- Chunk 92 ---
+27 
+ 
+Once a patient is released from quarantine through DRS survey or other established method, he/she is 
+given instructions on how to minimize contamination and radiation exposure to others.  DRS must 
+formally survey and release the quarantine room before general access can be restored. 
+Radiological Clearances 
+De-posting a Lab 
+If a lab no longer needs radioactive materials for storage or use, the Authorized User should initiate the 
+DRS Clearance process.  If the lab has not used or stored radioactive materials for 12 months or more, 
+DRS will strongly suggest a clearance.  Note that a lab can be reactivated with DRS within 48 hours if 
+needed. 
+To clear a lab from radiation safety controls, the AU needs to have all radioactive waste and the waste 
+containers moved to another lab that will remain posted or picked up by the Radioactive Waste Service.  
+Any item labeled with Caution Radioactive Material tape must be surveyed by the lab and once shown
+
+--- Chunk 93 ---
+Any item labeled with Caution Radioactive Material tape must be surveyed by the lab and once shown 
+non-contaminated, the tape must be removed.  Alternatively, labeled items can be moved to a lab that 
+will remain posted. 
+Once all radioactive items are gone, the AU shall conduct a smear survey of the lab to establish it is not 
+contaminated.  DRS will then come and conduct a more thorough survey that will take into account 
+whether the lab is being renovated or gutted, and will consider the entire known radiological history of 
+the space.  A checklist
+ for the process the AU needs to follow is available. 
+Note that only DRS can remove the door posting for radioactive materials. 
+Moving Your Lab to Another Building 
+If you are moving the lab to another building, follow the steps above to inactivate the old space.  
+However, if source vials need to be moved, please contact DRS who will come to the lab, inventory the
+
+--- Chunk 94 ---
+source vials, store them in Building 21 and deliver them to the new location once it is set up and posted.  
+The lab may move labeled items to the new location (must be posted by DRS) and may move 
+contaminated items (petri dishes, tubes, etc) so long as they are in double containment (bag in a box, 
+etc.) to prevent contamination escaping during transit. 
+Minor Renovations 
+If a portion of the lab will undergo renovation or repair (e.g. sink replacement, shelf removal, etc.), 
+contact DRS who will survey the portion of the lab involved and post a “partial clearance” sticker which 
+explicitly indicates to construction staff what part of the lab is released for their work.  Lab staff should 
+not re-introduce radioactive items into the renovation area until the project is complete. 
+Clearance of Items and Equipment 
+Any item that was labeled as contaminated must be surveyed by the lab prior to removing labels and
+
+--- Chunk 95 ---
+Any item that was labeled as contaminated must be surveyed by the lab prior to removing labels and 
+allowing the item to leave a posted space for repair, surplus, etc.  This also includes equipment such as a 
+freezer that was used to store radioactive items.  Labs conduct these surveys themselves.  However, in 
+the case of equipment with complicated internals that were subject to radioactive liquid, it is best to 
+contact DRS for advice on the best way to conduct a meaningful survey.
+
+--- Chunk 96 ---
+28 
+ 
+For releasing fume hoods that were used for volatile radioactivity, contact DRS to conduct a release 
+survey.   
+For LSCs and gamma counters that have internal sources, DRS must be involved in the clearance process.  
+If a counter is being moved off campus or surplussed, the internal source MUST be removed by a 
+qualified service technician who will formally ship the source to wherever the counter is going.  Once 
+the source is removed, DRS will perform a contamination survey of the counter and put a clearance 
+sticker on it.  For moving an LSC within the main campus, the source does not have to be removed.  
+However, it is recommended that the lead be removed by a qualified service technician to prevent 
+shifting which can damage the internals of the counter or breach the internal source. 
+Surplussing radiation-producing devices (x-ray units) requires no DRS involvement other than notifying 
+DRS the unit has been removed from service.
+
+--- Chunk 97 ---
+DRS the unit has been removed from service. 
+Generally Licensed devices (sniffers, gas chromatographs, etc.) can only be disposed through 
+coordination with DRS to ensure all requirements of 10 CFR 31 are followed.  Contact DRS for guidance 
+on how to get rid of these kinds of items. 
+Housekeeping in a Posted Lab 
+DRS allows housekeeping in posted spaces.  The AU must ensure by surveying that the floor is not 
+contaminated prior to allowing mopping.  Additionally, radwaste containers must be moved (plus survey 
+where they were) out of the area being cleaned.   
+Non-radioactive trash may be removed by housekeeping without specific additional steps.  It is very 
+important that radioactive items/trash is never disposed in the regular trash. 
+Radiological Clearances for Major Renovations 
+For construction projects that involve substantial structural modifications to a room or series of rooms;
+
+--- Chunk 98 ---
+gutting entire laboratories, wings of buildings or entire buildings; or converting lab buildings to office 
+buildings, there is substantially more DRS involvement in the process. 
+Any construction project involving a space that involves or will involve a radiation safety interest gets 
+routed through DRS for review as part of the design phase of the project.  DRS then researches the 
+radiological history of the affected spaces to determine how much DRS involvement is required at any 
+stage of the project.   
+For spaces that DRS determines had a history with long-lived radioactive materials at any point in the 
+past, DRS will conduct additional contamination surveys.  Depending on the nature of the project this 
+could be when the lab is emptied, when certain structures are removed, or both.  DRS works with the 
+Division of Environmental Protection (DEP) and the Project Officer for the project to make DRS
+
+--- Chunk 99 ---
+Division of Environmental Protection (DEP) and the Project Officer for the project to make DRS 
+requirements known and coordinate when the project needs to pause for DRS surveys. 
+DRS surveys generally are 100% surveys of the spaces.  However, if the footprint of a project makes it 
+impractical for DRS to conduct 100% surveys in a timely manner relative to the project schedule, the 
+NRC permits a surveying scheme that employs a statistically defensible proportion of survey coverage.  
+At NIH this is accomplished via a MARSSIM (Multi-Agency Radiation Survey and Site Investigation 
+Manual) survey.  A contractor (through DEP with DRS consultation) is hired at the expense of the project
+
+--- Chunk 100 ---
+29 
+ 
+to perform the MARSSIM survey that will allow free release of the affected area.  This survey is done in 
+concert with other environmental clearances (mercury, asbestos, etc.) administered by DEP.  Once a 
+final report is produced by the survey contractor, DRS reviews it.  For an off-campus space that will be 
+relinquished from NIH control, this report MUST be reviewed by the NRC prior to allowing 
+relinquishment.  NRC review takes 90 days and they sometimes visit the site to do an independent 
+inspection of the location and the survey process used.  DRS recommends building a 6-month time 
+frame for NRC review into any project that in the end will relinquish an off-campus space from NIH 
+control. 
+For on-campus areas, the NRC reserves the right to inspect the clearance process and report before 
+allowing renovations to begin.  Traditionally they have only reviewed on-campus clearances during
+
+--- Chunk 101 ---
+allowing renovations to begin.  Traditionally they have only reviewed on-campus clearances during 
+routine license inspections.  However, for large scale renovations or entire building demolitions, the NRC 
+may exercise this right in the future. 
+Construction and Commissioning New Facilities 
+New construction or renovation of NIH lab spaces may result in facilities that utilize radiation or 
+radioactivity.  Projects where this is clearly the point of the project get routed through DRS as part of the 
+design phase.  If the project results in labs working with radioactivity in traditional ways, DRS 
+involvement is generally limited to formally posting the space for radioactive materials once DRS 
+determines it is appropriate to do so. 
+For projects involving radiation producing devices or Positron Emission Tomography (PET) scanners 
+(animal or human), contact DRS as soon as it is known these devices are part of the project.  Shielding
+
+--- Chunk 102 ---
+evaluations will need to be conducted on the spaces where these types of equipment will be housed. 
+For projects involving significant quantities of radioactive materials in use all at once (tens of mCi or 
+more), contact DRS as soon as that is known.  DRS will need to specify shielding requirements for any 
+transfer lines or hot cells employed to handle large amounts of radioactive materials safely.  There may 
+also be exhaust effluent issues to consider.  Note that in some cases it may be necessary to obtain RSC 
+approval and/or an amendment to the NRC license. 
+It is crucial to contact DRS at the earliest stages of project conception to ensure the design will 
+incorporate DRS’ requirements.  In addition to ensuring regulatory compliance, this prevents potentially 
+delaying the project or incurring costly changes to a project in progress. 
+Once a new facility involving shielding is completed, DRS will formally commission a facility by taking
+
+--- Chunk 103 ---
+dose measurements of the first use of the facility to verify shielding is correctly installed.
+
+--- Chunk 104 ---
+30 
+ 
+Appendix A 
+The Basic Physics of Radioactivity 
+Radioactivity is the property possessed by a subset of atoms which are unstable (related to neutron-
+proton ratio) and spontaneously emit various energetic particles in an attempt to reach stability.   
+For the purposes of radiation safety discussions, an atom has a nucleus containing neutrons and protons 
+(the total of these constitute the atomic mass) and an orbiting cloud of electrons in energy shells.  The 
+number of protons dictates what element the atom is, while differing numbers of neutrons affect the 
+stability of the overall atom.  Atoms with the same number of protons but different numbers of 
+neutrons are isotopes to one another.  The term isotope is often used to mean radioactive but that is 
+not technically accurate – radionuclide is the correct term. 
+Depending on the ratio of neutrons to protons, a radioactive atom can emit differing particles (called
+
+--- Chunk 105 ---
+disintegration or decay).  For radionuclides commonly used at NIH, the following emitted particles are 
+possible: 
+• Alpha particles – more common among heavier and man-made nuclides, this is a particle made 
+up of 2 neutrons and 2 protons.  Alphas do not penetrate very far in material and are easily 
+shielded by a piece of paper or even the dead layer of skin on the human body.  When ingested, 
+however, they are able to impart all of their energy into a small area (handful of cells at most) 
+and are considered to be the most damaging when internalized 
+• Beta particles – more common among lighter elements, this is an electron being ejected out of 
+the nucleus by virtue of a neutron splitting into a proton and an electron.  Beta particles are 
+emitted in a wide array of energies and the higher the energy the deeper it can penetrate 
+materials such as plastics or live skin cells.   
+• Gamma or X-rays – these often accompany particle emission from atoms.  Gamma rays originate
+
+--- Chunk 106 ---
+• Gamma or X-rays – these often accompany particle emission from atoms.  Gamma rays originate 
+in the nucleus whereas x-rays originate from electrons changing shell locations outside the 
+atom.  Both can penetrate large distances and can only be attenuated by dense materials. 
+• Positrons – in some lighter elements, positron decay can occur.  A proton within the atom 
+converts into a neutron and emits a positively charged electron.  Once emitted it acts like a beta 
+particle until it runs into an electron which annihilate one another and that produces two 511 
+keV gamma rays that are released 180 degrees from each other.  Therefore, positron emitters 
+are a gamma hazard even if gammas are not part of the atom’s decay mechanism. 
+What the above 4 radiation types have in common is that they can ionize atoms they interact with after 
+being emitted from a radioactive atom.  Ionization is the process of knocking electrons out of the orbit
+
+--- Chunk 107 ---
+of an atom.  This does not normally make the impacted atom radioactive but instead causes it to behave 
+differently from a chemical standpoint as its electrical charge has been changed.  When inside a living 
+cell this can disrupt cell function if enough atoms are ionized or if DNA is damaged. 
+Another emission from an atom that is possible (common in nuclear fission) but is only present at NIH 
+during cyclotron operations is the neutron.  Neutrons cannot directly ionize another atom but instead 
+interact directly with a nucleus to lose its energy until a nucleus absorbs it entirely.  Since this changes 
+the neutron to proton ratio in that atom, it may become radioactive and emit any of the 4 radiation 
+types described above.  Because of this, neutrons are said to be indirectly ionizing.
+
+--- Chunk 108 ---
+31 
+ 
+Radioactive Decay 
+Each radionuclide has a unique half-life which is the amount of time it takes for half of the radioactive 
+material to decay.  This is a statistical property of a large quantity of radioactive atoms observed over 
+time.  The time it takes for any one radioactive atom is not predictable and can be any length of time.  
+The half-life cannot be altered by any known means.  Researchers need to take radiological decay into 
+account when procuring radioactive materials for experiments.  The amount of radioactivity at any time 
+t is given by the following equation: 
+A = A0e-λt 
+Where A0 is the original amount of material (or a dose rate) and λ is (ln 2/half-life) 
+Most radionuclides at NIH decay to a non-radioactive atom. Sometimes, though, the progeny 
+(sometimes called daughter) is also radioactive.  Depending on the half-lives of the two species of 
+atoms, there are three scenarios possible:
+
+--- Chunk 109 ---
+atoms, there are three scenarios possible: 
+• If the half-life of the parent is long compared to the progeny, secular equilibrium is reached, 
+where the amount of radioactivity of the progeny is the same as the parent and appears to 
+decay at the same half-life as the parent 
+• If the half-life of the parent is only slightly longer than the progeny, transient equilibrium is 
+reached, where the activity of the progeny builds up to an amount greater than the parent, then 
+decays at the rate of the parent 
+• If the half-life of the progeny is longer than the parent, no equilibrium is reached and the 
+observed half-life of the progeny is constantly changing until all of the parent has decayed away, 
+leaving the progeny to then decay at its own half-life 
+Researchers using gamma emitters in the second and third scenarios above have to be cognizant that 
+the dose rate from their radioactivity may increase for a time before beginning to decline as one would
+
+--- Chunk 110 ---
+expect with radioactivity.  DRS is available to give more detailed information on any nuclides that 
+behave this way. 
+Some radionuclides decay through a series of multiple radioactive elements (decay chain) and it gets 
+very complicated to describe what is happening with each of the radionuclides within the chain after a 
+period of time.  A common example is household radon, which is in the middle of one of these decay 
+chains.  Despite having a half-life of 3.8 days, it is constantly being produced by radioactive parents 
+above it in the chain and therefore never decays out unless the parents (uranium/radium in the ground) 
+are physically removed.  An air sample from a basement with radon decays away at the 3.8-day half-life 
+because the uranium/radium sources are not in the air. 
+Amount of Radioactivity 
+The quantity of radioactive material is normally described in terms of how many decays/disintegrations
+
+--- Chunk 111 ---
+are occurring over time.  The traditional unit for this is the Curie (Ci) which is defined as 1 gram of Ra-
+226.  1 gram of Ra-226 (half-life 1600 years) has 3.7E10 decays per second.  This is a large amount in 
+terms of radioactivity, despite being a small amount of material in terms of its mass.  Because every
+
+--- Chunk 112 ---
+32 
+ 
+radionuclide has a different half-life or rate at which it is decaying, 1 Ci of any other nuclide would have 
+a different mass than 1 gram.  For example, 1 Ci of C-11 (20 min half-life) is 0.001 micrograms. 
+The SI unit for radioactivity is the Becquerel (Bq).  1 Bq = 1 disintegration per second (dps) = 60 dpm.  
+Thus, the Bq is a very small unit. 
+Because the regulations are still mostly using the old Curie-based units, DRS mostly operates with those 
+as opposed to SI units.  Typical radioactive benchwork involves microcurie or millicurie amounts.  The 
+NIH Cyclotron and associated radiochemists do use Curie amounts of radioactivity. 
+Background Radiation 
+Radiation is all around us.  The sources of this radiation are naturally occurring – rocks in the earth and 
+cosmic radiation from space contribute a consistent amount of radiation to any particular geographic 
+location.  Locations that have a higher concentration of uranium/radium in the ground or are higher in
+
+--- Chunk 113 ---
+elevation receive more background radiation.  For example, Denver CO (lots of granite and high 
+elevation) has a higher background radiation dose rate than Miami FL (not much rock and at sea level).  
+The average for the United States as a whole is roughly 1 mrem per day from background sources. 
+Regulatory authorities also consider medical radiation to be part of the background, since this source of 
+radiation is not occupational in nature. 
+NCRP 160 has the most recent analysis of background radiation and combining the medical radiation 
+with the natural background gives an average of 620 mrem per year.  Note that this is a population 
+statistic and any one individual’s actual exposure from these sources can vary pretty widely.  For 
+example, if you have no medical radiation this year, your background exposure will be closer to the 1 
+mrem/day value.  If you received a typical CT scan, your dose total for the year will be closer to 1500
+
+--- Chunk 114 ---
+mrem.  Almost nobody receives the 620 mrem average value in a year.
+
+--- Chunk 115 ---
+33 
+ 
+ 
+Bio
+logical Effects of Radiation 
+The extent to which radiation causes biological effects is dependent upon broad factors such as how 
+much dose was received and over what time frame it was received; age of the individual; radiosensitivity 
+of the cells impacted; and overall health of the individual. 
+Biological effects from radiation are broadly categorized as being prompt (non-stochastic) and delayed 
+(stochastic).  Prompt effects have dose thresholds and are a result of receiving this threshold in a very 
+short period of time.  Examples of prompt effects are burns, hair loss, sterility and radiation sickness.  
+For prompt effects, the higher the dose received – the worse the effect will be.  The chart below shows 
+some prompt effects and the doses required on average to observe them.  Keep in mind that the 
+occupational exposure limit is 5,000 mrem and that 99% of NIH workers do not reach 10% of the limit.
+
+--- Chunk 116 ---
+Biological effects at various doses are shown in the two tables below.  These dose amounts would need 
+to be received in a short period of time to cause the effect. 
+Dose (whole body) Effect 
+5,000 mrem (occupational limit) none 
+10,000 to 50,000 mrem  minor blood changes can be detected 
+50,000 to 100,000 mrem  blood changes plus appreciable risk of cancer increase 
+100,000 to 300,000 mrem  nausea/fatigue with drop in red blood cell production (moderate 
+radiation sickness) 
+300,000 to 500,000 mrem  Nausea/vomiting/diarrhea quickly; 50% fatal with no treatment 
+(severe radiation sickness) 
+500,000 to 1,200,000 mrem  Death likely even with treatment
+
+--- Chunk 117 ---
+34 
+ 
+Dose (localized) Effect 
+300,000 mrem to skin minor radiation burn threshold 
+1,000,000+ mrem to skin major burn including ulceration and necrosis 
+500,000 mrem to scalp temporary hair loss 
+1,000,000 mrem to scalp permanent hair loss 
+20,000 to 500,000 mrem to reproductive organs temporary sterility 
+500,000 to 1,000,000 mrem to reproductive organs permanent sterility 
+ 
+The most common examples of delayed effects are cataracts and cancer.  For delayed effects, there is 
+no specific dose threshold, but rather the probability of the effect increases with the dose received.  
+Additionally, the severity of the effect is not related to the amount of dose received.  Occupational dose 
+limits are designed to limit the increase of probability of these stochastic effects.  Although the data is 
+inconclusive for very low exposures, for regulatory purposes the NRC assumes that any exposure has
+
+--- Chunk 118 ---
+inconclusive for very low exposures, for regulatory purposes the NRC assumes that any exposure has 
+some small increase in the risk for cancer (this mathematical theory is called Linear No-Threshold or 
+LNT).  This is the basis for the ALARA philosophy – to avoid exposure when practical to do so.  The cancer 
+statistic commonly cited (American Cancer Society) is that in a population of 10,000 people, 25% would 
+be expected to die of cancer from all causes.  If they all received 1,000 mrem over a career, then 5 extra 
+people would be expected to die of cancer. 
+What does radiation actually do within the body?  Since it ionizes atoms it interacts with, this changes 
+the electrical charge and therefore how the atom/compound behaves chemically.  This creates free 
+radicals within cells which damage cell structures and cell function.  Radiation can also break DNA 
+strands in a cell nucleus.  If the cell repair works correctly, then there is likely no lasting impact.  If the
+
+--- Chunk 119 ---
+cell repair is imperfect, then the cell may replicate with the wrong DNA sequence and cause a 
+proliferation of incorrect cells which can be harmful.  Another potential outcome is cell death at the 
+time of the radiation interaction, which sounds bad but is actually a good outcome so long as it is not 
+happening to too many cells all at once. 
+The human body has a good mechanism to repair radiation-induced damage.  Because of this, 
+therapeutic radiation can be given in higher amounts over a relatively short period of time instead of all 
+at once which could kill a person. 
+A theoretical delayed effect is genetic – radiation damage to an individual resulting in genetic effects to 
+that individual’s offspring.  However, this has never been observed in human populations. 
+ 
+Occupational Exposure in Context 
+The following table shows various activities and the radiation dose that results.  Note that occupational
+
+--- Chunk 120 ---
+exposures are on the low end of the table and that the table is logarithmic and not linear.
+
+--- Chunk 121 ---
+35 
+ 
+ 
+O
+range represents U.S. background sources 
+Green represents occupational exposures 
+Purple represents regulatory limits 
+Blue represents other (mostly medical) exposures 
+Source for the non-NIH values: American Nuclear Society and World Nuclear Association
+
+--- Chunk 122 ---
+36 
+ 
+ 
+Appendix B 
+Glossary of Terms Related to Radiation Safety 
+ALARA: Acronym for ”As Low As Reasonably Achievable”, means making every reasonable 
+effort to maintain exposures to ionizing  radiation as far below the dose limits as practical, 
+consistent with  the purpose for which the licensed activity is undertaken,  taking into account 
+the state of technology, the economics of improvements in relation to state of technology, the 
+economics of improvements in relation to benefits to the public health and safety, and other 
+societal and socioeconomic considerations, and in relation to utilization of nuclear energy and 
+licensed  materials in the  public interest. 
+ALI: Acronym for “Annual Limit on Intake”, which is the amount of a radionuclide taken 
+internally that will result in an effective dose of 5,000 mrem (annual occupational limit).  These 
+values are prescribed in NRC Regulations – 10 CFR 20, Appendix B
+.
+
+--- Chunk 123 ---
+values are prescribed in NRC Regulations – 10 CFR 20, Appendix B
+. 
+Bioassay: The determination of kinds, quantities or concentrations and, in some cases, the 
+locations of radioactive material in the human body, whether by direct measurement or by 
+analysis and evaluation of materials excreted or removed from the body. 
+Curie (Ci): The basic unit of activity. A quantity of any radionuclide that undergoes an average 
+transformation rate of 37 billion transformations per second. One curie is the approximate 
+activity of 1 gram of radium. 
+Cyclotron: A machine used to accelerate charged atomic particles to high energies by the 
+application of electromagnetic forces. These particles then bombard suitable target materials 
+to produce radioisotopes. 
+Dosimeter: A wearable detector for measuring and recording the total accumulated exposure 
+to ionizing radiation. 
+Dpm: (disintegrations per minute) the number of atoms of a radioactive substance decaying
+
+--- Chunk 124 ---
+Dpm: (disintegrations per minute) the number of atoms of a radioactive substance decaying 
+(emitting ionizing radiation and changing to another substance) per minute. 
+Effective Dose: The whole body dose normalized to the radiological impact of a radiation 
+exposure summed over specified tissues/organs exposed.  Mathematically it is the product of 
+the equivalent dose in a tissue and the weighting factor for that tissue, summed over all 
+organs.  Quantities are recommended by the International Commission on Radiological 
+Protection (ICRP) 103. Tissue weighting factors recommended by ICRP 26 (1977), ICRP 60 
+(1991), and ICRP 103 (2007) differ in the tissues included and the numerical values of the 
+respective factors. 
+Generally-Licensed Device: A device containing radioactive material which is typically used to 
+detect, measure, or gauge the thickness, density, level, or chemical composition of various 
+items, or to produce an ionized atmosphere. Examples of such devices are gas
+
+--- Chunk 125 ---
+37 
+ 
+chromatographs, static elimination devices, lead paint analyzers, liquid scintillation counters, 
+and ion mobility spectrometers.   
+Half-Life: The time in which half the atoms of a particular radioactive substance disintegrate to 
+another nuclear form. Measured half-lives vary from millionths of a second to billions of years. 
+Hot Cell: A heavily shielded enclosure for highly radioactive materials. It may be used for their 
+handling or processing by remote means or for their storage. 
+Hot Lab: A laboratory specifically designated for use of radioactive materials. 
+Isotopes: Radionuclides whose nuclei contain the same number of protons (therefore they are 
+the same element), but differing numbers of neutrons.   
+Ionizing Radiation: Photons or particulate radiation with sufficient energy to break chemical 
+bonds or ionize single atoms. 
+PET: (Positron Emission Tomography) A computerized radiographic technique that shows
+
+--- Chunk 126 ---
+PET: (Positron Emission Tomography) A computerized radiographic technique that shows 
+metabolic activity occurring in various body organs (e.g. heart or brain). In a PET study, a 
+radioactive substance that emits positively charged electrons (positrons) is injected into or 
+inhaled by the patient, in whom they combine with negatively charged electrons. The resulting 
+gamma radiation is detected and converted into color-coded images. 
+Radiography: A method of non-destructive testing, using a source of radiation to examine 
+many types of manufactured products (e.g., welds, pipes, concrete, machined parts, and metal 
+components) in order to look for defects in their internal structure and verify their integrity.   
+Radionuclide: Materials that produce ionizing radiation, such as gamma rays, alpha particles, 
+and beta particles. 
+Radioactive Material: Any material or combination of materials which spontaneously emits 
+ionizing radiation.
+
+--- Chunk 127 ---
+ionizing radiation. 
+Rem: One of the two standard units, along with the Sievert, used to measure the dose 
+equivalent (or effective dose), an individual receives from a radiation exposure.  This measured 
+quantity combines the amount of energy (from any type of ionizing radiation that is deposited 
+in human tissue) with the biological effects of the given type of radiation.  One Sievert (Sv) 
+equals 100 rem. 
+Scintillation: A scintillation detector, sometimes called a scintillator, is a device that emits light 
+when ionizing radiation interacts with the detector. The light is converted into an electrical 
+signal and recorded on a readout device. The amount of light is proportional to the amount of 
+energy deposited, allowing energy discrimination if desired. 
+Sealed Source: Radioactive material permanently bonded or fixed in a capsule or matrix 
+designed to prevent release or dispersal of the material under the most severe conditions likely
+
+--- Chunk 128 ---
+designed to prevent release or dispersal of the material under the most severe conditions likely 
+to be encountered in normal use and handling.
+
+--- Chunk 129 ---
+38 
+ 
+Source Material: Compounds of uranium and/or thorium, including depleted uranium, that are 
+not regulated by the NRC as byproduct material.  Examples include uranyl acetate, uranyl 
+nitrate, thorium nitrate, and thorium citrate.  Uranyl acetate is commonly used as a staining 
+technique in electron microscopy and is the most common form of source material at NIH. 
+Though not subject to NRC license requirements, source material must still be disposed of as 
+radioactive waste.
+
+--- Chunk 130 ---
+39 
+ 
+Appendix C 
+Resources Related to Radiation Safety 
+Division of Radiation Safety Contacts 
+• Main Phone Number – 301-496-5774 
+• Radioactive Waste Service – 301-496-4451 
+• Radioactive Packages/Shipment Office – 301-496-3277 
+• Radiation Safety Training Office – 301-496-2255 
+• Radiation Safety Committee Executive Secretary – 301-496-2253 
+• Radiation Safety Office at IRF Frederick – 301-631-7226 
+• DRS Fax – 301-496-3544 or 301-480-9708 
+Other Contacts 
+• Chemical Waste – 301-496-4710 
+• Division of Occupational Health and Safety – 301-496-2960 
+• NIH Directory Assistance – 301-496-4000 
+ 
+Radiation Safety Resources 
+• Nuclear Regulatory Commission website – www.nrc.gov 
+o Notices, Instructions and Reports to Workers – 10 CFR 19 
+o Standards for Protection Against Radiation – 10 CFR 20 
+o Medical Use of Byproduct Material – 10 CFR 35 
+o Regulatory Guides - Occupational 
+• OSHA Radiation Standards website – 29 CR 1910.1096
+

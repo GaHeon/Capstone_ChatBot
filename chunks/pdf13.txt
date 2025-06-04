@@ -1,0 +1,290 @@
+--- Chunk 1 ---
+(https://oncologymedicalphysics.com/)
+Brachytherapy Quality Assurance
+Brachytherapy requires a high degree of manual labor which, owing to steep dose gradients
+and variable source strength, must be performed to high standards of precision. The majority of
+brachytherapy medical errors are preventable with an appropriate quality assurance program.
+AAPM TG-40 provides general guidance on brachytherapy quality control. This report states
+that a precision of +/-15% is realistic for brachytherapy dosimetry and may be lower for complex
+multiplane interstitial implants. Regulatory requirement for radiation safety are found in NRC 10
+CFR. (https://oncologymedicalphysics.com/nrc-10-cfr/)
+Data from IAEA Report No 17
+Cause of Accident Incidence Rate
+Incorrect Source Strength22%
+Dose Calculation Error 19%
+Equipment Failure 13%
+Error in Quantities or Units6%
+Other 41%
+Total Accidents 32
+Important QA Points
+A vendor supplied source calibration may be accepted but must be verified to +/- 3%
+
+--- Chunk 2 ---
+A vendor supplied source calibration may be accepted but must be verified to +/- 3%
+(batch) and +/-5% (individual deviation from mean)
+At least 10% of a batch of sources should be assayed.
+Source inventories must be maintained
+List source type and radionuclide
+Total number of sources, their strength, and location.
+25. 4. 21. 오후  2:28 Brachytherapy Quality Assurance | Oncology Medical Physics
+https://oncologymedicalphysics.com/brachytherapy-quality-assurance/#:~:text=Daily Checks 1/11
+
+--- Chunk 3 ---
+Log use of sources and track their movement into and out of safe storage.
+Patient name
+Attending physician
+Source disposal
+Treatment Planning Software
+Source models and dosimetry as per TG-43
+Correctly assigns source location and dwell time, especially for HDR afterloader based
+planning.
+Film verification or imaging (CT) may be helpful here.
+Radiation surveys should be performed before, during, and after procedures.
+Required QA Equimpent
+QA Equipment
+Well-type ionization chamber
+Electrometer
+Wipe test equipment
+Thermometer
+Barometer
+Records management system
+Length test ruler
+Film
+Tools and Safety Equipment
+Area radiation monitor
+Hand detector (Geiger Counter, etc)
+Source retrieval equipment
+Pliers
+Wire cutter
+Shielded “pig”
+25. 4. 21. 오후  2:28 Brachytherapy Quality Assurance | Oncology Medical Physics
+https://oncologymedicalphysics.com/brachytherapy-quality-assurance/#:~:text=Daily Checks 2/11
+
+--- Chunk 4 ---
+Well type ionization chambers used for source activity
+verification.
+(https://oncologymedicalphysics.com/wp-content/uploads/2019/03/well-chamber.jpg)
+(a) Ruler with channel used for length test may be visualized
+either using in room camera or (b) marked gafchromic film.
+(https://oncologymedicalphysics.com/wp-content/uploads/2019/03/length-test.jpg)
+25. 4. 21. 오후  2:28 Brachytherapy Quality Assurance | Oncology Medical Physics
+https://oncologymedicalphysics.com/brachytherapy-quality-assurance/#:~:text=Daily Checks 3/11
+
+--- Chunk 5 ---
+Key Point: Well chambers typically exhibit a strong energy dependence in the brachytherapy
+energy range. Therefore, it is important to calibrate the well chamber using the correct
+source nuclide and source model as source construction impacts attenuation and energy
+spectrum.
+Quality Assurance for High Dose Rate Afterloaders
+10 CFR Part 35 - Afterloader QA
+Key Point: While the AAPM TG-40 provides guidelines for quality assurance of remote
+afterloaders, most states require the quality assurance mandated in 10 CFR Part 35.
+Full Calibration (10 CFR 35.633)
+Full calibration is required prior to first afterloader
+use, after source replacement, after significant
+repair, and at least quarterly.
+Required QA
+Shielded “pig” on cart.
+(https://oncologymedicalphysics.com/wp-content/uploads/2019/03/shielded-pig-on-cart.jpg)
+25. 4. 21. 오후  2:28 Brachytherapy Quality Assurance | Oncology Medical Physics
+https://oncologymedicalphysics.com/brachytherapy-quality-assurance/#:~:text=Daily Checks 4/11
+
+--- Chunk 6 ---
+Output +/-5%
+Position accuracy +/-1mm
+Emergency source retraction under power
+failure
+Verify source transfer tube lengths
+Timer accuracy and linearity
+Verify applicator length
+Verify function of transfer tubes, applicators,
+and all interfaces.
+Daily/Periodic Checks (10 CFR
+35.643)
+Spot checks are required prior to first treatment in
+a given day.
+Required QA
+Verify vault entrance interlock
+Verify source exposure indicator light at
+control console, on the afterloader, and at the
+vault door
+Verify audio visual system function
+Verify presence of emergency response
+equipment
+Verify function of radiation monitor equipment
+Verify timer accuracy
+Verify computer clock, date and time
+Verify source strength is accurately presented
+in the computer
+AAPM TG-40 - Afterloader QA Recommendations
+Download: AAPM TG-40: Comprehensive QA for Radiation Oncology
+(https://aapm.org/pubs/reports/RPT_46.PDF) (External link)
+Daily Checks
+Interlock function
+Audiovisual system
+Area radiation monitors
+
+--- Chunk 7 ---
+Daily Checks
+Interlock function
+Audiovisual system
+Area radiation monitors
+25. 4. 21. 오후  2:28 Brachytherapy Quality Assurance | Oncology Medical Physics
+https://oncologymedicalphysics.com/brachytherapy-quality-assurance/#:~:text=Daily Checks 5/11
+
+--- Chunk 8 ---
+Catheter function and locking
+Presence of emergency tools
+Weekly Checks
+Source and dummy positioning: +/-1mm
+Annual Checks
+Dose calculation algorithm: 3% and 1mm
+Simulate emergency conditions
+Source Inventory Audit
+Source Change Checks
+Calibration of source: +/- 3%
+Verify timing accuracy: +/- 1%
+Verify source positioning: +/- 1%
+Source Change Quality Assurance
+Source change is performed by a qualified field service engineer. Appropriate afterloader
+preventative maintenance will also be performed during a source change. Quality assurance
+focuses on assuring source strength and positional accuracy of the afterloader.
+1. A source chance is typically performed every 3-4 months corresponding to a drop of
+activity by 60-70% (3-4Ci assuming an initial activity of 10Ci).
+2. Source will arrive in shielded shipping container and prior to source change and must be
+stored in secure room until.
+Source packaging must be inspected for damage and surveyed via wipe test upon
+receipt.
+
+--- Chunk 9 ---
+Source packaging must be inspected for damage and surveyed via wipe test upon
+receipt.
+3. On the day of source exchange, the service engineer will safely remove the old source
+and insert the new source.
+4. Physicist performs quality assurance after source change.
+Verify appropriate source received compared with documentation.
+Verify source activity using calibrated well-type ionization chamber.
+Verify source length and positioning.
+Update treatment planning system with source activity (around 10Ci).
+25. 4. 21. 오후  2:28 Brachytherapy Quality Assurance | Oncology Medical Physics
+https://oncologymedicalphysics.com/brachytherapy-quality-assurance/#:~:text=Daily Checks 6/11
+
+--- Chunk 10 ---
+AAPM TG-41 - Afterloader and Applicator Acceptance
+Testing
+Download: AAPM TG-41: Remote Afterloading Technology
+(https://www.aapm.org/pubs/reports/rpt_41.pdf)(External link)
+Remote Afterloaders
+The following tests are recommended by AAPM
+TG-41 for the acceptance testing of a remote
+afterloader unit.
+1. All console functions and indicators are
+operational
+2. Source retracts appropriately when:
+End of preset time
+An interrupt is engaged
+Loss of power
+A blockage is encountered
+3. The battery is adequate to power source
+retraction
+An Ir-192 source arrives in a shielded bucket.
+(https://oncologymedicalphysics.com/wp-content/uploads/2019/03/Ir-192-source-bucket.jpg)
+25. 4. 21. 오후  2:28 Brachytherapy Quality Assurance | Oncology Medical Physics
+https://oncologymedicalphysics.com/brachytherapy-quality-assurance/#:~:text=Daily Checks 7/11
+
+--- Chunk 11 ---
+4. Timer accuracy
+5. Accuracy of source decay calculation
+6. Indexer (which selects which channel to
+send the source) functions properly
+7. Backup systems function during
+power/pneumatic failure
+8. Mechanical (hand) source retraction system
+is functional
+9. Radiation detectors function
+10. System memory correctly stores information
+11. Device shielding adequately limits leakage
+Applicators
+The following tests are recommended by AAPM
+TG-41 for the acceptance testing of an HDR
+applicator
+Key point: The primary source of
+potential error in a transfer
+tube/applicator system would be a
+systematic positioning error.
+1. Guide tube integrity
+2. Applicator integrity
+3. Source and dummy positioning
+This can be measured using gafchromic
+film
+4. Accurate movement of source through the
+applicator producing expected dose
+distributions
+This can be measured using gafchromic
+film
+5. Applicator attenuation (if dose calculation will
+be attenuation corrected)
+Navigation
+
+--- Chunk 12 ---
+film
+5. Applicator attenuation (if dose calculation will
+be attenuation corrected)
+Navigation
+25. 4. 21. 오후  2:28 Brachytherapy Quality Assurance | Oncology Medical Physics
+https://oncologymedicalphysics.com/brachytherapy-quality-assurance/#:~:text=Daily Checks 8/11
+
+--- Chunk 13 ---
+Previous Page
+(https://oncologymedicalphy
+sics.com/brachytherapy-
+dosimetry/)
+Brachytherapy Dosimetry
+Jump to Chapter
+(https://oncologymedicalphysics.com/b
+dosimetry/)
+Main Page
+(https://oncologymedicalphy
+sics.com/brachytherapy/)
+Brachytherapy
+Table of Contents
+Jump to Chapter
+(https://oncologymedicalphysics.com/b
+(https://oncologymedicalphysics.com/brachytherapy-dosimetry/)
+(https://oncologymedicalphysics.com/brachytherapy/)
+25. 4. 21. 오후  2:28 Brachytherapy Quality Assurance | Oncology Medical Physics
+https://oncologymedicalphysics.com/brachytherapy-quality-assurance/#:~:text=Daily Checks 9/11
+
+--- Chunk 14 ---
+Next Page
+(https://oncologymedicalphy
+sics.com/safety-and-
+regulations/)
+Radiation Safety and Regulations
+Table of Contents
+Jump to Chapter
+(https://oncologymedicalphysics.com/s
+and-regulations/)
+(https://oncologymedicalphysics.com/safety-and-regulations/)
+Not a Member?
+Sign up today to get access to hundreds of ABR style practice questions.
+Join Today! (https://oncologymedicalphysics.com/membership-account/membership-levels/)
+Contact Form
+Let us know what's on your mind.
+Your name
+Your email
+25. 4. 21. 오후  2:28 Brachytherapy Quality Assurance | Oncology Medical Physics
+https://oncologymedicalphysics.com/brachytherapy-quality-assurance/#:~:text=Daily Checks 10/11
+
+--- Chunk 15 ---
+Send
+Your message
+Additional Information
+Contact Information (https://oncologymedicalphysics.com/contact)
+Image Use and Copyright (https://oncologymedicalphysics.com/image-use-and-copyright/)
+Legal Disclaimer (https://oncologymedicalphysics.com/legal/)
+© 2017-2024 OncologyMedicalPhysics.com | support@oncologymedicalphysics.com
+(mailto:support@oncologymedicalphysics.com)
+25. 4. 21. 오후  2:28 Brachytherapy Quality Assurance | Oncology Medical Physics
+https://oncologymedicalphysics.com/brachytherapy-quality-assurance/#:~:text=Daily Checks 11/11
+

@@ -1,0 +1,2419 @@
+--- Chunk 1 ---
+Summary of Major Changes 
+Radiation Safety Manual, version 07/22/2024 
+ 
+505.272.3082  |  The University of New Mexico Health Sciences Office of Research  |  1 University of New Mexico  |  MSC08 4560  |  Albuquerque, NM 87131 
+hsc.unm.edu/research 
+RSM 
+Section 
+Previous Updated Reason 
+I.B.4.ii (ii) Voting members may designate 
+someone from their specialty area to 
+attend a RCC meeting in their place if 
+unable to attend a meeting. The 
+designee shall hold a position of 
+similar level and have authority to 
+speak for the area bein
+g represented. 
+(ii) Voting members may not 
+designate someone from their 
+specialty area to attend a RCC 
+meeting in their place if unable to 
+attend a meeting. 
+Required IAW with 
+20.3.7.702.D 
+VI.A.5 5) Sealed sources shall be stored in 
+lead pigs to minimize external 
+radiation fields. An inventory log 
+must be in place to track sealed 
+source movement and ensure 
+accountability. The log should 
+contain removal date and time,
+
+--- Chunk 2 ---
+source movement and ensure 
+accountability. The log should 
+contain removal date and time, 
+worker initials, location of use, 
+and return date and time. 
+ 
+5) Sealed sources may be stored in 
+lead pigs to minimize external 
+radiation fields. Radiation safety 
+will determine if lead pigs are 
+required based on the type of 
+sealed sources and external 
+radiation levels. The permit 
+approval will document this 
+requirement, if needed. An 
+inventory log must be in place to 
+track sealed source movement 
+and ensure accountability. The 
+log should contain removal date 
+and time, worker initials, location 
+of use, and return date and time. 
+ 
+Low activity sources, 
+such as check 
+sources, do not 
+require lead pig 
+shielding. This 
+change provides 
+additional flexibility. 
+VI.A.6 6) RAM in quantities of concern 
+(RAMQC) shall be stored in 
+accordance with UNM policies 
+regarding the physical protection 
+of category 1 and category 2 
+sources. 
+6) Special nuclear material (SNM),
+
+--- Chunk 3 ---
+of category 1 and category 2 
+sources. 
+6) Special nuclear material (SNM), 
+source material, and reactor 
+fuel shall be stored in 
+accordance with applicable 
+regulations. 
+ 
+UNM does not 
+have RAMQC that 
+meet 20.3.4.467, 
+Nationally Tracked 
+Source thresholds.  
+IX.A) & 
+D) 
+A) Radiation Safety uses a 
+commercial database (EHSA) 
+to track the total activity of each 
+radionuclide on the UNM 
+campus at any point in time and 
+across all UNM departments. 
+This includes sealed and 
+unsealed radiation sources as 
+well as sources that are 
+specifically licensed, exempt, 
+and generally licensed. 
+Tracking the RAM inventory is 
+essential for demonstrating 
+compliance with possession 
+limits on the RAML and for 
+general overall accountability. 
+ 
+D) Radiation Safety tracks RAM 
+inventory from package receipt 
+to final disposition using the 
+EHSA database using the 
+receipt date, activity, lab #, and 
+PH with accountabilit
+y for 
+A) Radiation Safety uses a 
+commercial database (EHSA)
+
+--- Chunk 4 ---
+PH with accountabilit
+y for 
+A) Radiation Safety uses a 
+commercial database (EHSA) 
+to track RAM inventory from 
+package receipt to final 
+disposition documenting the 
+receipt date, supplier, 
+radionuclide, activity, physical 
+and/or chemical form, lab #, 
+and PH/AU with accountability 
+for decay. The total activity of 
+each radionuclide on the UNM 
+campus can be tracked at any 
+point in time and across all 
+UNM departments. This 
+includes sealed and unsealed 
+radiation sources as well as 
+sources that are specifically 
+licensed, exempt, and generally 
+licensed. Tracking the RAM 
+inventory is essential for 
+demonstrating compliance with 
+possession limits on the RAML 
+and for 
+general overall 
+Combine IX.A) 
+and D) into A) 
+and update IAW 
+with 20.3.4.432 
+and NUREG 
+1556 Vol 9, rev 
+3, appendix O.
+
+--- Chunk 5 ---
+Summary of Major Changes 
+Radiation Safety Manual, version 07/22/2024 
+ 
+505.272.3082  |  The University of New Mexico Health Sciences Office of Research  |  1 University of New Mexico  |  MSC08 4560  |  Albuquerque, NM 87131 
+hsc.unm.edu/research 
+RSM 
+Section 
+Previous Updated Reason 
+decay. accountability. 
+ 
+IX.E E) Other RAM inventories will be 
+performed by Radiation Safety 
+as required by regulatory 
+authorities, such as the 
+National Source Tracking 
+System (NSTS) and the 
+Nuclear Material Management 
+and Safeguards System 
+(NMMSS). 
+ 
+E) Other RAM inventories will be 
+performed by Radiation Safety 
+as required by regulatory 
+authorities, such as the 
+Nuclear Material Management 
+and Safeguards System 
+(NMMSS). 
+ 
+UNM no longer 
+has category 1 
+or 2 sources.  
+IX.G G) Special Nuclear Material (SNM), 
+Source Material, and RAMQC: 
+ 
+G) Special Nuclear Material and 
+Source Material: 
+ 
+ 
+UNM does not have 
+radioactive materials 
+in quantities of 
+concern 
+(RAMQC)
+
+--- Chunk 6 ---
+Source Material: 
+ 
+ 
+UNM does not have 
+radioactive materials 
+in quantities of 
+concern 
+(RAMQC) 
+XI. E 1) The worker is likely to receive a 
+dose in excess of 10% of the 
+annual dose limits. 
+2) The worker is required to enter 
+a “high radiation area” (HRA) 
+in order to perform their job. A 
+HRA is an area in which 
+radiation levels could cause a 
+dose equivalent in excess of 
+100 mrem in 1 hour at 30 cm 
+from the source or from any 
+surface the source penetrates. 
+3) The worker is required to enter 
+a “very high radiation area” 
+(VHRA) in order to perform their 
+job. A VHRA is an area in which 
+radiation levels could cause a 
+dose equivalent in excess of 
+500 rad in 1 hour at 100 cm 
+from the source or from any 
+surface the source penetrates. 
+4) The worker operates a 
+fluoroscopic device or works 
+within 6 feet of the device. This 
+excludes workers with an 
+occasional need to enter a 
+fluoroscopy room and have no 
+involvement in operating or 
+supporting the operation of the
+
+--- Chunk 7 ---
+fluoroscopy room and have no 
+involvement in operating or 
+supporting the operation of the 
+device. 
+5) A badged radiation worker 
+declares her pregnancy (a fetal 
+bad
+ge may be issued). 
+1) Adults who in the course of work 
+may exceed in one calendar year 
+10% of the occupational limits in 
+NMAC 20.3.4.405; 
+2) Minors likely to receive a deep, 
+lens, or shallow dose equivalent 
+of 50 mrem, 150 mrem, or 500 
+mrem, respectively; 
+3) Expecting mothers who have 
+declared pregnancy in writing; 
+4) Individuals entering a high or very 
+high radiation area, as defined in 
+NMAC 20.3.4.7; 
+5) Independent operat ors of medical 
+fluoroscopic equipment; or 
+6) Any person or group of persons 
+carrying out approved activities 
+with radiation sources who, at the 
+discretion of the appointed 
+Radiation Safety Officer, requires 
+individual monitoring for risk 
+management purposes. 
+ 
+Update section for 
+clarification 
+requested by NMED 
+during renewal 
+review.
+
+--- Chunk 8 ---
+Summary of Major Changes 
+Radiation Safety Manual, version 07/22/2024 
+ 
+505.272.3082  |  The University of New Mexico Health Sciences Office of Research  |  1 University of New Mexico  |  MSC08 4560  |  Albuquerque, NM 87131 
+hsc.unm.edu/research 
+RSM 
+Section 
+Previous Updated Reason 
+6) Ring badges may be 
+issued to workers who 
+regularly handle RAM or 
+whose hands may enter 
+a machine-generated 
+non-sterile radiation 
+field. 
+7) As deemed appropriate by the 
+RSO, for risk management 
+purposes. 
+XII.B B) Nuclear Medicine: 
+a. End-of-workday surveys shall 
+be performed with a survey 
+instrument in all areas where 
+radiopharmaceuticals were 
+prepared or administered and 
+recorded in mR/hr in Syntrac. 
+b. If radiopharmaceuticals 
+requiring a written directive 
+were used, wipe tests to rule 
+out contamination shall be 
+done in those locations 
+routinely used to prepare and 
+administer the doses, at the 
+end of the day, and recorded 
+in dpm/100 cm
+2. This would
+
+--- Chunk 9 ---
+administer the doses, at the 
+end of the day, and recorded 
+in dpm/100 cm
+2. This would 
+apply to the use of therapeutic 
+radiopharmaceuticals or I-131 
+NaI > 30 uCi. 
+c. Weekly wipe tests are not 
+required by NMED but may 
+be performed in key areas 
+throughout the department at 
+the discretion of the Nuclear 
+Medicine Section Chief. 
+d. Rooms used for in-patient 
+radiopharmaceutical therapy 
+shall be closed following 
+patient discharge until 
+radioactive waste is removed 
+and contamination levels are 
+below established tolerances. 
+ 
+B) Nuclear Medicine: 
+a. Ambient surveys and wipe 
+tests will be conducted in 
+accordance with 
+20.3.4.404(D), 20.3.4.416, 
+and 20.3.7.703(H) NMAC, 
+and recorded in mR/hr in 
+the Nuclear Medicine 
+recordkeeping system.  
+b. End-of-workday (daily) 
+surveys shall be performed 
+with a survey instrument in all 
+areas where 
+radiopharmaceuticals are 
+prepared or administered, 
+except patient rooms. Weekly 
+surveys shall be performed 
+in all areas where
+
+--- Chunk 10 ---
+except patient rooms. Weekly 
+surveys shall be performed 
+in all areas where 
+radiopharmaceuticals or 
+wastes are stored.  
+c. Wipe tests shall be 
+performed and recorded in 
+dpm/100 cm
+2 end-of-
+workday (daily) in all areas 
+where 
+radiopharmaceuticals 
+requiring a written directive 
+are used and weekly for all 
+other areas where 
+radiopharmaceuticals are 
+routinely prepared, 
+administered, or stored. 
+d. Rooms used for in-patient 
+radiopharmaceutical therapy 
+shall be closed following 
+patient discharge until 
+radioactive waste is removed 
+and contamination levels are 
+below established tolerances. 
+Required IAW with 
+20.3.4.404, 416, and 
+20.3.7.703(H).
+
+--- Chunk 11 ---
+Office of Radiation Safety 
+ 
+ 
+ 
+ 
+Radiation Safety 
+Manual 
+ 
+UNM RADIATION SAFETY 
+1 UNIVERSITY OF NEW MEXICO 
+MSC 08-4560 
+ALBUQUERQUE, NM 87131 
+REVISION DATE: 07/22/2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 University of New Mexico | MSC08 4560 | Albuquerque, NM 87131 
+hsc.unm.edu/research/radiation-safety
+
+--- Chunk 12 ---
+2 | P a g e  
+RADIATION SAFETY MANUAL 
+Revision Date: July 22, 2024 
+ 
+Contents	
+INTRODUCTION ..................................................................................................................................................... 3 
+RADIATION SAFETY CULTURE .......................................................................................................................... 4 
+I. RADIATION CONTROL COMMITTEE (RCC) CHARTER and BYLAWS: .......................................... 5 
+II. RADIATION SAFETY OFFICER (RSO): ................................................................................................. 8 
+III. PERMIT HOLDERS and AUTHORIZED USERS: ................................................................................... 8 
+IV. REGULATIONS AND LICENSES: ........................................................................................................... 9
+
+--- Chunk 13 ---
+V. APPLICATIONS TO USE IONIZING RADIATION SOURCES: .......................................................... 10 
+VI. STORAGE OF RAM: ................................................................................................................................ 12 
+VII. ORDER and RECEIPT of RADIATION SOURCES: .............................................................................. 13 
+VIII. TRAINING FOR RADIATION WORKERS: ........................................................................................... 14 
+IX. RAM INVENTORY AND LEAK TESTING: ........................................................................................... 16 
+X. RADIOACTIVE WASTE (RAW) DISPOSAL: ....................................................................................... 17 
+XI. PERSONNEL RADIATION MONITORING (DOSIMETRY): ............................................................... 21
+
+--- Chunk 14 ---
+XII. LAB SURVEYS: ....................................................................................................................................... 25 
+XIII. RADIOLOGICAL INSTRUMENTS: ....................................................................................................... 27 
+XIV. RADIATION SAFETY RECORDS and REPORTS: ............................................................................... 27 
+XV. POSTING AND LABELING: ................................................................................................................... 28 
+XVI. SPILL AND EMERGENCY RESPONSE: ............................................................................................... 30 
+XVII. RADIATION SAFETY PROGRAM CHANGES: .................................................................................... 32 
+ATTACHMENTS .................................................................................................................................................... 33
+
+--- Chunk 15 ---
+Attachment A - UNM HSC Office of Research Organizational Chart .................................................................................... 34 
+Attachment C – Quantities of RAM Requiring Labeling ........................................................................................................ 36 
+Attachment D - Radiation Safety Training Courses ................................................................................................................ 37 
+Attachment E – Radiation Safety Forms ................................................................................................................................. 39 
+Attachment F - Acronym Definitions ...................................................................................................................................... 40
+
+--- Chunk 16 ---
+Attachment G - Signature Page ............................................................................................................................................... 41
+
+--- Chunk 17 ---
+3 | P a g e  
+INTRODUCTION 
+ 
+ 
+Safe practices and regulatory compliance are important in all areas that use ionizing radiation sources. 
+The University of New Mexico (UNM) leadership delegates responsibility for global oversight of 
+ionizing radiation sources to the UNM Radiation Control Committee (RCC). Radiation safety policies 
+and procedures are established to ensure the safety of students, employees, patients, and the public, and 
+are consistent with industry standards of practice and regulations. The guidelines of this manual may use 
+the words “shall” or “must”, which means it is a mandatory action unless an exception is approved by the 
+UNM Radiation Safety Officer (RSO). Use of the word “should” indicates a procedure or action that is 
+recommended as best practice. 
+It is imperative that individuals who have been authorized to use radioactive material (RAM) or 
+radiation-producing machines know the applicable regulations and follow established radiation safety
+
+--- Chunk 18 ---
+policies and procedures. Failure to follow the established rules of practice places the University at risk of 
+regulatory violations and possible suspension of the UNM radioactive materials license (RAML). 
+ 
+It is not the intent of this Radiation Safety Manual (RSM) to duplicate State and Federal codes that 
+govern radiation use. The purpose is to highlight and summarize key requirements for authorized 
+individuals to safely use radiation sources and has an emphasis on the research and academic (non- 
+medical) environment. Medical human-use applications of radiation sources are governed by policies, 
+procedures, protocols, and guidelines established by Radiology leadership at the University of New 
+Mexico Hospital (UNMH), which includes Sandoval Regional Medical Center (SRMC). The RSO is 
+responsible to develop and implement any additional rules and guidelines deemed necessary to support a 
+safe radiological environment campus-wide.
+
+--- Chunk 19 ---
+safe radiological environment campus-wide. 
+New Mexico is an “Agreement State”, which means that the State has entered into an agreement with 
+the Nuclear Regulatory Commission (NRC) to regulate RAM, except for those related to nuclear power. 
+The specific regulatory authority is the New Mexico Environment Department (NMED) and the 
+regulatory code and statutes are found in the New Mexico Administrative Code (NMAC), with some 
+NRC regulations incorporated by reference. Radiation-producing machines are regulated by NMED. 
+ 
+The RSM is listed as a license condition on the UNM RAML and thus carries the force of law. When 
+the requirements of this RSM are more restrictive than the applicable regulation, this constitutes internal 
+UNM policy and shall be followed. A violation of the more restrictive rules (or any regulation) becomes a 
+matter for RCC review and may also be citable by NMED if discovered.
+
+--- Chunk 20 ---
+matter for RCC review and may also be citable by NMED if discovered. 
+ 
+When license conditions, regulations, or operations change significantly, the RSM will be revised, and 
+a copy submitted to NMED for approval. Once approved, the revised manual will be distributed to key 
+stakeholders and posted to the Radiation Safety website. UNM Radiation Safety Office staff are available 
+to provide consultation on radiation safety at any time. A “Radiation Safety Office Contact List” is posted 
+in all areas where radiation sources are used and stored. A current copy of this list is available by 
+contacting the UNM Radiation Safety Office. 
+ 
+All Permit Holders, Authorized Users, and supervised radiation workers shall review the Radiation 
+Safety Manual at least annually and following any revision, with documentation maintained in the 
+Laboratory Notebook or an equivalent record.
+
+--- Chunk 21 ---
+4 | P a g e  
+RADIATION SAFETY CULTURE 
+ 
+Ionizing radiation sources used at UNM are licensed by both NMED and the NRC and are overseen 
+internally by the UNM Radiation Control Committee (RCC) and the UNM Radiation Safety Officer 
+(RSO). Individuals authorized to possess, use, handle, store, and dispose of radiation sources are required 
+to maintain a safe and secure radiological work environment and to enforce a philosophy of maintaining 
+radiation dose as low as reasonably achievable (ALARA) for workers, students, patients, and the public. 
+UNM supports a positive safety culture, where workers are encouraged to freely raise safety concerns 
+without fear of retaliation. 
+NRC Definition of Safety Culture: 
+ 
+ 
+Traits of a Positive Safety Culture: 
+The following are personal and organizational traits of a positive safety culture: 
+ 
+Leadership Safety Values and 
+Actions 
+Problem Identification and 
+Resolution Personal Accountability 
+Leaders demonstrate a commitment
+
+--- Chunk 22 ---
+Problem Identification and 
+Resolution Personal Accountability 
+Leaders demonstrate a commitment 
+to safety in their decisions and 
+behaviors 
+Promptly and fully identify, 
+evaluate, and correct safety issues 
+regardless of significance 
+Take responsibility for safety and be 
+accountable 
+Work Processes Continuous Learning Environment for Raising 
+Concerns 
+Plan, implement, and control work 
+activities so that safety is maintained 
+Seek out opportunities to learn, and 
+stay abreast of emerging safety 
+technology 
+Encourage raising safety concerns 
+without fear of retaliation, 
+intimidation, harassment, or 
+discrimination 
+Effective Safety Communications Respectful Work Environment Questioning Attitude 
+Maintain a focus on safety by 
+establishing open communication 
+Permeate trust and respect through 
+the organization 
+Avoid complacency and continually 
+challenge existing conditions to 
+identify discrepancies that might 
+result in inappropriate action
+
+--- Chunk 23 ---
+identify discrepancies that might 
+result in inappropriate action 
+ 
+UNM Radiation Safety Culture Policy Statement: 
+UNM is committed to a positive safety culture extending to Permit Holders, Authorized Users, and 
+supervised individuals. Positive safety culture shall be an integral part of all regulated activities and based 
+on a foundation of function-specific training in routine operational and emergency response procedures. 
+The goal is to optimize the beneficial uses of radiation, minimize radiation exposure to staff, patients, and 
+members of the public, and ensure regulatory compliance. A culture where radiation workers feel free to 
+openly raise any safety concern without fear of retaliation shall be fostered, and the UNM Radiation 
+Safety Office and management shall respectfully address all concerns. 
+ 
+Reference:
+ NRC Final Safety Culture statement, NRC-2010-0282, Federal Register 76:34773–34778; 2011.
+
+--- Chunk 24 ---
+NRC Final Safety Culture statement, NRC-2010-0282, Federal Register 76:34773–34778; 2011. 
+ 
+“The core values and behaviors resulting from a collective commitment by leaders and individuals to 
+emphasize safety over competing goals to ensure protection of people and the environment.”
+
+--- Chunk 25 ---
+5 | P a g e  
+I. RADIATION CONTROL COMMITTEE (RCC) CHARTER and BYLAWS: 
+ 
+A) Purpose of the RCC: 
+1) The UNM President delegates global radiation safety oversight to the RCC, to ensure that all ionizing 
+radiation sources, including radiation-producing machines and RAM, are used safely at all UNM 
+facilities and in compliance with regulations and RAML conditions. 
+2) The RSO, together with UNM departmental leadership, establishes policies, procedures, and guidelines 
+to meet this responsibility. 
+3) The RCC reports to the Vice President for Research, who represents “Licensee Management”, and both, 
+together with the RSO, make up the Management Triangle shown below, with responsibility for 
+oversight of radiation safety activities. The organizational chart is shown in Attachment A. 
+ 
+Figure #1: Licensee Management Triangle 
+ 
+ 
+ 
+B) Organizational Details of the RCC: 
+1) The name of this committee is the Radiation Control Committee, abbreviated “RCC”. 
+2) Membership:
+
+--- Chunk 26 ---
+2) Membership: 
+(i) The membership shall consist of no fewer than five voting members and include an Authorized 
+User (AU) for each type of use, the RSO, a nursing service representative, and an Executive 
+Management representative or designee. The members shall be knowledgeable in radiation 
+safety, or, have some special interest that may enhance the committee purpose, and should be 
+members of the UNM faculty or staff, or on retainer for special UNM services. The Committee 
+may designate non-voting ex-officio members. Attachment B contains the suggested RCC 
+membership. 
+(ii) Appointments to membership will be made by the Vice President for Research for a three-year 
+term, as recommended by the RSO and/or RCC. A member may be reappointed for more than one 
+term. 
+ 
+3) Chair: 
+(i) One voting member of the RCC will be appointed as Chair and one voting member may be 
+appointed as Vice-Chair by the Vice President for Research.
+
+--- Chunk 27 ---
+appointed as Vice-Chair by the Vice President for Research. 
+(ii) The Chair of the RCC serves as the administrative officer in promulgating the policies, procedures, 
+standards, and rulings of the Committee. Strict objectivity shall be exercised by the Chair to avoid 
+any perceived conflict of interest, and specifically abstain from voting when such decisions impact 
+the specialty area of the Chair (if an Authorized User or Permit Holder). 
+(iii) The Chair shall preside over RCC meetings and have authority to call special committee meetings. 
+The Vice-Chair shall preside over meetings when the Chair is absent. 
+Radiation Control 
+Committee 
+Radiation Safety 
+Officer 
+Licensee’s 
+Management
+
+--- Chunk 28 ---
+6 | P a g e  
+(iv) In the absence of the Chair and Vice-Chair, one of the voting members may serve as Acting Chair, 
+as approved by majority vote, and shall be duly recorded in the minutes. 
+4) Quorum: 
+(i) To establish quorum, 50% of the voting members must be present including the RSO and 
+Executive Management representation. 
+(ii) Voting members may not designate someone from their specialty area to attend a RCC meeting in 
+their place if unable to attend a meeting.  
+5) Meeting Frequency: 
+(i) The RCC shall meet at least quarterly and more frequently as needed. Dates, times, and locations of 
+meetings will be set by the Chair. Minutes shall be recorded, distributed to committee members, 
+and retained for inspection. 
+6) Authorized Representation Between Meetings: 
+(i) The RCC may be virtually mobilized at any time for a vote in cases of required, time sensitive 
+modifications and approvals to existing programs, upon the recommendation of the RSO.
+
+--- Chunk 29 ---
+modifications and approvals to existing programs, upon the recommendation of the RSO. 
+Examples of such actions include adding a Permit Holder or Authorized User, adding a 
+radionuclide, modifying a possession limit, or expanding a research project. The RSO will be 
+responsible to submit details of the required action and monitor votes. The action shall be approved 
+upon receipt of a majority vote (> 50% of membership). The approved action will be reported to 
+the RCC at the next scheduled meeting. 
+(ii) The RSO is authorized to act for the RCC in between meetings for routine matters and 
+administrative changes that pose no health and safety concerns. Examples include small possession 
+limit changes, simple location of use (LOU) changes, or renewing a Permit with only minor 
+changes. 
+7) RCC Subcommittees: 
+(i) A Human Use Subcommittee (HUS) is in place to review human research protocols that include the 
+use of ionizing radiation.
+
+--- Chunk 30 ---
+use of ionizing radiation. 
+(ii) The meeting frequency for HUS is quarterly, following each RCC meeting. 
+(iii) The HUS membership may include voting and ex officio members of the RCC who have 
+responsibilities in clinical patient care areas such as Nuclear Medicine and Radiation Oncology. 
+The RSO (or designee) and an Imaging Physicist shall also serve on the HUS. 
+(iv) The HUS is responsible to evaluate the use of ionizing radiation in the protocol, determine if the 
+use is standard of care (SOC), research only, or a combination of both, and confirm that the 
+proposed total effective dose equivalent to the research subject is correct and reasonable. 
+(v) The HUS shall advise the Principal Investigator (PI) named on the study and the UNM Institutional 
+Review Board (IRB) of its decision upon conclusion of the assessment. 
+(vi) The RCC may establish additional subcommittees as needed to fulfill its responsibility. 
+C) Responsibilities of the RCC:
+
+--- Chunk 31 ---
+C) Responsibilities of the RCC: 
+1) In fulfilling its authorized purpose, the RCC is charged with the following responsibilities: 
+(i) Assess radiological procedures for risk and propose special conditions, requirements, and/or 
+restrictions as deemed necessary to minimize ionizing radiation hazards.
+
+--- Chunk 32 ---
+7 | P a g e  
+(ii) Review and approve or disapprove, individuals in application for Authorized User (AU), 
+Permit Holder (PH), Authorized Medical Physicist (AMP), RSO, and Associate RSO (ARSO), 
+the latter two both requiring subsequent NMED approval. 
+(iii) Review and approve or disapprove, new or revised protocols that involve radiation. 
+(iv) Review and approve or disapprove, ministerial changes to the radiation safety program and 
+other changes requiring approval by NMED such as license amendments and renewals. 
+(v) Review quarterly ALARA reports and dosimetry data. 
+(vi) Evaluate radiological incidents, medical events, reportable events, inspection outcomes and 
+Notices of Violation (NOVs) as well as proposed solution(s) to prevent recurrence. 
+(vii) Review the radiation protection program annually. 
+(viii) Complaints and safety concerns regarding any radiological practice can be made to any
+
+--- Chunk 33 ---
+(viii) Complaints and safety concerns regarding any radiological practice can be made to any 
+committee member who shall bring the complaint to the full committee for consideration and 
+action. Complaints shall be considered confidential if requested by the complainant. 
+ 
+E) Appeals to Actions Taken by the RCC: 
+1) An individual, department, or division may appeal actions taken by the RCC to the President of the 
+University (via the Vice President for Research) for final decision, with the knowledge and consent of 
+the Dean or Director of the College, School, or Department involved. 
+F) Annual Reviews by the RCC: 
+1) The RCC members shall review and approve the RCC Charter/Bylaws with each content change 
+considered significant. 
+2) The RSO will review (and revise as needed) the RSM biennially, with approval from the RCC. The 
+revised manual will be forwarded to NMED for approval and incorporation into the RAML.
+
+--- Chunk 34 ---
+revised manual will be forwarded to NMED for approval and incorporation into the RAML. 
+3) The RSO will review the Radiation Safety Program annually and provide the report to the RCC and to 
+the Vice President for Research. 
+G) Role of “Licensee Management”: (NMAC 20.3.7.7M) 
+1) Licensee Management is defined as the Chief Executive Officer (CEO) or other individual having the 
+authority to manage, direct, and approve the activities of the radiation safety program, or that person’s 
+delegate(s). The Vice President for Research serves in this role at UNM. 
+2) Responsibilities of Licensee Management: (NMAC 20.3.7.702E) 
+(i) Maintain familiarity with radiation safety program operations including security and control and 
+routine and emergency operating procedures. 
+(ii) Promote complete and accurate radiation protection records and reports. 
+(iii) Approve licensing actions such as amendments and renewals. 
+(iv) Assist the RSO and RCC with matters of regulatory compliance when needed.
+
+--- Chunk 35 ---
+(iv) Assist the RSO and RCC with matters of regulatory compliance when needed. 
+(v) Provide adequate resources (financial, space, equipment, personnel, time) for radiation safety and 
+support regulatory compliance. 
+(vi) Jointly with the RCC, appoint a qualified and competent RSO.
+
+--- Chunk 36 ---
+8 | P a g e  
+II. RADIATION SAFETY OFFICER (RSO): 
+ 
+A) The UNM radiation safety program is managed by the RSO, who is named on the RAML, and reports to 
+the Vice President for Research through the Health Science Center (HSC) Executive Director. The RSO is 
+responsible for developing, implementing, and overseeing an effective and compliant radiation safety 
+program. The RSO shall support radiation safety improvement initiatives, facilitate the beneficial uses of 
+radiation, take actions to minimize radiation risk and hazard, and to work cooperatively with the RCC and 
+with Management. 
+B) RSO responsibilities: 
+1) Advise radiation workers on best radiation safety practices to avoid health and safety issues. 
+2) Support proper selection of radiological controls, training, and procedures for end-users. 
+3) Establish routine and emergency procedures for the Radiation Safety Office and update periodically to 
+ensure accuracy and to conform with regulations.
+
+--- Chunk 37 ---
+ensure accuracy and to conform with regulations. 
+4) Oversee and approve function-specific radiation safety training content and competencies. 
+5) Ensure that required radiation safety tasks (radiation surveys, inventory and leak tests, instrument QC, 
+etc.) are performed and documented at the established frequency. 
+6) Ensure that personnel monitoring devices are properly used and stored and that dosimetry and ALARA 
+reports are issued to end-users. 
+7) Notify NMED of reportable events such as medical events. 
+8) Maintain the RAML and x-ray registrations. 
+9) Institute corrective and preventative actions when needed, including shutdown of operations, when 
+unsafe or non-compliant radiological conditions are identified. 
+10) Maintain radiation safety records accurately, legibly, and in auditable and accessible format. 
+11) Properly order, receive, store, label, transport, secure, and dispose of radiation sources.
+
+--- Chunk 38 ---
+11) Properly order, receive, store, label, transport, secure, and dispose of radiation sources. 
+12) Ensure that RAM inventories in laboratories are performed at the required frequency. 
+13) Supervise radioactive waste storage and final disposal. 
+14) Prepare the agenda and minutes for RCC meetings. 
+15) Perform the “Annual Audit of the Radiation Safety Program” each calendar year. 
+ 
+III. PERMIT HOLDERS and AUTHORIZED USERS: 
+ 
+A) A Permit Holder (PH) is a UNM faculty member, physician, or other qualified professional who has made 
+application to the RSO and has been approved by the RCC to use radiation sources in specific protocols. 
+Once approved, a “Radiation Permit” is issued and includes a list of approved radiation sources and 
+possession limits, authorized use locations, and conditions of use. 
+B) An Authorized User (AU) is a physician who has been approved by the RCC to use radiation sources in
+
+--- Chunk 39 ---
+specific amounts for human-use modalities. Approval is based on the applicant meeting the required 
+training and experience specified for the category of use requested. An AU may be an individual Permit 
+Holder or a Chief Permit Holder for a Master Radiation Permit in a specific division, which has related 
+AU’s listed under the same Permit. This latter model is used in Nuclear Medicine, Radiation Oncology, and 
+Interventional Radiology. 
+C) An Authorized Medical Physicist (AMP) is an Oncology physicist who has met the required training and 
+experience qualifications and has been approved by the RCC.
+
+--- Chunk 40 ---
+9 | P a g e  
+D) Responsibilities of PH and AU: 
+1) Assure that survey instruments are available to supervised workers, sensitive to the types of radiation in 
+use, in good operating condition, and calibrated at the appropriate frequency. 
+2) Provide training to supervised workers on use protocols, safe handling, storage, disposal, survey 
+techniques, proper use of personal protective equipment (PPE), security and control, and routine and 
+emergency procedures. 
+3) Enforce the use of personnel monitoring devices as assigned. 
+4) Perform area and contamination surveys at the required frequency. 
+5) If supervised workers are allowed to receive, ship, or transfer RAM, ensure that the required training 
+program(s) are completed at the established frequency (see Attachment D). 
+6) Follow all UNM policies for RAM procurement, use, possession, storage, inventory, transfer, posting 
+and labeling, and disposition of radiation sources.
+
+--- Chunk 41 ---
+and labeling, and disposition of radiation sources. 
+7) Maintain strict security and control measures to prevent unauthorized access or removal. 
+8) Notify the RSO if a radiation incident occurs (major spill or contamination, fire, loss of RAM, medical 
+event etc.), or if a radiation overexposure may have occurred. 
+9) Arrange for an Alternate Permit Holder to manage lab oversight during times of extended leave. 
+10) Maintain required records in auditable format in the Laboratory Notebook or the equivalent. 
+ 
+IV. REGULATIONS AND LICENSES: 
+A) NMAC regulations are available on-line at http://www.env.nm.gov/rcb/regulations and are also available 
+from UNM Radiation Safety. The main NMAC sections follow: 
+1) New Mexico Administrative Code (NMAC): 
+(i) Title 20 (Environmental Protection), Chapter 3 (Radiation Protection), Parts: 
+1: General Provisions 
+2: Registration of Radiation Machines and Services 
+3: Licensing of Radioactive Materials
+
+--- Chunk 42 ---
+2: Registration of Radiation Machines and Services 
+3: Licensing of Radioactive Materials  
+4: Standards for Protection Against Radiation 
+6: X-Ray in the Healing Arts 
+7: Medical Use of Radionuclides  
+8: Radiation Safety Requirements for Analytical X-Ray Equipment 
+10: Notices, Instructions and Reports to Workers: Inspections  
+11: Cabinet X-Ray Systems 
+15: Licenses and Radiation Safety Requirements for Irradiators 
+16: Fees for Licensure of Radioactive Materials 
+20: Medical Imaging and Radiation Therapy Licensure 
+ 
+2) Nuclear Regulatory Commission (NRC) Regulations: 
+(i) Title 10 CFR (Energy) regulations are at www.nrc.gov. 
+(a) Applicable Parts for Byproduct Material:  
+19: Notices, Instructions and Reports to Workers: Inspections and Investigations 
+20: Standards for Protection Against Radiation 
+30: Rules of General Applicability to Domestic Licensing of Byproduct Material 
+33: Specific Domestic Licenses of Broad Scope for Byproduct Material
+
+--- Chunk 43 ---
+33: Specific Domestic Licenses of Broad Scope for Byproduct Material 
+34: Licenses for Industrial Radiography Safety Requirements for Industrial Radiographic
+
+--- Chunk 44 ---
+10 | P a g e  
+Operations 
+35: Medical Use of Byproduct Material 
+36: Licenses and Radiation Safety Requirements for Irradiators 
+37: Physical Protection of Category 1 and Category 2 Quantities of Radioactive Material 
+71: Packaging and Transportation of Radioactive Material 
+(b) Applicable Parts for Research Reactors, Source, and Special Nuclear Material (SNM): 
+37: Physical Protection of Category 1 and Category 2 Quantities of Radioactive Material 
+40: Domestic Licensing of Source Material 
+50: Domestic Licensing of Production and Utilization Facilities 
+55: Operators’ Licenses 
+70: Domestic Licensing of Special Nuclear Material 
+73: Physical Protection of Plants and Materials 
+74: Material Control and Accounting of Special Nuclear Material 
+ 
+3) US Department of Transportation (DOT) Hazardous Materials Regulations (HMR): 
+i) 49 CFR Parts: 171-185 
+171: General Information, Regulations, and Definitions
+
+--- Chunk 45 ---
+i) 49 CFR Parts: 171-185 
+171: General Information, Regulations, and Definitions 
+172: Hazardous Materials Table, Special Provisions, Hazardous Materials Communications, 
+Emergency Response Information, Training Requirements, and Security Plans  
+173: Shippers – General Requirements for Shipments and Packagings 
+174: Carriage by Rail 
+175: Carriage by Aircraft 
+176: Carriage by Vessel 
+177: Carriage by Public Highway 
+178: Specifications for Packagings 
+179: Specifications for Tank Cars 
+180: Continuing Qualifications and Maintenance of Packagings 
+181 - 185 Reserved 
+4) Radioactive Materials Licenses at UNM: 
+i) NMED BM233 Broad Scope Type A License 
+ii) NRC AGN-201M Research Reactor License #R-102 
+ 
+V. APPLICATIONS TO USE IONIZING RADIATION SOURCES: 
+A) Application for RAM: 
+1) A UNM faculty member (or other approved individual) may apply to use radiation sources by 
+submitting a completed application form (see Attachment E). The RSO will review the application
+
+--- Chunk 46 ---
+submitting a completed application form (see Attachment E). The RSO will review the application 
+and work with the applicant to obtain any additional information needed. 
+2) The RCC will review and approve Permit applications and a Radiation Permit issued by the RSO. An 
+in-between-committee (IBC) process with mail ballot may be used to expedite approval of
+
+--- Chunk 47 ---
+11 | P a g e  
+applications and formally acted upon at the next scheduled RCC meeting. 
+3) Applications will include all types of RAM to be possessed, including those identified in the 
+regulations as licensed, exempt, or generally licensed. 
+4) Permit Application Content: 
+(i) The Application Form with copies of all protocols being requested as well as types, forms, and 
+quantities of RAM to be used, including sealed and unsealed radionuclides. For sealed sources, 
+include the manufacturer, model number, radionuclide, source configuration, and activity should 
+be provided. Manufacturer papers should be included with exposure rate(s) outside the source or 
+source holder and safe handling and storage techniques. 
+(ii) Location(s) of use by building and room number including the exact use location within the 
+room with information on security and access control. 
+(iii) Detailed description of how the RAM will be used and stored, including a justification for the
+
+--- Chunk 48 ---
+use and amount of each radioisotope requested. Describe how the benefit from the use of the 
+radiation source will outweigh the risk. 
+(iv) Training, education, and experience related to the radioisotopes and protocols being requested. If 
+the applicant was ever named as a PH or AU on a previous RAML, a copy of the license should 
+be attached. A condensed CV should be included. 
+(v) Instruments to detect and measure radiation should be described. 
+(vi) If radioisotopes are gaseous or can aerosolize, techniques and equipment to control release must 
+be provided along with exhaust and filtration methods to ensure breathing zone safety. 
+(vii) A complete description of the radiation safety program to be employed to include shielding, 
+protective clothing (PPE), handling techniques, posting and labeling, and training. 
+(viii) Describe all radioactive waste to be generated. A statement that mixed waste will not be
+
+--- Chunk 49 ---
+(viii) Describe all radioactive waste to be generated. A statement that mixed waste will not be 
+generated is specifically required. The applicant must also provide a statement that commits 
+to radioactive waste minimization and segregation. 
+(ix) Provide the names and titles of personnel who will work with RAM. A “Statement of Training 
+and Experience Form” must be provided for workers. 
+(x) Name an “Alternate PH”, with written confirmation of acceptance of that duty. 
+ 
+B) Application for Radiation-Producing Machines: 
+1) A separate application form is available for medical x-ray machines, cabinet x-ray units, analytical 
+devices, electron microscopes, research accelerators, and any other device with an x-ray tube or that
+
+--- Chunk 50 ---
+12 | P a g e  
+produces radiation when energized, intentional or incidental. Information to be submitted for 
+radiation-producing systems include: 
+• Machine specifications (kVp, mA, timer settings, target, beam dimensions, etc.). 
+• Associated equipment and safety tools (ventilation, lead shields, etc.). 
+• Detailed proposed use of the system with utilization. 
+• Complete analysis of all radiation hazards and methods to ensure safety. 
+• Routine preventative maintenance and quality control testing. 
+• Interlocks and monitoring systems. 
+• Shielding design, shown on a facility diagram (may require NMED approval). 
+• Administrative and engineering controls to minimize radiation exposure. 
+C) Animal use protocols require special consideration and must be approved by the UNM Institutional 
+Animal Care and Use Committee (IACUC). Injection and caging areas must have adequate ventilation to 
+assure that adjacent areas comply with NMAC Subpart 4, Appendix B standards. Animal caretakers shall
+
+--- Chunk 51 ---
+have function-specific radiation safety training. 
+D) If a Permit Holder terminates, another qualified individual may assume operations by submitting an 
+application and receiving RCC approval. A new Permit and Permit # may be issued or the Permit 
+transferred to the individual as authorized by the RSO and RCC. 
+E) If a Permit Holder wishes to terminate without Permit transfer, all radiation sources must be properly 
+disposed according to UNM policy, a lab close-out survey completed by Radiation Safety, and the 
+Radiation Permit terminated. The Permit Holder is responsible for all costs associated with RAM 
+disposal or transfer and clearing equipment from the lab. 
+F) RAM is not transferable between Permit Holders without RSO approval and completion of the required 
+form. Transfer documents signed by the transferor and transferee must be prepared and include the 
+radionuclide, activity, purpose, and location(s). RAM transfers between UNM Permit Holders and non-
+
+--- Chunk 52 ---
+UNM collaborators must be coordinated by the RSO. 
+G) Permit Holders may order and possess radioisotopes up to the quantities authorized on the Permit, 
+and shall maintain a current inventory of radioisotopes, including waste. 
+H) Permits are valid for 4 years. The Permit Holder shall request renewal at least 3 months before the 
+expiration date, noting any changes and including PH and Alternate signatures. The Permit shall not 
+expire until the next scheduled RCC meeting. 
+I) Changes to an existing Permit may be requested in writing to the RSO. Possession limits may be 
+modified to reflect actual usage, radionuclides added or deleted, or new use protocols proposed. Other 
+changes requiring RSO notification include change of Alternate or adding or deleting RAM use 
+locations. Permit Amendments will be issued once approved. 
+J) A Radiation Permit that has been inactive for 4 years will be subject to termination. In special cases, the
+
+--- Chunk 53 ---
+RSO may approve inactive Permit status without termination, on a case-by-case basis. 
+ 
+ 
+VI. STORAGE OF RAM: 
+ 
+A) Storage areas for RAM shall meet the following criteria: 
+1) Shielding or distance shall be used to reduce radiation levels to not more than 2 mrem in any one hour 
+at 1 meter away from the source container. Shielding or distance must be adequate to ensure that 
+radiation levels in adjacent areas are indistinguishable from normal background levels. 
+2) Labs designated as restricted radiation areas shall be secured from unauthorized access. RAM shall be 
+secured from unauthorized use or removal using locked refrigerators, freezers, or cabinets.
+
+--- Chunk 54 ---
+13 | P a g e  
+3) Unsealed RAM, such as liquids and powders, shall be stored in closed containers. Secondary 
+containment shall be used to contain the entire contents in the event the primary container ruptures. 
+4) RAM capable of producing gas, fumes, vapors, or any amount of airborne particulate shall have the 
+necessary engineering controls in place to control the hazard (ie. certified fume hood with appropriate 
+filtration). Airflow rates shall be confirmed annually and comply with industry standards. For 
+radioactive gases such as 
+133Xe, negative pressure rooms are preferred, with gas clearance times 
+calculated semi-annually and posted. 
+5) Sealed sources may be stored in lead pigs to minimize external radiation  fields. Radiation safety will 
+determine if lead pigs are required based on the type of sealed sources and external radiation levels. The 
+permit approval will document this requirement, if needed. An inventory log must be in place to track
+
+--- Chunk 55 ---
+sealed source movement and ensure accountability. The log should contain removal date and time, 
+worker initials, location of use, and return date and time. 
+6) Special nuclear material (SNM), source material, and reactor fuel shall be stored in accordance with 
+applicable regulations. 
+B) Radioactive Animals: 
+1) Biological waste such as animal carcasses and bedding must be sealed in leakproof containers and 
+refrigerated for short term storage (days) or frozen when storage will exceed a week. A walk-in freezer 
+for biological waste is available at the Radioactive Waste Facility (RWF). 
+2) Animals injected with RAM shall be housed in separate cages from non-radioactive animals. The cages 
+shall bear the standard “Caution-Radioactive Materials” sign. Identifying labels shall indicate the 
+radionuclide, activity, date, and the responsible Permit Holder. 
+C) Radioactive Waste (RAW) Storage (see Section X):
+
+--- Chunk 56 ---
+C) Radioactive Waste (RAW) Storage (see Section X): 
+1) Permit Holders are responsible to provide adequate space in their lab for RAW storage. 
+2) Containers holding RAW shall have a plastic liner, maintained separately from non-radioactive waste, 
+and labeled with waste form, isotope, date, activity, and the radiation warning symbol. Containers shall 
+be approved by Radiation Safety. 
+3) RAW containers shall be covered, large enough to hold the contents without overflow, leakproof, and 
+shielded as needed to minimize exposure. 
+4) When waste containers become filled to the maximum level allowed, complete the waste collection 
+form and contact Radiation Safety for pickup. 
+ 
+VII. ORDER and RECEIPT of RADIATION SOURCES: 
+ 
+A) An approved list of RAM vendors is maintained, with each provided a copy of the current RAML. To 
+add a new vendor, send the company name, address, and contact number to Radiation Safety.
+
+--- Chunk 57 ---
+add a new vendor, send the company name, address, and contact number to Radiation Safety. 
+B) RAM packages for research and some sealed sources are delivered to the UNM Radiation Safety Lab in 
+Fitz Hall Room B89. The complete shipping address is: 
+1) UNM Health Science Center - Office of Research, Radiation Safety Office, Fitz Hall Room B-89, 
+2425 Camino de Salud, Albuquerque, NM 87131 
+2) RAM orders must be scheduled to arrive Monday - Friday during normal business hours, 8:00 AM - 
+5:00 PM. Special arrangements must be made in advance with the RSO for after-hours deliveries. 
+C) RAM orders must be approved by Radiation Safety and an authorization code issued before the order is 
+placed, including exempt amounts and generally licensed radiation sources. To place an order: 
+(1) Order radioisotopes and amounts only as authorized by your Radiation Permit.
+
+--- Chunk 58 ---
+14 | P a g e  
+(2) Contact Radiation Safety to obtain approval and an authorization code. State your name, lab #, 
+and name of Permit Holder, and identify the material to be ordered (radiochemical and 
+activity). Provide the vendor name, expected delivery date, and tracking number when 
+available. 
+(a) Note: If generating activation products from irradiation of materials, the same rules apply for 
+acquiring, receiving, processing, and transferring RAM. The Permit Holder is bound by 
+possession limits on the Radiation Permit. 
+(3) Place the RAM order with the vendor making sure to: 
+(a) Instruct the vendor to reference the authorization code on the shipping papers. 
+(b) Ensure vendor has the “ship to” address for the Radiation Safety Lab in Fitz B-89. 
+(c) Have the vendor confirm the delivery date. 
+(d) Obtain a tracking number when available. 
+ 
+D) Shipping radioactive samples or returning a spent radiation source to the manufacturer generally requires
+
+--- Chunk 59 ---
+Radiation Safety assistance in preparing the package and associated paperwork, unless the end-user has 
+been specially trained in this process. Contact Radiation Safety for specific instruction. 
+E) Nuclear Medicine unit dose radiopharmaceuticals shall be delivered directly to UNMH, OSIS, and 
+SRMC by a radiopharmacy courier or another authorized carrier such as FedEx. The package shall be 
+promptly processed according to the UNMH RAM Package receipt policy. 
+F) HDR sources for the UNMCCC will be delivered direct to the UNMCCC Radiation Oncology 
+department by Fed Ex. Radiation Safety will be alerted to the delivery and will process the package. 
+G) Receipt of RAM by Radiation safety:  
+1) Process packages within 3 hours of receipt (NMAC 20.3.4.432) following radiation safety procedures. 
+If received after working hours, process the next business day, according to the UNM “RAM Package 
+Receipt Procedure”.
+
+--- Chunk 60 ---
+Receipt Procedure”. 
+2) Packages will be promptly delivered to the end-user, requiring a signature by an authorized person. 
+RAM packages will not be left unattended or without signature. 
+3) The end-user shall place the RAM in  its designated storage location . Radiation Safety will take  the 
+packing material and shipping box, deface (with a black sharpie) or remove all radiation symbols and 
+markings, and discard as normal trash. 
+4) If a vendor mistakenly ships a RAM package direct to the end-user, bypassing the Radiation Safety 
+Lab, do not open the package. Contact the RSO to process the package. 
+ 
+VIII. TRAINING FOR RADIATION WORKERS: 
+ 
+A) General: 
+1) Annual radiation safety training is required for workers likely to exceed 100 mrem per year from 
+normal or abnormal situations. The training may be in the format of live presentations, computer- 
+based self-learning programs, the UNM Learning Central platform, or other approved method.
+
+--- Chunk 61 ---
+based self-learning programs, the UNM Learning Central platform, or other approved method. 
+Training records shall be maintained and include the participants name, completion date, instructor 
+name, results of a competency exam if applicable, and the content outline. 
+2) All radiation workers issued a personnel dosimeter must complete HSC-181. 
+ 
+B) Research and Academic: 
+1) Personnel working with unsealed radiation sources in research must complete initial Radiation 
+Safety training which is function-specific to the research environment and includes a practical
+
+--- Chunk 62 ---
+15 | P a g e  
+training component. This initial training is required before beginning independent work with 
+research radioisotopes. The PH is also required to provide initial applications and operational 
+training in all active protocols that utilize RAM. It is the responsibility of each PH to ensure that only 
+trained and competent staff handle RAM, and that an adequate level of supervision is in place to 
+ensure continuous safe practices. Annual refresher training is also required using the Learning 
+Central course “HSC Radiation Safety Refresher Training” (HSC-180). Verification of completed 
+training is done during routine lab audits by Radiation Safety. 
+2) For individuals using only industrial and analytical devices or sealed sources in research, initial and 
+annual refresher Radiation Safety training is required through Learning Central course HSC-112- 
+002. Workers must be initially trained by the PH on the use of the devices or sources with
+
+--- Chunk 63 ---
+002. Workers must be initially trained by the PH on the use of the devices or sources with 
+competency established before the worker’s name is placed on the “Approved User List”, which is 
+posted near the device. 
+3) For workers and students in Nuclear Engineering, the Learning Central course HSC-180 is required. 
+Additional courses of instruction are provided by the Nuclear Engineering department that includes 
+function-specific training for the nuclear environment and includes radiation protection, 
+instrumentation, detection and measurement, reactor safety, and radiation health effects. 
+ 
+C) Nuclear Medicine: 
+1) Certified Nuclear Medicine Technologists (CNMTs) work independently under the general 
+supervision of AUs in Nuclear Medicine. The CNMT designation along with valid State of New 
+Mexico licensure are required prerequisites for this job. 
+2) Initial documented operational competencies are established for each new CNMT by Radiology
+
+--- Chunk 64 ---
+2) Initial documented operational competencies are established for each new CNMT by Radiology 
+management before independent handling of radiopharmaceuticals. 
+3) Initial and annual refresher Radiation Safety training is required through Learning Central course 
+HSC-212-001 and HSC-212-004 for spill response training. This is required for CNMTs and AUs in 
+Nuclear Medicine and for staff in Interventional Radiology (IR) who work with Y-90 microspheres. 
+4) DOT Hazardous Material training is required every 3 years for any UNM worker who is required to 
+prepare RAM for shipment or receives RAM packages. 
+5) Nuclear Medicine students in the UNM Allied Health School are required to complete an initial 
+radiation safety orientation at the start of their school year. Students are not permitted to administer 
+patient doses unless a CNMT has confirmed the radionuclide, dose, and patient ID, and has
+
+--- Chunk 65 ---
+patient doses unless a CNMT has confirmed the radionuclide, dose, and patient ID, and has 
+confirmed the details of the request form or written directive (WD). Students operate under the direct 
+supervision of a CNMT for the purposes of dose ordering, receipt, preparation, and injection. 
+ 
+D) UNMCCC: 
+1) Radiation workers include AUs, AMPs, Radiation Therapists, and other care providers such as 
+nurses and other advanced practice specialists assisting with patient care. 
+2) Radiation Therapists work independently under the general supervision of AUs in Radiation 
+Oncology. The RT designation along with valid State of New Mexico licensure are required 
+prerequisites for this job. 
+3) An annual Radiation Safety in-service may be provided by the Chief AMP. Alternately a Learning 
+Central course HSC-212-014 “Radiation Safety for Cancer Center Radiation Oncology Training” 
+may be used. 
+4) Annual HDR Emergency Response training is required for all staff working with HDR. The training
+
+--- Chunk 66 ---
+4) Annual HDR Emergency Response training is required for all staff working with HDR. The training 
+is provided by the HDR manufacturer or the equivalent.
+
+--- Chunk 67 ---
+16 | P a g e  
+E) Radiology: 
+1) X-Ray Technologists (XRTs) work independently under the general supervision of Radiologists and 
+Radiology Management. The XRT designation, along with any additional certification specialty that 
+is applicable, and with valid State of New Mexico licensure, are required prerequisites for this job. 
+2) Annual radiation safety training is conducted using Learning Central course CE 032.9 “Radiation 
+Safety for Radiology Staff”. 
+3) HSC-183 “Fluoroscopy Safety” is available on Learning Central. The intended audience are non-
+Radiologist physician providers in specialty areas such as Cardiology, Urology, Endoscopy, 
+Pulmonary Care, Surgery, and Orthopedics. A collaborative effort is in place between the Medical 
+Staff office and Radiation Safety to assign this course to all new incoming house staff who will 
+work with fluoroscopy machines, as part of their orientation. 
+ 
+F) Ancillary Staff:
+
+--- Chunk 68 ---
+work with fluoroscopy machines, as part of their orientation. 
+ 
+F) Ancillary Staff: 
+1) A “Radiation Safety General Awareness training class” is available on Learning Central, CLT-2109, 
+and intended for ancillary staff such as Environmental Services (EVS), EH&S, Security Officers, 
+UNMPD, Facilities, and other groups who have no direct responsibilities for radiation sources but 
+may need to frequent areas where they are used. 
+ 
+IX. RAM INVENTORY AND LEAK TESTING: 
+A) Radiation Safety uses a commercial database (EHSA) to track RAM inventory from package receipt to 
+final disposition documenting the receipt date, supplier, radionuclide, activity, physical and/or chemical 
+form, lab #, and PH/AU with accountability for decay. The total activity of each radionuclide on the UNM 
+campus can be tracked at any point in time and across all UNM departments. This includes sealed and 
+unsealed radiation sources as well as sources that are specifically licensed, exempt, and generally licensed.
+
+--- Chunk 69 ---
+Tracking the RAM inventory is essential for demonstrating compliance with possession limits on the 
+RAML and for general overall accountability. 
+B) Each Radiation Permit has defined activity limits (mCi) for each radionuclide. The Permit Holder is 
+required to remain below the limits at all times including: 
+1) Total activity of each radionuclide at any point in time (includes radioactive waste). 
+2) Total activity of each radionuclide to be ordered in a single shipment (for research use). 
+C) Strict inventory control methods must be employed by Permit Holders to track when radiation sources are 
+removed from and returned to the authorized storage location. For stock vials of radio-chemicals, 
+documentation of each aliquot removed is required, including the date, user initials, activity removed (uCi), 
+and activity in waste or in samples. The contents of stock vials should be tracked on inventory logs 
+(including decay) designed for that purpose.
+
+--- Chunk 70 ---
+(including decay) designed for that purpose. 
+D) RAM inventory verifications are performed semiannually. Non-medical Permit Holders shall be provided 
+with a “RAM Inventory Verification” (RMIV) log and shall promptly upon receipt: 
+1) Compare the RMIV totals to the actual stock vials, samples, and waste present in the lab. 
+2) Confirm that the lab physical inventory matches the RMIV. Account for any discrepancy. 
+3) Sign the RMIV sheet confirming the inventory match and return to Radiation Safety. 
+E) Other RAM inventories will be performed by Radiation Safety as required by regulatory authorities, such 
+as the Nuclear Material Management and Safeguards System (NMMSS).
+
+--- Chunk 71 ---
+17 | P a g e  
+F) Sealed Sources: 
+1) A physical inventory of sealed sources designed to emit gamma or beta radiation shall be performed 
+semiannually by Radiation Safety. If the sealed source is designed to emit alpha particles, the 
+frequency of the physical inventory is quarterly. An inventory of exempt and generally licensed 
+sources will also be maintained. The inventory is updated each time a new source is added or deleted. 
+2) Leak testing shall be performed at the time of the physical inventory. If the test result > 0.005 uCi of 
+radioactivity or integrity is compromised, the source will be removed from service, safely stored, and a 
+report filed with NMED according to the requirements of NMAC 20.3.4.415. 
+3) Records will be maintained for 3 years. The record will identify the radionuclide, original activity, 
+reference date, current activity, model and serial number, storage location, name of the person 
+performing the test, instrument(s) used, and the results in uCi.
+
+--- Chunk 72 ---
+performing the test, instrument(s) used, and the results in uCi. 
+4) The department owning sealed sources shall continuously maintain a complete inventory. 
+G) Special Nuclear Material and Source Material: 
+1) A modified inventory procedure is permitted for reactor fuel and other NMMSS sources for safety and 
+ALARA purposes. The procedure allows for confirming the presence of the source by monitoring 
+instead of direct visual confirmation. 
+ 
+X. RADIOACTIVE WASTE (RAW) DISPOSAL: 
+ 
+A) RAW is highly regulated and thus is subject to strict UNM policies relative to generation, storage, 
+preparation, and final disposal, to ensure compliance with NMAC Code. 
+B) RAW disposal is expensive, especially radionuclides with long physical half-lives or in forms that are 
+difficult to manage, such as mixed waste. To minimize cost, emphasis is placed on segregation of different 
+types of waste according to radionuclide, half-life, chemical form, physical form, and whether or not
+
+--- Chunk 73 ---
+biological or hazardous materials are mixed in with the RAM. 
+C) Segregation by half-life is critical to managing costs and waste volumes: 
+1) RAW (unsealed or sealed sources) with a half-life (T1/2) less than or equal to 120 days can be stored 
+for total decay with subsequent disposal to the normal trash as non-radioactive once radioactivity 
+levels are indistinguishable from normal background. The minimum required decay-in-storage (DIS) 
+time is ten (10) half-lives. 
+2) RAW with a T1/2 greater than 120 days is not eligible for DIS and must be collected and packaged for 
+transport by a licensed radioactive waste broker and disposed to an authorized disposal facility. Waste 
+disposal sites charge by weight; therefore, all radionuclide users are asked to make a deliberate and 
+conscious effort to minimize the volume of RAW generated in their laboratories. A simple procedure 
+is to survey trash with an appropriate instrument before placing into RAW containers to confirm
+
+--- Chunk 74 ---
+is to survey trash with an appropriate instrument before placing into RAW containers to confirm 
+radioactivity. Use normal trash streams if no radioactivity is detected. 
+D) Disposal of radioactive liquids using the sanitary sewer system is not allowed by the City of Albuquerque, 
+which has an ordinance that specifies zero tolerance for RAM in the sanitary sewer system. Excreta (urine 
+and feces) from patients who received diagnostic or therapeutic radioactive materials in medicine is an 
+exception to this requirement. 
+E) Guidelines for the collection of RAW in labs: 
+1) Waste Containers: 
+(i) Use waste containers provided by UNM Radiation Safety.
+
+--- Chunk 75 ---
+18 | P a g e  
+(ii) Waste containers must be leak-proof and have a tight-fitting lid. 
+(iii) Do not place radioactive waste containers on high shelves or in high traffic areas. 
+(iv) All containers must have a clear plastic liner. 
+(v) Each waste container must have a: 
+(a) Visible radiation-warning label. 
+(b) Label or tag affixed which identifies the radionuclide(s) in the container. 
+(c) Waste container number (if tracked in the EHSA database). 
+(d) Waste container label affixed after the container is filled and closed with a lid. 
+(e) Waste entry log affixed to the container (each deposit is recorded). 
+(f) Shielding materials, if exposure rates exceed 2.0 mR/hr at 30 cm. 
+(g) A maximum fill level established to make it manageable to handle. 
+2) Waste Minimization Program: 
+(i) Survey potentially contaminated items with an appropriate instrument set on its most sensitive 
+scale. Place only contaminated waste into the radioactive waste stream.
+
+--- Chunk 76 ---
+scale. Place only contaminated waste into the radioactive waste stream. 
+(ii) Do not use excessive supplies and materials in radiation work areas. 
+(iii) Use spill containment trays. 
+(iv) Conduct dry runs for new protocols to ensure proficiency with procedure before introducing RAM 
+into operations. 
+(v) Use the smallest amount of RAM consistent with achieving the research objective. 
+ 
+3) Segregation: RAW shall be segregated as follows. 
+(i) Physical Form: Separate containers for dry solid, aqueous liquid, and LSV. 
+(ii) Half-life: Use different containers based on half-lives of radionuclides: 
+(a) < 30 days 
+(b) 30-60 days 
+(c) 61-120 days 
+(d) > 120 days 
+(iii) Biological: All biological waste must be collected separately: 
+(a) Consists of animal carcasses, bedding, and animal excreta. It may also include specimens in 
+vials or containers. 
+(b) RAW containing biological, pathogenic, or infectious materials shall be treated to reduce the 
+non-radiological hazard.
+
+--- Chunk 77 ---
+non-radiological hazard. 
+(c) Waste with a half-life < 120 days must be segregated from longer-lived waste. Small animals 
+may be bagged and kept frozen in the PH’s approved area until the date of pick-up. The 
+Animal Research Facility (ARF) will store radioactive bedding and cages (but not carcasses) 
+until decayed to background. 
+(d) Waste with a half-life >120 days shall be segregated into one of three different categories 
+based on activity and radionuclides present: 
+§ 3H and 14C waste with an average activity < 0.05 µCi per gram of tissue, averaged 
+over the weight of the entire animal. 
+§ 3H and 14C waste with an average activity > 0.05 µCi per gram of tissue.
+
+--- Chunk 78 ---
+19 | P a g e  
+§ All other radionuclides other than 3H and 14C. 
+(e) Use strong, tightly closed, leak-proof plastic bags for animal remains. Bags must be frozen 
+and stored in the PH’s approved freezer until pick-up. 
+(f) Do not place sharps or needles in the bags. Collect paper, plastic, foil, syringes, and 
+absorbents separately and treat to reduce non-radiological hazards. 
+(g) Label bags with the radionuclide, date, PH name, and the total activity per gram weight, 
+averaged over the initial weight of the disposed animal. 
+ 
+(iv) Uranium and Thorium: Waste containing U/Th in any form must be collected separately: 
+(a) Dry uranyl acetate, uranyl nitrate, thorium nitrate, and solutions containing any 
+concentration of these shall be collected and disposed of as radioactive waste. 
+(b) Never combine uranium or thorium waste with any other chemical such as lead citrate. 
+(c) The gram weight of uranium or thorium compounds in the container must be recorded on the
+
+--- Chunk 79 ---
+(c) The gram weight of uranium or thorium compounds in the container must be recorded on the 
+label. Identify any other hazardous chemical in the container. 
+(v) Mixed Waste: 
+(a) Mixed waste contains RAM and one or more hazardous chemical components. Most 
+chemicals classified by the EPA as hazardous are regulated under the Resource Conservation 
+and Recovery Act (RCRA). The hazardous component can be a listed hazardous waste (40 
+CFR 261, Sub-Part D), or exhibit any one of the hazardous waste characteristics (40 CFR 
+Part 261, Subpart C). 
+(b) Due to the expense and difficulty of disposal, generation of mixed radioactive is specifically 
+PROHIBITED unless approved in advance in writing by the RSO. The full cost incurred for 
+disposal will be passed on to the Permit Holder. 
+(c) Mixed waste containing radionuclides with a half-life < 120 days may be held for total decay 
+by Radiation Safety in certain situations and disposed of as hazardous waste. Obtain the
+
+--- Chunk 80 ---
+by Radiation Safety in certain situations and disposed of as hazardous waste. Obtain the 
+approval of the RSO before generating this waste. 
+(d) Do not mix any lead materials with RAW. 
+(vii) Chelating Agents: 
+(a) Chelating agents include amine polycarboxylic acids (EDTA, DTPA) and hydroxy- 
+carboxylic acids (citric acid, gluconic acid) used as binding agents. 
+(b) High concentrations of chelating agents in RAW may affect stability. Identify the name and 
+weight percentage of chelating agent(s) in excess of 0.1% by weight. 
+ 
+4) Dry Solid Waste (DSW): 
+(i) Common DSW includes absorbent pads, paper, plastic, gloves, disposable labware, and pipettes 
+contaminated with RAM. Do not mix unabsorbed liquids, sharps, lead pigs, scintillation vials 
+(including empty vials), chemicals, or biological waste with DSW. 
+(ii) DSW must be segregated by radionuclide and half-life, with containers clearly labeled with 
+radioisotope name. Use shielding for gamma and high energy beta emitters.
+
+--- Chunk 81 ---
+radioisotope name. Use shielding for gamma and high energy beta emitters. 
+(iii) Rules for DSW: 
+(a) No liquids shall be placed in DSW containers except for small amounts on absorbent. 
+(b) No lead items shall be discarded in the DSW stream. Store separately for pick-up.
+
+--- Chunk 82 ---
+20 | P a g e  
+(c) No broken glass, loose needles, or unprotected sharps are permitted in DSW. Place these 
+materials in a separate plastic container that protects handlers from injury and store 
+separately for pickup. 
+(d) No flammable, pyrophoric or water reactive materials are permitted. 
+(e) No biological, pathogenic, or infectious material shall be placed into DSW. 
+(f) Organic solvent-contaminated items or items capable of generating toxic gases, vapors or 
+fumes are specifically prohibited from DSW. 
+(g) Chelating agents must be less than 0.1% by weight. 
+(h) Waste containers must have a label affixed with the Permit Holder’s name, radionuclide, 
+activity, date, and room #. 
+ 
+5) Aqueous Liquid Waste (ALW): 
+(i) ALW has water as the primary constituent, such as aqueous phase extractions from experiments 
+and the first rinsing of RAM containers. Soluble organic or inorganic materials shall be present 
+only in minute quantities to avoid phase separation or precipitation.
+
+--- Chunk 83 ---
+only in minute quantities to avoid phase separation or precipitation. 
+(ii) Avoid adding organic or inorganic components to ALW as even small amounts may result in a 
+mixed waste. For example, a solution with 6% methanol in water is a mixed waste. Consult with 
+Radiation Safety before adding any hazardous material to ALW. 
+ 
+(iii) Rules for ALW: 
+(a) No solids are allowed in ALW. 
+(b) Do not overfill or use large containers (> 10 liter), to avoid lifting issues. Use containers 
+approved by Radiation Safety. 
+(c) The pH of ALW shall be within the range of 5 to 9. 
+(d) Do not add liquid scintillation fluid to ALW. 
+(e) Waste must contain less than 0.1% by weight chelating agents. 
+(f) Containers must bear a label that indicates Permit Holder’s name, radionuclide, activity, and 
+percentage of non-aqueous material. 
+(g) Disposal via the sanitary sewer system is prohibited at UNM. 
+ 
+6) Liquid Scintillation Vial Waste (LSV):
+
+--- Chunk 84 ---
+6) Liquid Scintillation Vial Waste (LSV): 
+(i) Liquid scintillation fluids may contain xylene or toluene which is hazardous. UNM recommends 
+the use of non-hazardous scintillation fluid which is commercially available. 
+(ii) LSV should be segregated based on the radionuclides present and the average activity per gram of 
+media as follows: 
+(a) 3H and 14C waste with an average activity < 0.05 µCi (approximately 111,000 dpm/ml) per 
+gram of media. 
+(b) All other radionuclides of any activity in LS fluid, and 3H and 14C waste with an average 
+activity of > 0.05 µCi per gram of media. 
+(iii) Collect waste vials upright in flats with caps secured. Do not collect bulk liquid LS fluid. 
+(iv) Estimate the total activity of the LSV using counts from the liquid scintillation counter (LSC) and 
+known volume. Generators should be prepared to justify stated activities with documented 
+calculations.
+
+--- Chunk 85 ---
+21 | P a g e  
+(v) Rules for LSW: 
+(a) No solids allowed (except counting media). 
+(b) Segregate vials containing 3H and 14C from other radionuclides. 
+(c) Make sure vial caps are tightened to avoid leakage. 
+(d) If a hazardous LS fluid is present (toluene), it must be listed on the label. 
+(e) Use the tray flats to collect vials and store vertically to reduce leakage. 
+(f) If vials are collected in 5-gallon containers, they must be securely capped and carefully 
+placed to prevent breakage and leaking. 
+(g) All waste containers must indicate Permit Holder’s name, radionuclide, activity, and 
+chemical percentages of waste. 
+ 
+7) Sealed Sources: 
+(i) Sealed sources at the end of their useful life or that are no longer needed by the Permit Holder may 
+be transferred to Radiation Safety for secure storage pending: 
+(a) Return to the manufacturer. 
+(b) Repurposing for beneficial use, following completion of transfer documents. 
+(c) Final disposal with a licensed waste broker.
+
+--- Chunk 86 ---
+(c) Final disposal with a licensed waste broker. 
+(d) Final disposal after DIS for 10 half-lives, finding radiation levels indistinguishable from 
+normal background, and removal of radiation labels. 
+ 
+ 
+XI. PERSONNEL RADIATION MONITORING (DOSIMETRY): 
+ 
+A) Occupational radiation monitoring of UNM workers is conducted according to NMAC Subpart 4. 
+B) The devices used to monitor occupational exposure may be thermoluminescent dosimeters (TLDs), 
+aluminum oxide (AlO3) dosimeters, solid state (Instadose) dosimeters, or other approved technology. The 
+provider shall be NVLAP-accredited (National Voluntary Laboratory Accreditation Program). 
+C) UNM employees, contractors, or students who work in or frequent radiation areas may complete a 
+“Dosimetry Enrollment Form” for review by Radiation Safety, who will determine if badge(s) are needed. 
+If it can be shown that an individual is likely to receive an annual dose greater than 10% of the dose limit,
+
+--- Chunk 87 ---
+they must be issued a badge. Others may be issued badges for risk management purposes. 
+D) New badge participants must complete Dosimetry Training within 30 days of hire, which covers 
+instructions on proper use and care of the badge and expectations of a radiation worker. Function-specific 
+radiation safety training is also required that covers the safe operating practices of the participant’s specific 
+department. 
+E) Workers Will be Issued a Badge if Meeting one or more of the Following Conditions: 
+1) Adults who in the course of work may exceed in one calendar year 10% of the occupational limits in 
+NMAC 20.3.4.405; 
+2) Minors likely to receive a deep, lens, or shallow dose equivalent of 50 mrem, 150 mrem, or 500 mrem, 
+respectively; 
+3) Expecting mothers who have declared pregnancy in writing; 
+4) Individuals entering a high or very high radiation area, as defined in NMAC 20.3.4.7; 
+5) Independent operators of medical fluoroscopic equipment; or
+
+--- Chunk 88 ---
+22 | P a g e  
+6) Any person or group of persons carrying out approved activities with radiation sources who, at the 
+discretion of the appointed Radiation Safety Officer, requires individual monitoring for risk management 
+purposes. 
+F) Rules for Badge Use: 
+1) The purpose of the badge is to document an individual’s occupational radiation exposure and to 
+demonstrate compliance with annual dose limits and ALARA levels. Badge data also provides 
+information to the RSO about the effectiveness of the radiation safety program. 
+2) Always wear the badge while working in radiation areas and place in a designated low background area 
+after working hours. Do not remove from the workplace unless special conditions warrant (the 
+employee works at 2 different locations, for example). 
+3) Clip the badge onto personal clothing in the neck or chest area, with the label facing outward, and 
+positioned so that the front of the badge faces the radiation source. Do not hang the badge on a lanyard
+
+--- Chunk 89 ---
+or place on clothing that might allow the badge to shift to different positions. 
+4) Wear the badge OVER the lead apron, not underneath it. Do not allow the apron to cover the badge 
+even partially as it can cause false beta readings. One exception to this rule is the “fetal monitor” as 
+issued to a declared pregnant worker (DPW), which is worn underneath the lead at abdomen level. 
+5) Do not loan or borrow badges from co-workers; wear only the badge assigned to you. 
+6) Do not wear or bring your badge if you are receiving a personal medical exam involving radiation. 
+7) Promptly report missing, lost, or damaged badges to the RSO. 
+8) Badges have an exchange frequency of monthly or quarterly (the wear period) based on risk. Return 
+old badges to Radiation Safety on or about the last working day of the wear period and begin wearing 
+the new badge. A “badge coordinator” is designated for each department to assist with the exchange
+
+--- Chunk 90 ---
+the new badge. A “badge coordinator” is designated for each department to assist with the exchange 
+process. Late fees may be assessed for unreturned badges or badges not returned on time. 
+9) Ring dosimeters shall be worn on the hand most likely to receive the highest dose, with the label 
+section towards the palm of the hand. 
+10) Do not wear your badge at non-UNM locations (if moonlighting). The worker is responsible to notify 
+the RSO at each location that they work so that badge data may be shared. 
+11) Notify the RSO immediately upon termination 
+of employment, badge loss, accidental badge exposures, 
+or if job duties change relative to work with radiation. 
+ 
+G) ALARA Levels and Guidelines: 
+1) UNM shall use administrative procedures and engineering controls based upon sound radiation 
+protection principles to achieve occupational doses that are ALARA. 
+2) Benchmarking data and published peer-reviewed articles should be used to compare occupational doses
+
+--- Chunk 91 ---
+for specific user groups to national guidelines (as available).
+
+--- Chunk 92 ---
+23 | P a g e  
+3) ALARA action levels are established and approved by the RCC, which are well below the annual dose 
+limits and serve as a trigger for review and follow-up. The quarterly ALARA action levels at UNM are: 
+(i) Whole Body: Level I = 300 mrem (3 mSv); Level II = 600 mrem (6 mSv) 
+(ii) Extremity: 6000 mrem (60 mSv) 
+(iii) Lens of Eye: 1800 mrem (18 mSv) 
+4) If a participant exceeds ALARA Level I, and the exposure cannot be justified by the RSO, a 
+notification letter will be sent to the individual. A list of all affected personnel will be presented to the 
+RCC at the next scheduled meeting. 
+5) If a participant exceeds ALARA Level II, an ALARA investigation letter may be sent to the individual 
+if the RSO cannot justify the exposure. The individual may be sent an alert notification for general 
+awareness. A list of Level II personnel will be presented to the RCC. 
+I) Annual Dose Limits:
+
+--- Chunk 93 ---
+awareness. A list of Level II personnel will be presented to the RCC. 
+I) Annual Dose Limits: 
+1) Whole Body: The more limiting of the total effective dose equivalent (TEDE) equal to 5.0 rem (0.05 
+Sv), or the sum of the deep dose equivalent (DDE) and the committed dose equivalent (CDE) to any 
+individual organ other than the lens equal to 50.0 rem (0.5 Sv). 
+2) Lens: A lens dose equivalent (LDE) equal to 15.0 rem (0.15 Sv). 
+3) Skin or Extremity: Shallow dose equivalent (SDE) of 50.0 rem (0.5 Sv) to skin or extremity. 
+4) Minor: For a minor under the age of 18, the limit is 10% of any of the adult dose limits. 
+5) Embryo/Fetus of a DPW: The dose limit over the gestational period is 0.5 rem (5 mSv), with an 
+additional guideline of uniform delivery (< 50.0 mrem per each gestational month). 
+6) Member of the public (MOP): Defined as any individual who is not a badged radiation worker or
+
+--- Chunk 94 ---
+6) Member of the public (MOP): Defined as any individual who is not a badged radiation worker or 
+contractor or a patient receiving prescribed radiation. The annual limit is a TEDE of 0.1 rem (1 mSv) in 
+a year. If the exposure is infrequent, a limit of 0.5 rem (5 mSv) applies. Unrestricted areas shall not 
+exceed 2.0 mrem (0.02 mSv) in any one hour. 
+7) Patients: For patients receiving prescribed diagnostic or therapeutic radiation as ordered by an 
+Authorized User, there are no radiation limits. The licensee shall make all reasonable attempts to 
+ensure that patient doses are as low as possible. 
+J) Reports and Records: 
+1) Dosimetry Reports: 
+(i) Reports are promptly reviewed and signed by the RSO or designee upon receipt. 
+(ii) The review will include evaluation and justification of worker dose, error codes, trend analysis, 
+ALARA review, absent and unused badges, and fetal dose.
+
+--- Chunk 95 ---
+ALARA review, absent and unused badges, and fetal dose. 
+(iii) An immediate investigation will be conducted if any regulatory limit is exceeded. Communication 
+with the affected individual and evaluation of working conditions will be used by the RSO to 
+determine if the reported dose could be accurate. If so, the RCC will be notified and a report sent to 
+NMED as a reportable event. The RSO and the RCC shall determine if restrictions should be made 
+to limit any further radiation exposure. 
+(a) If the investigation definitively concludes that the reported dose is not a true and accurate 
+representation of the worker’s dose, the RSO shall adjust the dose of record by providing a 
+request in writing to the badge vendor. 
+(b) Examples of situations where dose of record may be legally adjusted:
+
+--- Chunk 96 ---
+24 | P a g e  
+• Worker wore their badge during a CT scan or radiation treatment. 
+• Workers badge was missing for a period of time and found under a 
+fluoroscopy table. 
+• Badge left on an apron and worn by multiple workers over time. 
+ 
+(iv) If a badge is lost or unreturned 90 days from the end of a wear period, a dose estimate will be 
+calculated by Radiation Safety or the badge vendor and added to the dose of record. The standard 
+vendor formula for estimation will be used. 
+(v) The RSO will send dosimetry reports to the Manager or Supervisor of each department, who will 
+make them available to participants. 
+(vi) The RSO maintains dosimetry reports for the life of the license. 
+ 
+2) Form 5 - Annual Report of Worker Dose (20.3.10.1003.B): 
+(i) A summary report of total annual exposure for the preceding calendar year will be issued to each 
+participant who received in excess of 100 mrem (1.0 mSv) TEDE or TODE for the year in question
+
+--- Chunk 97 ---
+participant who received in excess of 100 mrem (1.0 mSv) TEDE or TODE for the year in question 
+or if they request one. Managers will be made aware that the reports are available and communicate 
+this to their staff. 
+(ii) Reports are distributed as confidential following receipt of all badge data from the dosimetry 
+vendor. Persons in receipt of a Form 5 are instructed to preserve the report for future reference. 
+3) Termination and History Reports: 
+(i) A final dosimetry report will be sent to terminating employees upon request and following receipt 
+of the last calendar year dosimetry report. 
+(ii) At the request of a former employee who was badged at UNM, or at the request of their new 
+employer, Radiation Safety will provide the badge data in writing to the requestor in a timely 
+manner. This information will be released to a third party only if the request is signed and dated by 
+the former employee, authorizing release of their badge data.
+
+--- Chunk 98 ---
+the former employee, authorizing release of their badge data. 
+(iii) New UNM employees who were badged at another location during the current calendar year are 
+required to provide their previous badge data to Radiation Safety. Alternately they may authorize 
+the UNM RSO to obtain their current year history from previous employer(s) by signing a form 
+designed for that purpose. 
+4) Bioassay: 
+(i) Individuals involved in open bench operations with unsealed RAM above the activity levels in 
+Section XII of this manual shall have their use scenario evaluated by the RSO to determine if 
+bioassay testing should be performed, and the method and frequency to be employed. 
+(ii) Exemptions to bioassay include radionuclides present as metallic foils, plated sources, therapeutic 
+radiopharmaceuticals administered in unopened capsular form or intravenously, and other material 
+forms not likely to disperse.
+
+--- Chunk 99 ---
+forms not likely to disperse. 
+(iii) For therapeutic administration of liquid 131I NaI, or for researchers performing protein iodination, 
+thyroid bioassay shall be performed within 24-48 hrs following use. A thyroid uptake probe shall 
+be used with results recorded in a log maintained for that purpose. Baseline bioassays should be 
+performed for new staff before first use. 
+(iv) Bioassay samples may be analyzed at UNM using methods appropriate for the radionuclide, 
+chemical form, and route of excretion. The RSO shall provide guidance on a case-by-case basis.
+
+--- Chunk 100 ---
+25 | P a g e  
+XII. LAB SURVEYS: 
+A) Research Lab Self-Surveys: 
+1) Permit Holders shall periodically assess radiation levels in all authorized use locations. The survey 
+frequency is monthly for active use labs. Inactive labs need only survey the radiation source storage 
+area. No survey is required if the Permit Holder is inactive and has no RAM inventory. 
+2) Part I of the lab survey consists of making radiation measurements throughout the lab at key 
+locations, using an appropriate portable instrument that is sensitive to the radiation types in use. Key 
+locations include workstations, RAM use, storage and disposal areas, high touch surfaces, and 
+adjacent unrestricted areas. Results of the area survey should be recorded in mR/hr or cpm. 
+3) Part II of the lab survey consists of wipe testing to check for removable contamination on surfaces. If 
+contamination is found that exceeds the established tolerance, the area shall be decontaminated and
+
+--- Chunk 101 ---
+resurveyed. Results of wipe tests should be recorded in dpm/100 cm
+2. 
+B) Nuclear Medicine: 
+1) Ambient surveys and wipe tests will be conducted in accordance with 20.3.4.404(D), 
+20.3.4.416, and 20.3.7.703(H) NMAC, and recorded in mR/hr in the Nuclear Medicine 
+recordkeeping system.  
+2) End-of-workday (daily) surveys shall be performed with a survey instrument in all areas 
+where radiopharmaceuticals are prepared or administered, except patient rooms. Weekly 
+surveys shall be performed in all areas where radiopharmaceuticals or wastes are stored.  
+3) Wipe tests shall be performed and recorded in dpm/100 cm2 end-of-workday (daily) in all areas where 
+radiopharmaceuticals requiring a written directive are used and weekly for all other areas where 
+radiopharmaceuticals are routinely prepared, administered, or stored. 
+4) Rooms used for in-patient radiopharmaceutical therapy shall be closed following patient discharge until
+
+--- Chunk 102 ---
+radioactive waste is removed and contamination levels are below established tolerances. 
+C) Cancer Center: 
+1) For low dose rate (LDR) brachytherapy implants, survey the area after administration to account for 
+any sources that have not been implanted and to assess patient radiation levels at 1 meter and at 
+contact. Immediately after removing the last temporary implant from a patient, survey the patient to 
+confirm that all sources have been removed. 
+2) For high dose rate (HDR), after treatment but before releasing a patient, survey the patient and 
+HDR unit to confirm that the radiation source has returned to the shielded position in the device. 
+3) Upon installation of a new HDR source or after repairs to the source shielding, driving unit, or 
+electromechanical components, survey to verify that maximum and average radiation levels from the 
+surface of the main source safe are within SSDR tolerances. 
+D) Radiation Safety Office Surveys:
+
+--- Chunk 103 ---
+surface of the main source safe are within SSDR tolerances. 
+D) Radiation Safety Office Surveys: 
+1) UNM Radiation Safety shall conduct periodic surveys in labs where unsealed licensed RAM is used, 
+stored, and disposed, at a frequency commensurate with risk. Audits  shall document key 
+compliance items, observation of work practices, and measurement of area radiation levels. 
+2) Analytical and industrial devices which produce x-ray shall be surveyed periodically by Radiation 
+Safety to ensure safe and secure operating and storage conditions. 
+3) Surveys of areas where SNM and source material are used and stored shall be performed at least 
+annually by Radiation Safety to confirm external radiation fields, security, functionality of system 
+interlocks and alarms, and regulatory compliance.
+
+--- Chunk 104 ---
+26 | P a g e  
+(i) Close-out Surveys and Release for Unrestricted Use: 
+(a) After disposal/transfer of all RAM, Radiation Safety performs surface radiation 
+measurements and wipe tests in the lab, evaluates RAM use and spill history, and 
+authorizes release when results are indistinguishable from background. 
+(ii) New Radioisotope Lab Commissioning: 
+(a) Before a new Permit Holder may begin using RAM, the new lab shall be inspected by 
+Radiation Safety to ensure all required equipment, signs and labels, storage containers, lab 
+notebook and required forms and procedures are available. 
+(iii) Radiopharmaceutical Therapy Rooms (inpatient or outpatient): 
+(a) Radiation measurements of the patient at 1 meter and at contact will be made by Radiation 
+Safety staff or a designee. Following inpatient dose administration, radiation levels in all 
+accessible adjacent areas shall be made and documented. 
+(b) Clinical spaces used by patients undergoing radiopharmaceutical therapy will be released
+
+--- Chunk 105 ---
+(b) Clinical spaces used by patients undergoing radiopharmaceutical therapy will be released 
+from licensee control when area radiation and contamination levels are in compliance with 
+regulatory limits (no individual, when continuously present, could receive a dose in excess 
+of 2.0 mR in any one hour. 
+ 
+E) Survey Action Levels: 
+1) Permit holders shall be responsible to take actions to reduce ambient dose rate and/or 
+contamination levels below the established action levels listed in Tables 1 and 2 below. 
+2) Survey results shall be maintained in the Lab Notebook or equivalent auditable record. 
+3) Survey Action Levels: 
+Table 1 
+Ambient Dose Rate Action Levels 
+Area Surveyed Action Level (mR/hr) 
+Unrestricted Area 0.1 
+Restricted Area 2.0 
+Table 2 
+Loose Surface Contamination Levels1,2 
+Area Surveyed Action Level (dpm/100 cm2) 
+Unrestricted Area 200 
+Restricted Area 2000 
+1 More restrictive loose surface contamination limits may be enforced on specific permits based on
+
+--- Chunk 106 ---
+1 More restrictive loose surface contamination limits may be enforced on specific permits based on 
+radiotoxicity, hazard group (see Table 4), and radiation emitted by radionuclides in use.  
+2 Contamination in restricted areas should be well below 2000 dpm/100 cm2 as much as possible. 
+ 
+Table 3 
+Activity Levels Requiring Surveys Same Day of Use 
+(10 X Schedule B Quantities) 
+Radioisotope Activity (uCi) Radioisotope Activity (uCi) 
+Hydrogen-3 10,000 Chromium-51 10,000 
+Carbon-14 1,000 Technetium-99m 1,000 
+Phosphorus-32 100 Iodine-125 10 
+Sulphur-35 1,000 Iodine-131 10 
+Fluorine-18 10,000 Gallium-68 1,000
+
+--- Chunk 107 ---
+27 | P a g e  
+Table 4 
+Radionuclide Hazard Groups (*gamma emission) 
+Group 1 
+Very High 0.1 mCi 
+Group 2 
+High 1 mCi 
+Group 3 
+Medium 10 mCi 
+Group 4 
+Low 100 mCi 
+ 
+ 
+Na-22* 
+Ca-34 
+Sc-46* 
+Co-60* 
+Sr-90 
+Ru-106* 
+I-125 
+I-129 
+I-131* 
+Cs-137* 
+Ce-144* 
+Eu-154* 
+Ta-182* 
+Bi-210 
+At-211 
+Ra-224 
+U-233 
+C-14 
+Y-90 
+Y-91 
+Zr-93* 
+Nb-95* 
+Mo-99* 
+Ru-103* 
+Rh-105* 
+Pd-103 
+Ag-105 
+Ag-111 
+Cd-109* 
+Sn-113* 
+I-123 
+Te-127* 
+Te-129m* 
+Ba-140* 
+La-140* 
+Pr-143 
+Pm-147 
+Sm-151  
+ 
+ 
+ 
+H-3 
+Be-7* 
+O-15 
+F-18 
+Ga-68 
+Ni-59 
+Zn-69 
+Ge-71 
+Tc-99m 
+U-238 
+Natural Thorium 
+Natural Uranium 
+Noble Gases 
+Pb-210* Na-24* Ho-166* 
+Po-210 Si-31 Tm-170* 
+Ra-223 P-32 Lu-177* 
+Ra-226* S-35 Re-183* 
+Ra-228* Cl-36 Ir-190* 
+Ac-227 K-42* Ir-192 
+Th-228 
+Th-230 
+Np-237 
+Pu-238 
+Pu-239 
+Pu-240 
+Sc-47 
+V-48* 
+Cr-51* 
+Mn-54* 
+Mn-56* 
+Fe-55 
+Fe-59* 
+Pt-191* 
+Pt-193* 
+Au-196* 
+Au-198* 
+Au-199* 
+Tl-200* 
+Tl-201* 
+Pu-241 Cu-64* Tl-202 
+Pu-242 Zn-65* Tl-204 
+Am-241* Ga-72* Pb-203* 
+Cm-242 As-76* Rn-220
+
+--- Chunk 108 ---
+Tl-201* 
+Pu-241 Cu-64* Tl-202 
+Pu-242 Zn-65* Tl-204 
+Am-241* Ga-72* Pb-203* 
+Cm-242 As-76* Rn-220 
+Cf-252 Rb-86* Rn-222* 
+ Sr-89 U-235 
+ 
+XIII. RADIOLOGICAL INSTRUMENTS: 
+ 
+A) Portable Instrument Calibration: 
+1) Portable survey meters shall be calibrated before first use, annually, and following any major repair 
+that could affect the calibration. Radiation Safety may calibrate UNM survey meters or use a third 
+party commercially licensed firm for instrument calibration. 
+2) Instruments used only for low-level contamination monitoring may be electronically calibrated using a 
+pulser. Instruments used for making exposure rate measurements will be calibrated using a certified 
+NIST-traceable gamma radiation source. For each type of calibration, the requirements of 
+20.3.7.703(C) will be met. 
+3) All instruments used to comply with the requirements of 20.3.7 shall have a dedicated check source, 
+preferably attached to the instrument, and proper operability confirmed each day of use by
+
+--- Chunk 109 ---
+preferably attached to the instrument, and proper operability confirmed each day of use by 
+comparing the measured value to that indicated on the calibration sticker. Records of this daily 
+operability check are not required. 
+4) A calibration label will be affixed that identifies the instrument and serial number, calibration date and 
+next due date, calibration source, check source reading (if applicable), correction factors (if any) and 
+the name or initials of the person performing the calibration. Instrument calibration records are stored 
+in accordance with 20.3.7.715(F) for 3 years. 
+XIV. RADIATION SAFETY RECORDS and REPORTS: 
+A) Radiation Safety will maintain records required by NMAC in a central location. The informational contents 
+and radiological data in each record shall be consistent with NMAC expectations and retention frequencies. 
+Records shall be maintained in an auditable format and organized to facilitate quick access.
+
+--- Chunk 110 ---
+28 | P a g e  
+B) End-users shall maintain radiation safety records in a lab notebook. The contents shall include the current 
+Radiation Permit, instrument calibration records, source inventory and accountability, leak test reports, lab 
+surveys, radioactive waste records, and all radiation safety training records. A link to the NMAC 
+regulations and to the UNM Radiation Safety Manual shall be readily accessible to all lab personnel. 
+C) External Reporting: 
+1) The RSO, with the RCC and Management, shall determine if radiation incidents are to be reported to a 
+regulator. Under no circumstances (except as noted in the “Notice to Employees” Form), shall an end- 
+user, AU, Permit Holder, or any supervised worker carry out external reporting. UNM supports a 
+centralized communication process, after a thorough investigation conclusively determines that an 
+event is reportable, and consensus has been reached by all key stakeholders. This shall be considered 
+the point of discovery.
+
+--- Chunk 111 ---
+the point of discovery. 
+2) The RSO shall maintain open communications with NMED, make notifications as required, and 
+promptly respond to inquiries and requests for information from NMED. 
+ 
+XV. POSTING AND LABELING: 
+ 
+A) Radiation Signs: 
+1) Signs shall be posted to make individuals aware of a radiation hazard before that individual enters an 
+area, so that the proper precautions can be taken to minimize radiation exposure. 
+2) Each sign shall bear the universal warning symbol and colors for radiation hazard as defined in NMAC 
+20.3.4.427. The wording on the sign shall be: 
+(i) Caution Radioactive Material: Areas where licensed RAM is used or stored, in quantities > 10x 
+that listed in NMAC 20.3.4.462 Appendix C “Labeling Requirements”. 
+(ii) Caution Radiation Area: Radiation levels exist that could expose an individual to 5 mrem (0.05 
+mSv) in one hour at 30 cm from the source or surface the source penetrates.
+
+--- Chunk 112 ---
+mSv) in one hour at 30 cm from the source or surface the source penetrates. 
+(iii) Caution High Radiation Area: Radiation levels exist that could expose an individual to 100 mrem 
+(1.0 mSv) in one hour at 30 cm from the source or surface the source penetrates. 
+(iv) Caution Very High Radiation Area: Radiation levels exist that could expose an individual to 500 
+rad (5.0 Gy) in one hour at 100 cm from the source or surface the source penetrates. The words 
+“Grave Danger” should be used unless the words would cause undue stress to patients. 
+(v) Caution X-Ray: In areas where stationary x-ray producing equipment is used. 
+3) Exemptions to Posting Requirements: 
+(i) For periods of < 8 hours, when the radiation source is constantly attended by an individual who 
+takes the necessary precautions to prevent exposure to others. 
+(ii) Hospital rooms housing radiation patients who meet the release criteria.
+
+--- Chunk 113 ---
+(ii) Hospital rooms housing radiation patients who meet the release criteria. 
+(iii) Rooms having a sealed source or radiation-producing device with radiation levels < 5.0 mrem/hour 
+at 30 cm. 
+ 
+B) Notice to Employees Form (NRC-3 and NMED-045): 
+1) “Notice to Employees” forms shall be visibly posted in a sufficient number of places in each 
+department where licensed activities are conducted. Workers should be able to observe this posting in 
+their normal course of duties.
+
+--- Chunk 114 ---
+29 | P a g e  
+2) The NMAC regulations, UNM operating procedures, licenses, license conditions, and other documents 
+associated with the license should be posted as required by NMAC 20.3.10.1001. A posted statement 
+identifying where these documents are stored is acceptable in lieu of the posting. 
+C) Radiation Safety Contact Information: 
+All labs using RAM or registered radiation sources are required to post the current contact information for 
+UNM Radiation Safety. The most current version is available by contacting UNM Radiation Safety at 
+HSC-radiationsafety@salud.unm.edu 
+D) X-Ray Machine Registration and Operator Certificates: 
+1) Valid registration certificates shall be maintained for all x-ray producing units. Radiation Safety shall 
+initiate renewals within 30 days of an expiration. 
+2) Registration certificates shall be posted in areas where x-ray equipment is used. 
+3) Only qualified individuals may operate x-ray equipment. This includes individuals certified by NMED
+
+--- Chunk 115 ---
+(NMAC 20.3.20.300) or exempt under NMAC 20.3.20.300 (licensed practitioners or supervised 
+students and residents in a formal program of study). X-ray operators are responsible to renew 
+certificates in a timely manner. Certificates of licensure shall be publicly displayed. 
+E) Labeling: 
+1) Containers holding licensed RAM shall be clearly labeled with the radiation symbol and the words 
+“Caution Radioactive Material”. Other required information on the label includes the radionuclide, 
+activity, date, and lab number. Exemptions to container labeling are: 
+(i) Containers holding RAM in quantities less than that listed in NMAC 20.3.4.462. An 
+abbreviated list of quantities requiring labeling is in Attachment C. 
+(ii) Containers holding RAM in concentrations less than Table III of NMAC 20.3.4.461. 
+(iii) Containers while in use and under constant surveillance by a radiation worker. 
+2) Containers that are exempt from full labeling continue to require a “Caution Radioactive Material”
+
+--- Chunk 116 ---
+label. Exceptions are allowed for physically small containers such as microcentrifuge tubes or liquid 
+scintillation vials where the label will interfere with the intended use. In those cases, the tray or box 
+holding the containers should be labeled. 
+3) Before moving empty containers to the normal trash that formerly held RAM: 
+(i) Survey the container inside and out with an appropriate survey meter set on its most sensitive scale 
+and with no interposed shielding, to demonstrate that radiation levels are indistinguishable from 
+background. For low energy beta emitters such as 3H, 14C, and 35S, wipe test the container and 
+count wipes with a LSC. 
+(ii) Remove or obliterate all symbols, wording, and markings indicating radiation hazard. 
+(iii) If the end-user wishes to keep an empty container for future use, an “Empty” label should be 
+placed over the radiation markings. 
+4) X-ray producing devices shall have a label at the console that contains the radiation symbol, and the
+
+--- Chunk 117 ---
+words “WARNING: this x-ray unit may be dangerous to patient and operator unless safe exposure 
+factors and operating instructions are observed”. 
+5) X-ray producing devices for analytical or industrial use shall have a label at the console with the words 
+“Caution-high intensity x-ray ray beam”, or the equivalent. In addition, the words “Caution: x-rays 
+produced when energized” must be present near the operating switch.
+
+--- Chunk 118 ---
+30 | P a g e  
+F) “Lab Safety Rules” shall be posted with the following content: 
+1) Keep RAM, contaminated equipment, and sealed sources in designated and properly labeled 
+containers. Set up your lab to facilitate contamination control. 
+2) Keep RAM work areas clean, uncluttered, and organized. 
+3) Secure RAM after business hours or when the lab is unoccupied, even for short periods of time and for 
+any quantity of radioactivity. Security of RAM shall be continuous. 
+4) Wear whole body and ring dosimeters (as applicable) when working with RAM. 
+5) Operations in which radionuclides may become airborne require special consideration in regard to 
+monitoring and sampling. Contact the RSO for instructions. 
+6) Do not smoke, eat, drink, or store food or beverages in any posted RAM lab. 
+7) Use mechanical devices to pipette radioactive solutions. 
+8) Survey the work area and your entire person after every use of unsealed RAM.
+
+--- Chunk 119 ---
+8) Survey the work area and your entire person after every use of unsealed RAM. 
+9) Store and transport RAM in a manner to prevent breakage or spillage. 
+10) Wear lab coats and other PPE to prevent contamination commensurate with the amount of RAM in use. 
+Wear disposable gloves when handling anything potentially contaminated. 
+11) Use absorbent paper to line work areas and exchange when necessary. Secondary containment (spill 
+trays) is required when working with radioactive liquids. 
+12) Immediately contain and attend to any spill of RAM. Clear the area of persons not involved in the spill 
+and contact the RSO for assistance as necessary. 
+13) Potentially contaminated equipment may not leave a RAM Lab for service, calibration, repair, disposal 
+etc. without first being cleared by the RSO or designee. 
+14) Pressure may build up in vials of radioactive solutions and could be released by inserting a hypodermic
+
+--- Chunk 120 ---
+syringe needle through the rubber seal. A cotton or wool plug is recommended to trap this spray. In the 
+case of a screw cap vial, surround the rim of the cap with cotton and, unscrew the cap slowly until 
+pressure is equalized. Always work over a tray in a fume hood. 
+ 
+XVI. SPILL AND EMERGENCY RESPONSE: 
+ 
+A) Major and Minor Radioactive Material (RAM) Spills: 
+1) RAM spills can be minor or major. Minor spills generally involve low levels of radioactivity, are easily 
+contained, and are relatively simple to clean up. A major spill has more significance and must be 
+reported to Radiation Safety. A major spill has one or more of the following characteristics: 
+(i) Involves a large (mCi) quantity of radioactivity. 
+(ii) Causes a radiation level that exceeds 2.0 mR/hr at 30 cm. 
+(iii) Involves radionuclides with high radiotoxicity (see Section XII Table 4). 
+(iv) Is spread over a large area or irregularly shaped area. 
+(v) Difficult to immediately contain and clean.
+
+--- Chunk 121 ---
+(v) Difficult to immediately contain and clean. 
+(vi) Involves skin contamination, an injury, and/or radiation exposure to any individual. 
+(vii) Occurs in an unrestricted area. 
+(viii) Threatens to be released into air, water, or sanitary sewer. 
+(ix) Is beyond the worker’s comfort level or abilities.
+
+--- Chunk 122 ---
+31 | P a g e  
+2) Spill Response: 
+(i) STOP work activities and attend to the spill, using PPE commensurate with the risk, including 
+gloves and shoe covers at a minimum. 
+(ii) Medical care of injured individuals shall take priority over radiation issues. 
+(iii) If multiple hazards are present, the primary hazard such as a fire, flood etc. shall take precedence. 
+Assist the injured, extinguish the fire, pull the fire alarm, control the source of flooding etc., and 
+then attend to the spill. Immediately placing absorbent material on the spill to prevent spread is a 
+recommended concurrent initial action. 
+(iv) If the spill could involve a release of RAM to the air, causes high radiation levels (10’s-100’s of 
+mR/hr), or otherwise involves complex circumstances requiring assistance, evacuate the area, lock 
+the door, and contact the RSO. Remain in the area until the RSO arrives on the scene. Additional
+
+--- Chunk 123 ---
+the door, and contact the RSO. Remain in the area until the RSO arrives on the scene. Additional 
+assistance may be requested of UNM Security, UNM Police Department (UNMPD), or the hospital 
+Safety Alert System (333). 
+(v) Take steps to minimize the spread of contamination. 
+(vi) Warn others to stay away from the affected area. If individuals may be contaminated, detain them 
+until they can receive a full body survey. 
+(vii) Persons with skin contamination shall immediately flush the affected area with warm water and 
+gently scrub with mild soap, taking care not to abrade the skin. Document the area of skin affected, 
+initial cpm or mR/hr measured at 1 cm, the date and time, and radiation readings and times 
+following all decontamination efforts. 
+(viii) Delineate the spill boundary. Use barriers or rope to maintain security. 
+(ix) Obtain the spill kit. Set up a container to collect radioactive waste. Decontaminate the area working
+
+--- Chunk 124 ---
+from areas of low to high contamination (perimeter to center). Continue until radiation readings are 
+indistinguishable from background or no further reductions are achievable. Gloves shall be 
+changed frequently. 
+(x) Write an incident report identifying radiation levels, affected locations, affected personnel, root 
+cause, contributing factors, and steps to prevent reoccurrence. 
+ 
+3) Other Radiation Emergencies and Incidents: 
+(i) Fire, smoke, or flooding in any RAM use area. 
+(ii) A natural disaster event that threatens the integrity or security of radiation sources. 
+(iii) Unauthorized entry into a radiation area or other security breach. 
+(iv) Loss or theft of RAM or radiation-producing device. 
+(v) Malfunction of any device designed to maintain radiation source safety. 
+(vi) An in-house therapeutic radiation patient who codes, requires transfer from their assigned room 
+due to a medical emergency, or dies.
+
+--- Chunk 125 ---
+due to a medical emergency, or dies. 
+(vii) A therapeutic radiation patient who is released to home with radiation precautions, but who 
+presents in the ER due to a medical condition, or who otherwise cannot follow the radiation 
+precautions issued at the time of discharge. 
+(viii) A radiation accident victim in the ER who is contaminated and injured (requires activation of the 
+Hospital Radiation Incident Response Plan)
+
+--- Chunk 126 ---
+32 | P a g e  
+XVII. RADIATION SAFETY PROGRAM CHANGES: 
+ 
+A) UNM possesses a Type A Broad Scope RAML, which allows flexibility in making internal radiation safety 
+decisions. Approval of Permit Holders is an example of such an internal decision. Documentation of the 
+basis for all internal decisions is required to be maintained for review by NMED during routine inspections. 
+B) UNM may make radiation safety program changes or revisions to procedures when approved by the RCC 
+and the change increases efficiency and safety with no negative impact. 
+C) The RCC will review and approve changes based on an assessment of any impact to regulatory 
+compliance, license conditions, and general radiation safety. The RCC may consider other sources of 
+information in the review and approval process. Documentation of the RCC review and approval and the 
+reason for the change will be in the RCC meeting minutes and the relevant department location.
+
+--- Chunk 127 ---
+33 | P a g e  
+ATTACHMENTS 
+ 
+ 
+ 
+A. UNM HSC - Office of Research Radiation Safety Organizational Chart 
+B. Radiation Control Committee (RCC) Member Guidelines 
+C. Quantities of Radioactive Material Requiring Labeling 
+D. UNM Radiation Safety Training Courses 
+E. Radiation Safety Forms 
+F. Acronyms Used throughout the RSM - Definitions 
+G. Signature Page
+
+--- Chunk 128 ---
+34 | P a g e  
+Attachment A - UNM HSC Office of Research 
+Organizational Chart
+
+--- Chunk 129 ---
+35 | P a g e  
+Attachment B – Radiation Control Committee (RCC) 
+ 
+ 
+ 
+I. The RCC membership follows the NMED regulations in Title 20 Chapter 3, Part 7.702(D). 
+II. The membership must include an AU for each type of use permitted by the RAML, the RSO, a nursing 
+service representative, and an Executive Management representative (not an AU or the RSO), and others as 
+appropriate. 
+III. A Chair will be appointed who is not the RSO or the Management representative. A Vice-Chair may be 
+appointed. 
+IV. The following is the suggested membership (department representation): 
+ 
+A. Radiation Safety Officer (RSO) 
+B. Licensee Executive Management 
+C. Nursing Representative 
+ 
+D. Basic Research Sciences (Biology, Chemistry, Physics) 
+ 
+C. Nuclear Engineering 
+ 
+D. Interventional Radiology 
+ 
+E. Nuclear Medicine 
+ 
+F. General Radiology 
+ 
+G. Blood Bank 
+ 
+H. Cardiology 
+I. Cancer Center (AU and AMP) 
+ 
+J. Diagnostic Imaging Physicist 
+ 
+K. UNMH Sandoval Regional Medical Center (SRMC)
+
+--- Chunk 130 ---
+36 | P a g e  
+Attachment C – Quantities of RAM Requiring Labeling 
+ 
+ 
+ 
+(partial listing from NMAC 20.3.4.462) 
+ 
+Radionuclide Quantity (microcuries) 
+H-3 1,000 
+C-14 100 
+F-18 1,000 
+Na-22 100 
+P-32 10 
+P-33 100 
+S-35 100 
+Cl-36 10 
+Ca-45 100 
+Cr-51 1,000 
+Mn-54 100 
+Fe-55 100 
+Fe-59 10 
+Co-57 100 
+Co-60 1 
+Ni-63 100 
+Zn-65 10 
+Ga-68 1,000 
+Ge-68 10 
+Sr-89 10 
+Sr-90 0.1 
+Y-90 10 
+Tc-99m 1,000 
+Cd-109 1 
+In-111 100 
+I-123 100 
+I-125 1 
+I-131 1 
+Cs-137 10 
+Ba-133 100 
+Sm-153 100 
+Gd-153 10 
+Th-201 1,000 
+Ra-223 0.1 
+Ra-226 0.1 
+Th-230 0.001 
+Th-232 100 
+Thorium-natural 100 
+U-232 0.001 
+U-235 0.001 
+U-238 100 
+Uranium-natural 100 
+Pu-239 0.001 
+Am-241 0.001
+
+--- Chunk 131 ---
+37 | P a g e  
+Attachment D - Radiation Safety Training Courses 
+ 
+A. “Introduction to Radiation Safety” 
+ 
+HSC-112-001 is an introductory live class for workers with minimal experience working with RAM. 
+Successful completion of this course is a prerequisite to working independently under a Permit Holder. The 
+course also serves as an excellent refresher course for experienced staff or new faculty. 
+The course is offered as needed and consists of a combination of didactic lectures, practical experiences, 
+on-line learning, and a final exam. Certificates are issued upon successful course completion. The course 
+may be challenged by successfully passing the exam and demonstrating sufficient technical proficiency, or 
+if a certificate of equivalent training, education, and/or experience is presented that occurred within the 
+preceding 3-year period from date of application, along with a course outline.
+
+--- Chunk 132 ---
+preceding 3-year period from date of application, along with a course outline. 
+The course content includes radiation physics fundamentals, a review of research radioisotopes, radiation 
+detection and measurement, radiation biology and health effects, dose reduction techniques, methods for 
+safe handling, storage, and disposal of RAM, regulations and compliance, applicable UNM policies and 
+procedures, a review of required records and reports, and identification and response to abnormal situations 
+and radiological emergencies. 
+ 
+B. “Radiation General Awareness” 
+ 
+This Learning Central Course #HSC-182 is intended for ancillary workers and non-radiation workers, who 
+have a business need to work in or around areas where radiation sources are used and stored but have no 
+responsibility for them. This is a “right-to know”, lay person overview of radiation information so that 
+workers can identify radiation source areas and understand that safety measures are in place, with an
+
+--- Chunk 133 ---
+emphasis on visual recognition and response to warning signs. UNM Physical Plant employees and non- 
+radiation workers in research laboratories are required to complete this course. 
+C. “HSC Radiation Safety Refresher Training” 
+This Learning Central Course #HSC-180 is intended for any radiation worker who has completed initial 
+radiation safety training and fulfills the annual refresher training requirement of NMAC 20.3.10.1002. The 
+course reinforces key concepts, reminds workers of important practices and regulatory requirements, and 
+reviews radiation safety operating procedures. 
+D. “Radiation Safety for Animal Resource Facility (ARF) Personnel” 
+This Learning Central Course #HSC-211-002 provides radiation safety instruction for individuals who 
+work with and around small live animals injected with RAM as well as sacrificed animals. Unique 
+challenges such as safely managing the cage environment are covered as well as a review of what could go
+
+--- Chunk 134 ---
+wrong and how to respond. ARF personnel are required to take this course annually. 
+E. “Personnel Radiation Monitoring with Radiation Badges” 
+ 
+This Learning Central Course #HSC-181 must be completed within 30 days of hire for new radiation 
+workers. Course content includes basic terminology, radiation protection, dosimeter use and care 
+guidelines, exposure limits, ALARA, and DPW instruction. 
+ 
+F. “X-Ray Diffraction Safety Training” 
+ 
+This Learning Central Course #HSC-112-002 presents information regarding hazards, best practices, and 
+regulations associated with the use of x-ray diffraction (XRD) devices. The training must be completed
+
+--- Chunk 135 ---
+38 | P a g e  
+before working with any XRD equipment and supplemented by function-specific training administered by 
+the XRD owner or key operator. 
+G. “Radiation Safety Training for Nurses” 
+ 
+Regulations dictate that nurses may not render care to radiation patients without first completing an 
+appropriate course of instruction, with refresher training required annually thereafter. The course content 
+includes discussion of all types of radiation sources that may be encountered in patient treatments 
+including pictures and graphics of the sources and related safety equipment. Nurses will not be issued 
+radiation badges or be permitted to care for a radiation patient without official documentation of having 
+completed this course within the past 12-month period. This is a self-learning computer-based 
+instructional program and includes a competency quiz. This course was developed by the RSO and is 
+managed through the nurse educators at UNMH. 
+ 
+H. “Fluoroscopy Training”
+
+--- Chunk 136 ---
+managed through the nurse educators at UNMH. 
+ 
+H. “Fluoroscopy Training” 
+ 
+This course with competency quiz is on Learning Central Course # HSC-183 for workers whose job 
+description require them to operate or assist in the operation of fluoroscopy machines. The class teaches 
+radiation safety techniques and strategies in helping to reduce radiation dose to patient and operator while 
+optimizing image quality. The course was developed by the UNMH Medical Physics group and is 
+managed through radiology educators at UNMH. A refresher course, HSC-184, with the same content is 
+also available on Learning Central to assist in meeting required clinical competencies. 
+ 
+I. “Radiation Safety for Cancer Center Radiation Oncology Training” 
+Course #HSC-212-014 on Learning Central is function-specific training for workers in Radiation 
+Oncology at the UNM Cancer Center, to include Radiation Therapists, Radiation Oncologists,
+
+--- Chunk 137 ---
+Oncology at the UNM Cancer Center, to include Radiation Therapists, Radiation Oncologists, 
+Dosimetrists, and Medical Physicists. Others at the Cancer Center (nurses, managers) may also benefit 
+from this course content. 
+J. Nuclear Medicine Radiation Safety Training Programs 
+a. “Radiation Safety Training for Nuclear Medicine” 
+The intended audience includes Nuclear Medicine Technologists and Physician Authorized Users. 
+The course is required initially and annually thereafter. The course is available as a self-learning 
+computer-based training program with a competency quiz or on Learning Central Course #HSC- 
+212-001. 
+b. “DOT HazMat IATA Training for Class 7 Radioactive Materials”. 
+This course is required for workers whose job description requires the receipt, processing, or 
+shipping of radioactive material packages. The course must be completed initially and at 3-year 
+intervals, with documentation readily available in the applicable department. This course is
+
+--- Chunk 138 ---
+intervals, with documentation readily available in the applicable department. This course is 
+available as a self-learning computer-based training program with a competency quiz. 
+c. “Nuclear Medicine Spill Response”. This annual course is available as a self- learning 
+computer-based training program with a competency quiz or on Learning Central Course #HSC-
+212-004.
+
+--- Chunk 139 ---
+39 | P a g e  
+Attachment E – Radiation Safety Forms 
+ 
+ 
+ 
+FORM #: NAME OF FORM: 
+ 
+ 
+RSF-01 “Permit Application to Use Radioactive Materials (fillable pdf file) 
+RSF-02 “Permit Application to Use Radiation-Producing Machines” (fillable pdf file) 
+RSF-03  “Radioactive Waste Pick-up Request” 
+RSF-04 “Dosimetry Enrollment Form” (may be completed on-line) 
+RSF-05  “Statement of Training & Experience Form” 
+RSF-06 “Shielding Evaluation Request Form” 
+RSF-07 “Request for Radiation Safety Wipe Sample Form” 
+RSF-08 “Radiation Survey of RAM Use Area” 
+RSF-09 “Declaration of Pregnancy for Radiation Workers” 
+RSF-10  “Radiation Incident and Spill Report Form” 
+ 
+ 
+Common Radiation Safety Forms can be accessed at the HSC Office of Research Radiation Safety 
+Website at https://hsc.unm.edu/research/compliance/radiation-safety/
+
+--- Chunk 140 ---
+40 | P a g e  
+Attachment F - Acronym Definitions 
+ 
+ 
+ 
+Acronym Definition 
+ALARA As low as reasonably achievable 
+AMP Authorized Medical Physicist 
+AU Authorized User 
+CFR Code of Federal Regulations 
+CNMT Certified Nuclear Medicine Technologist 
+DIS Decay-in-storage 
+DOT Department of Transportation 
+DPM Disintegrations per minute 
+DPW Declared pregnant worker 
+HRA High radiation area 
+HSC Health Sciences Center 
+HUS Human Use Subcommittee 
+IACUC Institutional Animal Care and Use Committee 
+IATA International Air Transport Association 
+IRB Institutional Review Board 
+NMAC New Mexico Administrative Code 
+NMED New Mexico Environment Department 
+NMMSS Nuclear Material Management and Safeguard System 
+NRC Nuclear Regulatory Commission 
+NSTS National Source Tracking System 
+PH Permit Holder 
+RAM Radioactive materials 
+RAML Radioactive materials license 
+RCB Radiation Control Bureau 
+RCC Radiation Control Committee 
+RSM Radiation Safety Manual 
+RSO Radiation Safety Officer
+
+--- Chunk 141 ---
+RCC Radiation Control Committee 
+RSM Radiation Safety Manual 
+RSO Radiation Safety Officer 
+SOU Supervisor of Use 
+SRMC Sandoval Regional Medical Center 
+UNM University of New Mexico 
+UNMH University of New Mexico Hospital 
+UNMPD University of New Mexico Police Department 
+VHRA Very high radiation area 
+WDS With direct supervision 
+WOS Without supervision
+
+--- Chunk 142 ---
+41 | P a g e  
+Attachment G - Signature Page 
+ 
+UNM Radiation Safety Manual  
+Revision: July 22, 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Approved By:     
+  UNM Radiation Safety Officer   Date 
+ 
+ 
+ 
+ 
+Approved By:     
+  UNM Radiation Control Committee Chair Date 
+ 
+ 
+ 
+ 
+Approved By:     
+Licensee Management Representative Date
+

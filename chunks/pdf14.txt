@@ -1,0 +1,2867 @@
+--- Chunk 1 ---
+Sl. No. CONTENTS Page 
+No.
+PART 1 - STRENGTHENING EQUIPMENT MAINTENANCE
+1. Introduction 07
+2. National Biomedical Equipment Management and Maintenance Program 07
+3. Life Cycle of Medical Equipment 08
+4. Categorization of Medical Equipment 09
+5. Hospital Equipment Management Committee (HEMC) 10
+6. Equipment Audit 10
+7. Key Deliverables under BMMP for PIPs 11
+8. Inventory & Documentation 11
+9. Types of Maintenance 11
+10. Maintenance Contract 12
+11. Warranty Management 13
+12. Commissioning and Acceptance of the Equipment 13
+13. Monitoring of Use and Performance 13
+14. Equipment Life 13
+15. Asset Management 13
+16. Approach to Medical Equipment Valuation 14
+17. Straight Line Method 14
+18. Annual Deprecation Expenses 14
+19. Written Down Value (WDV) Method 15
+20. Statutory Requirements 15
+21. Training and Development 16
+22. Conclusion 16
+23. Annexure A : Preventive Maintenance & Calibration Frequency For Biomedical Equipment 
+Listed Under IPHS -2022 17
+
+--- Chunk 2 ---
+Listed Under IPHS -2022 17
+24. Annexure B : D O Letter From MoHFW on Identification Of Critical Equipment 20
+25. Annexure C : IPHS Asset Categorisation 21
+26. Annexure D : Performa for Annual Equipment Inventory Survey 30
+27. Annexure E : Equipment Maintenance Logbook 30
+28. Annexure F : Inventory Master Record 30
+TABLE OF CONTENTS
+
+--- Chunk 3 ---
+PART 2 - TESTING AND CALIBRATION OF BIOMEDICAL EQUIPMENT
+1. Introduction 32
+2. Gaps in Testing & Calibration of Biomedical Equipment 32
+3. The Importance of Testing & Calibration 32
+4. Standards in Testing & Calibration of Biomedical Equipment 33
+5. Organizations Contributing to Biomedical Equipment Testing & Calibration 34
+6. Location / Site of Testing & Calibration 36
+7. Documentation of Calibration Results 36
+8. Calibration Interval 36
+9. Conclusion 38
+10. List of Equipment that Requires Testing / Calibration 39
+A. For Sub Health Centre Level 39
+B. For Primary Health Centre Level 39
+C. For Community Health Centre Level 41
+D. For District Health Centre Level 46
+11. State Wise List of NABL Accredited Calibration Laboratories for Biomedical Devices 51
+12. Sample Format for Calibration Report 54
+PART 3 - LIST OF EQUIPMENT AT AYUSHMAN AROGYA MANDIR (SUB HEALTH CENTRE 
+& PRIMARY HEALTH CENTE) AS PER IPHS 2022 FOR SERVICE DELIVERY OF 12 CP-CPHC 
+PACKAGES
+
+--- Chunk 4 ---
+& PRIMARY HEALTH CENTE) AS PER IPHS 2022 FOR SERVICE DELIVERY OF 12 CP-CPHC 
+PACKAGES 
+1. List of Equipment at PHC & CHC as per IPHS 2022 56
+2. Equipment Required for Operationalization of 12 CPHC Packages 59
+ I. Care in Pregnancy and Child-Birth 59
+ II. Neonatal and Infant Health Care Services 60
+ III. Childhood and Adolescent Health Services 61
+ I V. Family Planning, Contraceptive Services & Other Reproductive Health Care Services 62
+ V. Management of Communicable Diseases including National Health Programmes 62
+ VI. Management of Common Communicable Diseases, and OPD for Acute Illness and 
+Minor ailments 63
+ VII. Screening, Prevention, Control and Management of Non-Communicable Diseases 63
+ VIII. Oral Healthcare 64
+ IX. Care for Common Ophthalmic and ENT Problems 64
+ X. Screening and Basic Management of Mental Health Ailments 65
+ XI. Elderly and Palliative Healthcare Services 65
+ XII. Management of Common Emergencies, Burns & Trauma 66
+
+--- Chunk 5 ---
+6 | Guidelines on Equipment Maintenance, Calibration & Testing | Guidelines on Equipment Maintenance
+PART 1
+Strengthening Equipment 
+Maintenance
+The document is to be read in conjunction with the approved Report on Modalities for procurement and 
+Maintenance of Medical Equipment vide DGHS Office Order No. Z-28016/35/2024-PMSSY-IV-Part (1) 
+(8288538) dated 30th August 2024.
+
+--- Chunk 6 ---
+Guidelines on Equipment Maintenance, Calibration & Testing | Guidelines on Equipment Maintenance | 7
+Guidelines on Equipment Maintenance
+Introduction
+1. Medical equipment contributes to the quality of healthcare services on several levels. They play a key role 
+in the diagnosis, the treatment, and the rehabilitation of the medical impairment and diseases. Equipment 
+maintenance includes a set of activities to keep equipment in optimum working condition and consists 
+of periodic inspection, preventive maintenance, calibration and breakdown maintenance. The equipment 
+maintenance objective is to ensure maximum availability with minimum downtime, maximum reliability, 
+extend the useful life of equipment, prevention of wastage of consumables & spares and maximize return on 
+investment. 
+2. Modern day hospitals are equipment heavy organizations as equipment is an integral part of health technology
+
+--- Chunk 7 ---
+management and without equipment good patient care is impossible. There is an increasing reliance by the 
+medical community on sophisticated equipment & technology for diagnostic, monitoring and therapeutic 
+activities. Non-functional equipment is a major contributing factor for wasteful expenditure in health 
+facilities. Optimum utilization of equipment requires that the equipment remains in functional order for 
+most of its life. Keeping medical equipment safe and effective will require timely preventive maintenance, 
+calibration and breakdown maintenance services carried out by trained & competent people. 
+3. Few States have adopted good equipment inventory management using in-house online systems and forming 
+facility level Hospital Equipment Management Committee to undertake equipment audit and identify 
+procurement need, hold condemnation board for obsolete & dysfunctional equipment. Such best practices
+
+--- Chunk 8 ---
+adopted by a few states should be replicated in all the states for effective biomedical equipment inventory 
+management. The best practices have been included in the ibid guidelines which will help to ensure that 
+equipment being used at the public health facilities, is:
+ (a) Suitable for its intended purpose
+ (b) Properly understood by appropriately trained users
+ (c) Maintained in a safe and reliable condition
+ 4.  A good Equipment management Program demands a multidisciplinary equipment management committee 
+at the core of the program which can provide a participatory mechanism for prudent, need based, purchases, 
+planned maintenance with minimum downtime and optimal utilization with maximum returns. 
+Levels of equipment maintenance
+5. The levels of equipment maintenance are:
+ (a) By operator (day-to-day maintenance)
+ (b) By in-house biomedical engineer
+ (c) By OEM trained service engineer or trained BME
+National biomedical equipment management and maintenance 
+programme
+
+--- Chunk 9 ---
+National biomedical equipment management and maintenance 
+programme
+6. The National Biomedical Equipment Management & Maintenance Programme (BMMP) is in operation since 
+2015. Financial support is provided under National Health Mission to the states/UTs under the programme for 
+equipment maintenance activities and its upkeep, through annual Programme Implementation Plans (PIPs). 
+The services are offered both in the PPP mode or through in-house mode as per the state’s requirement.
+
+--- Chunk 10 ---
+8 | Guidelines on Equipment Maintenance, Calibration & Testing | Guidelines on Equipment Maintenance
+7. The program envisages to provide support by outsourcing medical equipment maintenance in the PPP mode, 
+to improve the functionality and life of equipment, simultaneously improving healthcare services in public 
+health facilities by reducing the cost of care and improving the quality of care. The program is operational in 
+30 States and UTs through Outsourcing mode as well as in-house mode. The outsourcing model of service 
+delivery is as per the NHM guidelines on National Biomedical Equipment Management and Maintenance 
+Program. The in–house mode of service delivery is based on maintenance through Original Equipment 
+Manufacturers (OEMs) by engaging through Comprehensive Maintenance Contract (CMC) or Annual 
+Maintenance Contract (AMC). 
+8. However, in the both the modes of operation, availability of Biomedical Engineer & Technician at the
+
+--- Chunk 11 ---
+district & facility level is essential for the successful outcome of the Biomedical Equipment Management & 
+maintenance programme. IPHS-2022 has also recommended a post for Biomedical Engineer in the District 
+Hospitals to oversee equipment maintenance as per AMC at public health facilities within the district. The 
+engineer will also be responsible for training of technicians on equipment handling and ensuring calibration 
+of equipment.
+Life cycle of medical equipment
+9. The delivery of the best healthcare services depends heavily on reliable medical equipment, weather for 
+life support, for diagnosis, for patient monitoring or for the delivery of therapies or teaching and research 
+purposes. The risks associated with the use of medical equipment can only be controlled by managing the 
+whole life cycle of the equipment.
+
+--- Chunk 12 ---
+Guidelines on Equipment Maintenance, Calibration & Testing | Guidelines on Equipment Maintenance | 9
+Categorization of medical equipment
+10. There is a need to categorize the equipment for mapping the asset base and prioritizing the maintenance 
+activities. One of the suggested methods for categorization of equipment is given below :
+Sl. No. Category of Equipment Criteria for Categorization
+(a) Sophisticated Electro Medical 
+Equipment
+Electro Medical equipment which are costly & sophisticated 
+supplied by OEM and spares easily not available in the local 
+market. 
+(b) Electro Medical Equipment ‘Plug & Play’ medical equipment which do not require OEM 
+intervention and spares available in the local market and 
+the complaints can be resolved by the in-house Biomedical 
+engineer or through the service provider
+(c) Non-Electro Medical equipment Medical Equipment which does not require electricity for 
+operation and are mechanical in nature and less chances for
+
+--- Chunk 13 ---
+operation and are mechanical in nature and less chances for 
+breakdown. Complaints can be resolved or certified regarding 
+its dysfunctional by the in-house Biomedical Engineer/ Service 
+provider.
+11. The summary of the number of equipment categorized as per healthcare facility level based on criticality and 
+Electromedical (Plug & Play) characteristic, as per IPHS-2022 is given below:
+Facility Level Critical Non-Critical Electromedical Non-
+Electromedical
+SC-HWC Nil 13 Nil 13
+PHC-HWC 5 40 17 28
+CHC 21 85 69 37
+DH 31 112 97 46
+12. The list of equipment asset categorization at each level of healthcare as per IPHS-2022 is placed as Annexure 
+‘C’ to this document. The List of critical lifesaving medical equipment (Sophisticated Electromedical) 
+approved by MoHFW (Annexure ‘B’) is reproduced below :
+Sl. No. Equipment Nomenclature Sl. No. Equipment Nomenclature
+1. Ventilator 14. Bio-Chemistry Analyser
+2. CT Scan Machine 15. Dental Chair (motorised)
+3. MRI machine 16. Multi Para Monitor
+
+--- Chunk 14 ---
+2. CT Scan Machine 15. Dental Chair (motorised)
+3. MRI machine 16. Multi Para Monitor
+4. ECG Machine 17. Emergency Resuscitation Kit
+5. Defibrillator 18. Anaesthesia Machine
+6. Infusion Pump 19. Anaesthesia workstation
+7. C-PAP/Bi-PAP machine 20. Ultrasound Machine
+8. Baby Incubator (Phototherapy) 21. Mammography Unit
+9. Oxygen Concentrator 22. X-Ray Machine
+10. Suction Apparatus 23. Radiant Warmer
+11. ABG Analyser 24. ELISA Reader
+12. Haemodialysis Machine 25. Laser Therapy Unit
+13. Haematology Analyser 26. Any other equipment identified by the State/UT
+
+--- Chunk 15 ---
+10 | Guidelines on Equipment Maintenance, Calibration & Testing | Guidelines on Equipment Maintenance
+Hospital equipment management committee (HEMC)
+13. For effective monitoring and supervision of the quality of services being provided by the service provider in 
+PPP mode, a Hospital Equipment Management Committee is considered essential. The suggested composition 
+would be as follows:
+ (a) MS Hospital/ AMS or MO IC health facility
+ (b) Head or Nominated members from clinical specialties
+ (c) Biomedical Engineer 
+ (d) Store in Charge
+ (e)  Purchase Officer/ Finance Officer
+ (f) Nursing Superintendent
+14. The HEMC should hold a meeting, at least once in a quarter to discuss regrading the equipment functionality 
+and its maintenance. The HEMC will also undertake the following activities:
+ (a) Receive proposals from the respective departments
+ (b) Evaluation of the proposals received from the department for procurement/induction of new equipment
+
+--- Chunk 16 ---
+and the justification provided after need analysis and cost-benefit analysis. 
+ (c) Receipt, Installation & Commissioning of new equipment at the hospital.
+ (d) Training of the user staff in operation & maintenance of the equipment
+ (e) Preparation of Equipment Master Maintenance Plan consisting of the scheduled preventive maintenance 
+& calibration of the equipment
+ (f) Undertake review of equipment inventory (Equipment census) available and their utilization once in a 
+year. List out functional, dysfunctional & repairable or BER equipment.
+ (g) Carry out equipment audit and review the asset base with addition of new equipment and its valuation, 
+deletion of BER/Condemned equipment from the asset base.
+ (h) Monitoring the activities of the maintenance service provider (in PPP), complaint management, 
+equipment downtime, and ensuring preventive maintenance & calibration are carried out as per the 
+OEM recommendations.
+
+--- Chunk 17 ---
+OEM recommendations.
+ (i) Monitor weeding out of the old/obsolete equipment declared beyond economic repairs and recommend 
+proposal for condemnation to the SHS/Md NHM. 
+ (j) Record achievement of the Key deliverables approved for the BMMP at the facility and forward a copy 
+to the SHS/SNO BMMP/MD NHM office for collation and inclusion in the annual PIPs.
+ (k) The committee shall undertake analysis of the records pertaining to equipment breakdown and preventive 
+maintenance logs. They shall also assess the usage and performance of the equipment. The committee 
+shall also suggest measures to optimally utilize the equipment for quality health services.  
+Equipment audit
+15. Equipment audit is a periodic evaluation system to measure the quality of performance of the medical 
+equipment. The focus of the equipment audit should be to assess the current status of the medical equipment, 
+carry out equipment census, analyze the records of breakdown, preventive maintenance, service engineer
+
+--- Chunk 18 ---
+report, record the feedback from user experience in the usage and performance of the equipment, electrical 
+reasons, if any etc. The equipment audit should clearly bring out the reason for dysfunctional equipment 
+which could be as follows:
+
+--- Chunk 19 ---
+Guidelines on Equipment Maintenance, Calibration & Testing | Guidelines on Equipment Maintenance | 11
+ (a) Want of minor repairs
+ (b) Lack of Preventive maintenance
+ (c) Lack of corrective maintenance
+ (d) Lack of essential spares
+ (e) Electrical faults
+ (f) Unfavorable equipment conditions
+ (g) Mishandling of equipment by untrained and unskilled manpower
+ (h) Purchase of equipment without justifiable demand etc
+ (i) False reporting, willful damage and overuse than rated.
+Key deliverables under BMMP for PIPs
+16. The key performance indicators for the National Biomedical Equipment Management & Maintenance 
+Programme are as follows:
+ (a) Equipment CAMC/AMC (in Percentage) : Percentage of equipment covered under comprehensive 
+maintenance contract/Annual maintenance contract.
+ (b) Numerator : Total No. of equipment covered under warranty/CAMC/AMC Denominator : Total No. 
+of equipment held in the inventory.
+
+--- Chunk 20 ---
+of equipment held in the inventory. 
+  Equipment upkeep time (in Percentage) : Percentage of equipment uptime at each level of Public 
+Health facility as per BMMP guidelines i.e. (PHC-80%, CHC-90% and DH-95%)
+  Numerator : Total No. of equipment found functional at the facility during census
+  Denominator : Total No. of equipment held in the inventory (asset base) at the facility.
+Inventory and documentation
+17. Inventory management is a key component of equipment management. It provides information to support 
+various aspects of medical equipment. Online inventory management is an ideal option developed in-house 
+or customized by the state. Online inventory helps in analytics and good record keeping. Further, States 
+should also ensure that the admin control of the IT dashboard and safe custody of the server holding BMMP 
+data is secured with the State Health Society/NHM office, in the case of PPP service provider.
+
+--- Chunk 21 ---
+data is secured with the State Health Society/NHM office, in the case of PPP service provider. 
+18. States where the BMMP is operational, the service provider has an IT dashboard for recording complaints and 
+inventory management. However, for the states where the BMMP is operational in-house, online inventory 
+management & maintenance is always beneficial and should be adopted. Centralized equipment inventory 
+management application like eUPKARAN (equipment management & maintenance system) is more efficient 
+than the traditional paper-pen system for effective BMMP service delivery. The format for the Equipment 
+Logbook and inventory master record is given in Annexure ‘E’ and ‘F’ respectively.    
+Types of maintenance
+19.  Maintenance of equipment is classified as :
+ (a) Preventive or scheduled maintenance : This is the maintenance carried out at Predetermined intervals 
+or according to the manufacturer’s recommendation to reduce the probability of equipment failure. The
+
+--- Chunk 22 ---
+major advantage of the preventive maintenance is reduction in equipment downtime, ensures safety of 
+equipment, extended useful life of equipment, availability during emergency.
+
+--- Chunk 23 ---
+12 | Guidelines on Equipment Maintenance, Calibration & Testing | Guidelines on Equipment Maintenance
+XX Preventive maintenance of all the equipment held at the facility whether in use or not shall be done 
+periodically as per the recommendation of manufacturer/supplier.; so that functioning status of the 
+equipment is known, and the equipment is readily available whenever required. 
+XX In critical areas like casualty, ICU, OT daily inspection of the life saving critical equipment is 
+required and standby active unit should be kept ready so that patient do not suffer in case of 
+equipment failure. BMMP guidelines has the provision for the service provider to supply alternate 
+machine till the equipment downtime for ensuring patient safety and continuity in patient care. 
+XX Availability of good quality spares/ consumables and accessories is essential and helps in prolonging 
+the useful life of equipment.
+
+--- Chunk 24 ---
+the useful life of equipment.
+ (b) Breakdown or Corrective Maintenance :  This is the maintenance carried out after fault recognition 
+and is intended to put equipment into a state in which it can perform a required function. It is important 
+to analyze the reason for the breakdown/shut down and ensure early rectification. The user should 
+record details of the breakdown/defect/fault and attach label to the faulty equipment so that it is not used 
+by other staff. The user should immediately contact the service engineer/service provider and log his 
+complaint using Toll Free number provided by service provider/OEM for call resolution.
+20.  The service provider/OEM carrying out the repairs should give a guarantee/ warranty certificate stating that 
+the equipment serviced by them will render trouble free service for a defined period. In case the equipment 
+breakdowns within the warranty period, it should be repaired free of cost.
+Maintenance contract
+
+--- Chunk 25 ---
+breakdowns within the warranty period, it should be repaired free of cost.
+Maintenance contract
+21.  The process for fresh maintenance contract (AMC/CMC/Warranty) of the equipment should be initiated 3 
+(three) months in advance, before the expiry of the warranty/CAMC/AMC period. The necessary concurrence 
+from the finance department of the institution required for the renewal of the contract/fresh contract shall be 
+taken well in advance so that equipment remains functional, and downtime is minimized. 
+TYPE OF SERVICE SERVICE CONTRACT CHARGES
+Annual Maintenance Contract 
+(AMC)
+AMC starts after expiry of the 
+warranty period.
+Third party service provider or 
+OEM
+Only Service provided.
+Fixed Charges
+Renewed every year.
+Cost of spares used is billed
+Comprehensive Maintenance 
+Contract (CMC)
+Variable response time 
+Third party service provider or 
+OEM 
+Service charges included.
+Minor consumables & spares 
+free of cost
+Warranty  (Full Service with 
+parts or Replacement)
+
+--- Chunk 26 ---
+Minor consumables & spares 
+free of cost
+Warranty  (Full Service with 
+parts or Replacement)
+Quick response available at all 
+times for maintenance & repair
+Fixed charges usually embedded 
+in the procurement cost
+22. The specialized and lifesaving critical equipment will require comprehensive maintenance contract (CMC) 
+with all the spares included. The procurement of the equipment should preferably be done with 02 years 
+warranty and 08 years CMC. The rates approved for post warranty CMC, will be as per the RFP terms & 
+conditions for the the duration of the contract period and the rate cannot be modified by the vendor, unless 
+there is a clause to do so.
+
+--- Chunk 27 ---
+Guidelines on Equipment Maintenance, Calibration & Testing | Guidelines on Equipment Maintenance | 13
+Warranty management
+23.  Warranty management requires good record keeping and timely renewals. National Biomedical Equipment 
+Management & Maintenance Programme has the provision for the District Biomedical Engineer to monitor 
+the equipment asset base. The asset register must be updated periodically with the arrival of any new 
+equipment and deletion of equipment recommended BER/condemnation. Penalty provisions in the service 
+level agreement must be invoked for non-compliance by the service provider/OEM. 
+Commissioning and acceptance of the equipment
+24. The procurement agency/competent authority should ensure installation and commissioning of the equipment 
+by the manufacturer/supplier at the health facility. The date of the installation should be communicated in 
+advance to the health facility. Requisite power connections, earthing, serviceability of the electrical line,
+
+--- Chunk 28 ---
+air-conditioning equipment, online voltage regulator/stabilizer etc should be ensured before installation. 
+The process should be monitored by in-house technical staff/user so that any important ‘Dos & DON’T’s’ 
+can be recorded in the maintenance/equipment history log register. The occasion also provides an excellent 
+opportunity for the in-house staff to gain familiarity with the new equipment and get trained in its operation. 
+Monitoring of use and performance
+25. It is important that user should safely use the equipment and also monitors the performance of the equipment. 
+User should immediately register complaint through the TOLL- FREE number provided by the service 
+provider/OEM and monitor the real time breakdown time. The user should maintain a record of all such 
+breakdown and the reason attributed for the same to take future preventive action. The user should undertake
+
+--- Chunk 29 ---
+visual inspection, power-on/off & performance test, report errors due to equipment failure (calibration) etc. 
+These tasks must be carried out by the user as per the manufacturer’s instructions and documented in the 
+equipment logbook. Any discrepancy found, should be brought into notice of the head of department/HEMC 
+for necessary corrective action. 
+Equipment life
+26. The physical life of equipment is identified as service life, which is the time period till the equipment can no 
+longer be operated. This is greatly impacted by the repair & maintenance attention that the machine has been 
+provided over its lifespan. Equipment that has not been given adequate maintenance throughout its lifespan 
+will deteriorate at a faster rate than a machine that was given substantial preventive maintenance. 
+27. Economic life is based on decreasing ownership costs with the increase in operating costs. The time period
+
+--- Chunk 30 ---
+that these costs are equivalent is called the economic life. The useful life of a medical equipment is not the 
+same as actual life of an asset. A piece of equipment may last far longer than its estimated useful life but will 
+need higher maintenance resources. In addition, an equipment may become obsolete or require major repairs 
+but still be technically functional but may be a more of liability than a benefit as it may require frequent 
+repair work. In such case when spares are not available in the open market then sustenance becomes less cost 
+effective and should be recommended for condemnation.
+Asset management
+28. Asset management provide the means through which likely future equipment needs are identified, criteria 
+for prioritising needs are set and informed decisions on spending priorities are made. Decisions based on 
+asset management plans should lead to greater efficiency in the use of medical equipment. A key output from
+
+--- Chunk 31 ---
+the plan should be a prioritised equipment procurement program, regularly updated, that addresses the most 
+serious and urgent needs of hospitals.
+
+--- Chunk 32 ---
+14 | Guidelines on Equipment Maintenance, Calibration & Testing | Guidelines on Equipment Maintenance
+29. The strategies for hospital medical equipment procurement should include scientific need or gap assessment, 
+value based procurement, timely maintenance, repairs, optimum utilization, and timely replacement. 
+Equipment availability, functionality, effective, efficient utility assessment are the bedrock of any equipment 
+management program. Care should be taken to avoid supplier induced demands, indiscriminate use, 
+duplication, and underutilisation of any equipment. 
+Approach to medical equipment valuation
+30. Depreciation represents the decline in value of a piece of equipment due to age, wear, deterioration & 
+obsolescence. Depreciation can result from either physical deterioration occurring from wear & tear of the 
+machine or due to economic decline or obsolescence occurring over the passage of time. There are two 
+common techniques for calculating depreciation.
+
+--- Chunk 33 ---
+common techniques for calculating depreciation.
+ (a) Straight Line Method
+ (b) Written down Value (WDV) Method
+Straight line method
+31. Straight-line method also known as constant charge method used for charging depreciation in which 
+depreciation is charged on annual basis. The depreciation charged in this way remains constant throughout 
+the useful life of the asset. The depreciation is calculated by dividing a fixed asset’s depreciable base by its 
+useful life. The depreciable base is the difference between an asset’s all-in costs and the estimated salvage 
+value at the end of its useful life. With the straight-line depreciation method, the value of an asset is reduced 
+uniformly over each period until it reaches its salvage value.
+ * Residual Value = Expected re-sale value as scrap beyond equipment useful life
+Illustration : straight line depreciation method
+ Public Health Facility purchases an Ultrasound machine for INR 10,00,000 with an estimated expected
+
+--- Chunk 34 ---
+residual value of INR 10000 after a useful life of 10 years. 
+ The straight-line depreciation for the machine would be calculated as follows :
+Calculate annual depreciation expense
+ (INR 10,00,000 – 10,000) / 10 years = INR 99,000 depreciation amount per year.
+ Therefore, over the useful life of the asset, the value would depreciate to its salvage value.
+Year Book Value (Beginning of the 
+FY) in INR
+Depreciation Value in INR Book Value in INR (Close of 
+the FY)
+1. 10,00,000 99,000 901000
+2. 901000 99,000 802000
+3. 802000 99000 703000
+4. 703000 99000 604000
+5. 604000 99000 505000
+6. 505000 99000 406000
+7. 406000 99000 307000
+
+--- Chunk 35 ---
+Guidelines on Equipment Maintenance, Calibration & Testing | Guidelines on Equipment Maintenance | 15
+8. 307000 99000 208000
+9. 208000 99000 109000
+10. 109000 99000 10000
+Written Down Value (WDV) method
+32. WDV method is the most common used method of depreciation. In this method a fixed depreciation rate is 
+charged on the book value of asset and book value is decreased each year by subtracting the depreciation 
+amount as calculated. This method is also called reducing balance method. In the WDV method, the amount 
+of depreciation goes on decreasing with time. This method is considered as the most logical method of 
+depreciation and good for high value equipment where the useful life is difficult to predict.
+33. For Eg- Asset is purchased at INR 1,00,000 and depreciation rate is 10% then first year depreciation is INR 
+10,000 (10% of INR 1,00,000), second year depreciation is INR 9,000 (10% of 90,000 [1,00,000 – 10,000])
+
+--- Chunk 36 ---
+and third year depreciation is INR 8100 (10% of INR 81,000 [90,000 – 9,000]).
+Year Book Value (Beginning of 
+the FY) in INR
+Depreciation Value (10% 
+of cost) in INR
+Book Value in INR (Close 
+of the FY)
+After First Year 1,00,000 10000 90,000
+2 90,000 9000 81000
+3 81000 8100 72900
+4 72900 7290 65610
+5 65610 6561 59049
+6 59049 5904 53145
+7 53145 5314 47831
+8 47831 4783 43048
+9 43048 4304 38744
+10 38744 3874 34870
+34. In view of the above, it is prudent to take the average useful life span of medical equipment as 10 years. 
+However, if well maintained medical equipment may continue to be used for a longer time. Old medical 
+equipment which has serviced beyond its useful life is likely to be technologically obsolete and difficult to 
+support as spare availability in the market is a big challenge. Several high med medical equipment are quite 
+sturdy e.g., CT & MRI machine which do not necessarily face functional obsolescence, as fast as others.
+
+--- Chunk 37 ---
+35.  For historical equipment (Equipment has outlived its useful life i.e., more than 15 years except high end 
+equipment), the book value calculated at the close of FY using the WDV method would be the asset value 
+and to be taken for asset calculation purpose. In few instances when the cost of the historical equipment or 
+the date of installation is not known and records supporting the same are not available in the health facility, 
+a notional value mutually agreed upon by the state health authority and the service provider, not exceeding 
+the valuation calculated by the WDV method using the discovered cost of the equipment as on the date and 
+the probable age of the equipment may be taken for  asset valuation purpose. 
+36. Statutory Requirements :
+ (a) In India Radiology equipment need to be registered with and have operating license from AERB. AERB 
+no longer permits usage of radiology equipment that is older than 10 years. Existing equipment should
+
+--- Chunk 38 ---
+have de-commissioning approval from AERB to be provided approval for purchase and re-installation. 
+Any equipment which currently does not have AERB license simply cannot be re-installed, so it has
+
+--- Chunk 39 ---
+16 | Guidelines on Equipment Maintenance, Calibration & Testing | Guidelines on Equipment Maintenance
+only scrap value. AERB could shut down operations of any unit not in compliance with its radiation 
+safety requirements.
+ (b) All Ultrasound machines must have PC-PNDT license before purchase and NOC is required from local 
+Health authorities to sell and transfer ultrasound machine.
+37. The adoption of effective maintenance practices by hospitals is essential if medical equipment is to function as 
+intended. It is also important to prevent equipment breakdowns that could interrupt the delivery of healthcare 
+services or be potentially harmful to patients or staff. To achieve a good inventory control, the following is 
+recommended :
+XX Prepare ‘Asset Management Plan’ with yearly forecasts of funding requirements for the medical 
+equipment. 
+XX Develop a ‘Single Master Asset Register’, using standard classifications to describe the medical
+
+--- Chunk 40 ---
+equipment and specified details of the equipment, as per the Guidelines given in National BMMP. 
+XX Develop and use guidelines which reflect industry best practice to periodically assess the life expectancy 
+of the equipment.
+XX Regularly determine the condition of the medical equipment using a standardized assessment system.
+XX Undertake yearly equipment census and audit for categorizing the inventory as functional, 
+dysfunctional – needs repair, dysfunctional – beyond economical repair and prepare a list of equipment 
+for condemnation and hold the condemnation board as per the National Biomedical Equipment 
+Management & maintenance programme.
+38.  Given the sophistication of modern medical equipment, maintenance practices can be very complex, 
+requiring expertise in a broad range of specialities such as electronics, computers, mechanical systems, 
+pneumatics, chemicals and optical systems. Generally, hospitals use a combination of in-house maintenance
+
+--- Chunk 41 ---
+staff (biomedical or engineering departments) and external maintenance services, such as those provided by 
+the equipment supplier, or a third-party provider.
+39. For major items of equipment, virtually all maintenance is carried out under comprehensive service contracts. 
+The service is provided by either the vendor or by multi- vendor service companies. The in-house biomedical 
+engineering department generally provide a first-response service, checking the equipment for simple faults 
+before calling the contractor, and at some hospitals they also monitor the service contracts.
+40.  An important responsibility for asset managers is to ensure that maximum benefit is derived from their 
+assets. Accordingly, asset managers need to be mindful where, for example, equipment is no longer effective 
+in performing the activities required of it, it is in less than optimum condition, or demand for the services
+
+--- Chunk 42 ---
+it delivers or supports has reduced. Underutilised equipment should be identified and the reasons for this 
+examined and, as far as possible, rectified.
+Training and development
+41. Proper training is critical for the safety of patients and the user. The user should be trained in operating the 
+equipment safely, basic knowledge of possible faults, DO’s & DON’T’s, rectifying minor causes of failure 
+and calibration requirement. 
+Conclusion
+42. A good equipment management program needs to be established at levels of healthcare, which is an essential 
+requirement for patient safety and optimal use of the medical equipment. A proactive HEMC is the key to 
+achieve good equipment maintenance program and functional equipment inventory.  For success of the 
+program, however, it is essential that there should be good maintenance service, an efficient system of data 
+collection, and documented policies & procedures governing every aspect of equipment management.
+
+--- Chunk 43 ---
+Guidelines on Equipment Maintenance, Calibration & Testing | Guidelines on Equipment Maintenance | 17
+Annexure-A : Preventive Maintenance 
+and Calibration Frequency for Biomedical 
+Equipment Listed under IPHS -2022
+Sl. No. Name of the Equipment Visits/
+year
+1. Arterial Blood Gas Analyser 4/year
+2. Autoclave 4/year
+3. Automated analyser for blood cultures 4/year
+4. Automated coagulation analyser, 4/year
+5. Bubble CPAP with compressor, 4/year
+6. C arm with accessories* 4/year
+7. C.T. Scan Multi slice (64 SLICES) 4/year
+8. Cardiac monitors 4/year
+9. Chemiluminescence Immuno- assay 4/year
+10. Dental chair (complete system) 4/year
+11. Dialysis machine 4/year
+12. Dialyzer reprocessing unit 4/year
+13. Electrolyte analyser 4/year
+14. Electrophoresis machine 4/year
+15. ELISA Reader and Washer 4/year
+16. Flow cytometer. 4/year
+17. Fully automated Biochemistry analyser 4/year
+18. Haematology analyser (5 Part/3 Part) 4/year
+19. HPLC machine, 4/year
+20. Infusion pump 4/year
+
+--- Chunk 44 ---
+18. Haematology analyser (5 Part/3 Part) 4/year
+19. HPLC machine, 4/year
+20. Infusion pump 4/year
+21. Mammography unit 4/year
+22. Multi para-Monitor 4/year
+23 Phototherapy 4/year
+24. Portable ultrasound 4/year
+25. Radiant warmer, 4/year
+26. Semi-automated Biochemistry analyser 4/year
+27. Surgical diathermy – bipolar 4/year
+28. Transport incubator, 4/year
+29. Transport multi parameter monitor 4/year
+30. Transport ventilator 4/year
+31. Ultrasound machine 4/year
+32. Colour Doppler and Echo 4/year
+33. Ventilator-Adult, Paediatric and Neonatal 4/year
+34. X-ray machine fixed (60 ma/ 100 ma/ 200 ma/ 300 ma/ 500 ma/ 850 ma/ 1000 ma 4/year
+
+--- Chunk 45 ---
+18 | Guidelines on Equipment Maintenance, Calibration & Testing | Guidelines on Equipment Maintenance
+35. ACT machine, 4/year
+36. 100 M.A. X-ray machine (Mobile), 2/year
+37. A-Scan Biometer, 2/year
+38. Ambu bag (adult & paediatrics) 2/year
+39. Applanation Tonometer 2/year
+40. Auto- refractometer 2/year
+41. B- Scan Biometer 2/year
+42. Baby weighing scale –Digital, 2/year
+43. Blood warmers 2/year
+44. Bowl Sterilizers – Different Sizes, 2/year
+45. BP Apparatus – Neonatal Cuff, 2/year
+46. Centrifuge 2/year
+47. Cryosurgery unit 2/year
+48. CTG machine 2/year
+49. CTG Monitor 2/year
+50. Defibrillators 2/year
+51. Ear & nasal Suction machine 2/year
+52. EEG Machine 2/year
+53. EMG machine 2/year
+54. ESR analyser 2/year
+55. Examination Light 2/year
+56. Fetal Doppler 2/year
+57. Flash Autoclave 2/year
+58. Foetal Doppler 2/year
+59. Fetoscope 2/year
+60. Fundus Camera 2/year
+61. Glucometer 2/year
+62. Hba1C analyser 2/year
+63. Hemoglobinometer 2/year
+64. Hysteroscopy 2/year
+65. ICU beds 2/year
+
+--- Chunk 46 ---
+62. Hba1C analyser 2/year
+63. Hemoglobinometer 2/year
+64. Hysteroscopy 2/year
+65. ICU beds 2/year
+66. Interferential therapy 2/year
+67. Intermittent compression device for DVT 2/year
+68. Irradiance Meter 2/year
+69. Keratometer 2/year
+70. Labour bed 2/year
+71. Laryngoscope with 5 Blades (LED), 2/year
+72. Laryngoscopes (LED) 2/year
+73. Microcentrifuge 2/year
+74. Microscope 2/year
+75. Mortuary table (Stainless steel) 2/year
+76. NCV machine 2/year
+
+--- Chunk 47 ---
+Guidelines on Equipment Maintenance, Calibration & Testing | Guidelines on Equipment Maintenance | 19
+77. Nd Yag Laser 2/year
+78. Nebulizer 2/year
+79. Negative Ionizer/air purifier, 2/year
+80. Neonatal Resuscitation Equipment, 2/year
+81. Nucleic Acid Amplification Test (NAAT) 2/year
+82. OCT (Optical Coherence Tomography) 2/year
+83. Operating Microscope 2/year
+84. Ophthalmoscope- Direct, 2/year
+85. Ophthalmoscope- Indirect with 20 D Lens 2/year
+86. OT light 2/year
+87. OT light – Ceiling Double Dome 2/year
+88. OT Table 2/year
+89. Otoscope 2/year
+90. Oxygen Concentrator 2/year
+91. Paediatric ICU Beds 2/year
+92. Paediatrics Resuscitation Equipment 2/year
+93. Phaco Machine 2/year
+94. Portable LED Standing light 2/year
+95. Pulse oximeter with Neonatal Wrap up 2/year
+96. Punch biopsy gun 2/year
+97. Real time Polymerase Chain Reaction 2/year
+98. Slit lamp 2/year
+99. Sphygmomanometer 2/year
+100. Spiro meter 2/year
+101. Streak retinoscope 2/year
+102. Suction Machine (Electrical) 2/year
+
+--- Chunk 48 ---
+100. Spiro meter 2/year
+101. Streak retinoscope 2/year
+102. Suction Machine (Electrical) 2/year
+103. Suction machine (foot-operated) 2/year
+104. Syringe pump, 2/year
+105. TENS 2/year
+106. Transcutaneous Bilirubinometer 2/year
+107. Turbidimeter 2/year
+108. Ultrasonic nebulizer 2/year
+109. Ultrasound therapy 2/year
+110. VEP machine 2/year
+111. Arthroscope 2/year
+112. Anaesthesia Work Station 2/Year
+113. Weighing machines (Organs) 2/year
+114. Bi-PAP/CPAP 2/year
+115. Dental X-ray machine 2/year
+116. ECG machine 2/year
+117. Electric cautery 2/year
+
+--- Chunk 49 ---
+20 | Guidelines on Equipment Maintenance, Calibration & Testing | Guidelines on Equipment Maintenance
+Annexure-B : D O letter from MoHFW on 
+Identification of Critical Equipment
+
+--- Chunk 50 ---
+Guidelines on Equipment Maintenance, Calibration & Testing | Guidelines on Equipment Maintenance | 21
+Annexure-C : IPHS Asset Categorisation 
+(District Hospital)
+Sl. 
+No. Equipment Name Critical / 
+Non-Critical
+Electromedical / 
+Non-Electromedical 
+1. Defibrillator with TCP and AED critical Electromedical
+2. Defibrillators critical Electromedical
+3. ECG 3 Channel critical Electromedical
+4. ECG machine- 12 Channel critical Electromedical
+5. ECG Machine- 6 Channel critical Electromedical
+6. Infusion Pump critical Electromedical
+7. ABG analyser critical Electromedical
+8. Anaesthesia Machine critical Electromedical
+9. Anaesthesia Workstation critical Electromedical
+10. Bi-PAP machine critical Electromedical
+11. C.T. Scan Multi slice (64 SLICES) critical Electromedical
+12. CPAP Machine critical Electromedical
+13. Dialysis Machine critical Electromedical
+14. Elisa Reader/washer critical Electromedical
+15. Fully automated biochemistry analyser critical Electromedical
+
+--- Chunk 51 ---
+15. Fully automated biochemistry analyser critical Electromedical
+16. Haematology analyser (3-part) critical Electromedical
+17. Haematology analyser (5 part) critical Electromedical
+18. Mammography Unit critical Electromedical
+19. Mechanical ventilator critical Electromedical
+20. MRI 1.5 Tesla critical Electromedical
+21. Multi para monitor for ICU critical Electromedical
+22. Neonatal Resuscitation Equipment critical Electromedical
+23. Open care Radiant warmer critical Electromedical
+24. Oxygen Therapy apparatus/HFNC critical Electromedical
+25. Portable x-ray machine-200mA critical Electromedical
+26. Suction Machine electrical / Suction machine foot 
+operated
+critical Electromedical
+27. USG Machine- portable ultrasound critical Electromedical
+28. X Ray 300 mA critical Electromedical
+29. x-ray machine 100 mA (Mobile) critical Electromedical
+30. x-ray machine 500 mA critical Electromedical
+31. Colour Doppler Ultrasound/ critical Electromedical
+32. EEG machine Non-Critical Electromedical
+
+--- Chunk 52 ---
+31. Colour Doppler Ultrasound/ critical Electromedical
+32. EEG machine Non-Critical Electromedical
+33. Mobile Spotlight/ Light for conducting deliveries/ 
+Examination lamp with white light/ Examination light
+Non-Critical Electromedical
+34. Transport Incubator Non-Critical Electromedical
+
+--- Chunk 53 ---
+22 | Guidelines on Equipment Maintenance, Calibration & Testing | Guidelines on Equipment Maintenance
+35. Blood warmers Non-Critical Electromedical
+36. Electrolyte Analyser Non-Critical Electromedical
+37. Electrophoresis Machine Non-Critical Electromedical
+38. ESR analyser Non-Critical Electromedical
+39. Flame photometer Non-Critical Electromedical
+40. Multipara monitor Non-Critical Electromedical
+41. Syringe Pump Non-Critical Electromedical
+42. TENS Machine Non-Critical Electromedical
+43. Transport Ventilator Non-Critical Electromedical
+44. Applanation Tonometer Non-Critical Electromedical
+45. A- Scan and B scan Biometer Non-Critical Electromedical
+46. ACT machine Non-Critical Electromedical
+47. Arthroscope Non-Critical Electromedical
+48. Auditory Brainstem Response machine Non-Critical Electromedical
+49. Auto-refractometer Non-Critical Electromedical
+50. Automated blood culture analyser Non-Critical Electromedical
+51. automated coagulation analyser Non-Critical Electromedical
+
+--- Chunk 54 ---
+51. automated coagulation analyser Non-Critical Electromedical
+52. Bowl Sterlizer Non-Critical Electromedical
+53. Bubble CPAP with compressor Non-Critical Electromedical
+54. CARM with accessories and Image intensifier Non-Critical Electromedical
+55. Chemiluminescence Analyser Non-Critical Electromedical
+56. Cryo surgery unit (Co2, N2O) Non-Critical Electromedical
+57. Cryo surgery unit (Liquid Nitrogen) Non-Critical Electromedical
+58. CTG Machine Non-Critical Electromedical
+59. Dental x-ray IOP/OPG Non-Critical Electromedical
+60. Dialyzer reprocessing unit Non-Critical Electromedical
+61. DVT pump (Deep Vein Thrombosis prevention devices) Non-Critical Electromedical
+62. ECMO machine Non-Critical Electromedical
+63. Electrical cautery Non-Critical Electromedical
+64. Flash Autoclave Non-Critical Electromedical
+65. Flow Cytometer Non-Critical Electromedical
+66. Fundus Camera Non-Critical Electromedical
+67. Horizontal Autoclave Non-Critical Electromedical
+
+--- Chunk 55 ---
+66. Fundus Camera Non-Critical Electromedical
+67. Horizontal Autoclave Non-Critical Electromedical
+68. HPLC Analyzer Non-Critical Electromedical
+69. Hysteroscope Non-Critical Electromedical
+70. ICU beds Non-Critical Electromedical
+71. Interferential therapy/electrotherapy unit Non-Critical Electromedical
+72. Keratometer Non-Critical Electromedical
+73. Microscope Non-Critical Electromedical
+74. Mortuary table (stainless steel) Non-Critical Electromedical
+75. NAAT machine Non-Critical Electromedical
+76. NCV machine, EMG Machine, VEP Machine Non-Critical Electromedical
+
+--- Chunk 56 ---
+Guidelines on Equipment Maintenance, Calibration & Testing | Guidelines on Equipment Maintenance | 23
+77. Nd Yag Laser Non-Critical Electromedical
+78. Nebulizer/ Ultrasonic nebulizer Non-Critical Electromedical
+79. OCT Non-Critical Electromedical
+80. OT light – shadowless lamp – Major (Ceiling Double 
+dome)
+Non-Critical Electromedical
+81. OT light – shadowless lamp – Minor Non-Critical Electromedical
+82. OT light standing model/ operating light mobile Non-Critical Electromedical
+83. OT Table Non-Critical Electromedical
+84. Phaco Machine Non-Critical Electromedical
+85. Phototherapy Single Surface LED Non-Critical Electromedical
+86. Pneumatic drill and reamer Non-Critical Electromedical
+87. RTPCR machine Non-Critical Electromedical
+88. Spiro meter Non-Critical Electromedical
+89. Surgical diathermy Non-Critical Electromedical
+90. Washer Disinfector Non-Critical Electromedical
+91. x-ray viewer with LED light Non-Critical Electromedical
+92. Water Bath Non-Critical Electromedical
+
+--- Chunk 57 ---
+92. Water Bath Non-Critical Electromedical
+93. Portable/Mini Autoclave Non-Critical Electromedical
+94. Operating Microscope Non-Critical Electromedical
+95. Ultrasound therapy Non-Critical Electromedical
+96. Resuscitation Bed Non-Critical Electromedical
+97. slit lamp Non-Critical Electromedical
+98. Otoscope Non-Critical Non-Electromedical
+99. weighing machine- digital Non-Critical Non-Electromedical
+100. weighing machine- organ Non-Critical Non-Electromedical
+101. Ear & nasal Suction machine Non-Critical Non-Electromedical
+102. Foetal Doppler Non-Critical Non-Electromedical
+103. Glucometer Non-Critical Non-Electromedical
+104. Goinometer Non-Critical Non-Electromedical
+105. Head Lamp Non-Critical Non-Electromedical
+106. Hemoglobinometer Non-Critical Non-Electromedical
+107. Irradiance Meter Non-Critical Non-Electromedical
+108. Ophthalmoscope- Direct Non-Critical Non-Electromedical
+109. Ophthalmoscope- Indirect Non-Critical Non-Electromedical
+
+--- Chunk 58 ---
+109. Ophthalmoscope- Indirect Non-Critical Non-Electromedical
+110. Pulse oximeter Non-Critical Non-Electromedical
+111. Retinoscope Non-Critical Non-Electromedical
+112. THERMOMETER Non-Critical Non-Electromedical
+113. Turbidometer Non-Critical Non-Electromedical
+114. Vien Finder Non-Critical Non-Electromedical
+115. wheel chair Non-Critical Non-Electromedical
+116. BP apparatus- Digital/ Sphygmomanometer Non-Critical Non-Electromedical
+117. oxygen hood neonatal Non-Critical Non-Electromedical
+
+--- Chunk 59 ---
+24 | Guidelines on Equipment Maintenance, Calibration & Testing | Guidelines on Equipment Maintenance
+118. Ambu Bags Non-Critical Non-Electromedical
+119. Baby weighing scale Non-Critical Non-Electromedical
+120. Bilirubinometer Non-Critical Non-Electromedical
+121. BP apparatus- Aneroid/ Sphygmomanometer Non-Critical Non-Electromedical
+122. Exercise Couch Non-Critical Non-Electromedical
+123. External fixator Non-Critical Non-Electromedical
+124. Finger Exerciser web Non-Critical Non-Electromedical
+125. Foetoscope Non-Critical Non-Electromedical
+126. infantometer Non-Critical Non-Electromedical
+127. Labor bed Non-Critical Non-Electromedical
+128. Laryngoscope Non-Critical Non-Electromedical
+129. Manual Vacuum Aspirator/ Vacuum extractor Non-Critical Non-Electromedical
+130. Oxygen cylinder Type D Non-Critical Non-Electromedical
+131. Percussion Hammer/ Reflex Hammer Non-Critical Non-Electromedical
+132. Proctoscope Non-Critical Non-Electromedical
+
+--- Chunk 60 ---
+132. Proctoscope Non-Critical Non-Electromedical
+133. Punctum Dilator Non-Critical Non-Electromedical
+134. Shoulder Pulley Non-Critical Non-Electromedical
+135. Shoulder Wheel Non-Critical Non-Electromedical
+136. stadiometer/ Wall mounted height measuring scale Non-Critical Non-Electromedical
+137. Stethoscope Non-Critical Non-Electromedical
+138. Tongue depressor Non-Critical Non-Electromedical
+139. Tuning fork Non-Critical Non-Electromedical
+140. Walking aid for training/ Adjustable Walker/ Reciprocal 
+walker
+Non-Critical Non-Electromedical
+141. Wall ladder finger Exerciser/ shoulder abduction ladder Non-Critical Non-Electromedical
+142. Lower & upper extremity cycle/basic ergo meter/ static 
+cycle
+Non-Critical Non-Electromedical
+143. Spiro meter for rehabilitation Non-Critical Non-Electromedical
+(Community Health Centre)
+Sl. 
+No. Equipment Name Critical / Non-Critical Electromedical/ Non- 
+Electromedical
+1. Defibrillators Critical Electromedical
+
+--- Chunk 61 ---
+Electromedical
+1. Defibrillators Critical Electromedical
+2. Dental chair with accessories Critical Electromedical
+3. ECG 3 Channel Critical Electromedical
+4. ECG Machine- 12 Channel Critical Electromedical
+5. ECG Machine- 6 Channel Critical Electromedical
+6. Infusion pump Critical Electromedical
+7. 3-part Haematology Analyser Critical Electromedical
+8. 5-part cell counter/ hematology analyser Critical Electromedical
+9. USG Machine- portable ultrasound Critical Electromedical
+10. Anaesthesia machine Critical Electromedical
+
+--- Chunk 62 ---
+Guidelines on Equipment Maintenance, Calibration & Testing | Guidelines on Equipment Maintenance | 25
+11. Anaesthesia workstation Critical Electromedical
+12. Elisa Reader & Washer Critical Electromedical
+13. Fully automated biochemistry analyser Critical Electromedical
+14. Mechanical ventilators Critical Electromedical
+15. Oxygen concentrator Critical Electromedical
+16. Oxygen Therapy apparatus (High flow nasal 
+Cannula)
+Critical Electromedical
+17. Radiant warmer Critical Electromedical
+18. Semi-automated biochemistry analyser Critical Electromedical
+19. Suction Machine electrical / Suction machine 
+foot operated
+Critical Electromedical
+20. X-Ray 300 mA Critical Electromedical
+21. Obstetric/ Gynaecologic Ultrasound/ Colour 
+doppler ultrasound
+Critical Electromedical
+22. Applanation Tonometer Non-Critical Electromedical
+23. Pulse Oximeter - tabletop Non-Critical Electromedical
+24. CTG Machine Non-Critical Electromedical
+25. Electrolyte analyser Non-Critical Electromedical
+
+--- Chunk 63 ---
+24. CTG Machine Non-Critical Electromedical
+25. Electrolyte analyser Non-Critical Electromedical
+26. Electrophoresis machine Non-Critical Electromedical
+27. ESR Analyser Non-Critical Electromedical
+28. HbA1C Analyser Non-Critical Electromedical
+29. TENS machine Non-Critical Electromedical
+30. Transport Ventilator Non-Critical Electromedical
+31. A- Scan and B-scan Biometer Non-Critical Electromedical
+32. Auditory Brainstem Response machine Non-Critical Electromedical
+33. Auto- refractometer Non-Critical Electromedical
+34. Automated Blood culture system Non-Critical Electromedical
+35. Automated coagulation analyser Non-Critical Electromedical
+36. Blood Warmer Non-Critical Electromedical
+37. Bowl Sterilizers Non-Critical Electromedical
+38. Chemiluminescence Analyser Non-Critical Electromedical
+39. Cryo surgical unit (Carbon and nitrous oxide) Non-Critical Electromedical
+40. Cryo Surgical unit with liquid nitrogen Non-Critical Electromedical
+
+--- Chunk 64 ---
+40. Cryo Surgical unit with liquid nitrogen Non-Critical Electromedical
+41. Dental X-ray IOP/OPG Non-Critical Electromedical
+42. Diathermy Bipolar/ Electrosurgical unit Non-Critical Electromedical
+43. Flash Autoclave Non-Critical Electromedical
+44. Fundus Camera Non-Critical Electromedical
+45. Horizontal Autoclave Non-Critical Electromedical
+46. Interferential therapy/ Electrotherapy unit Non-Critical Electromedical
+47. Keratometer Non-Critical Electromedical
+48. Microscope Non-Critical Electromedical
+
+--- Chunk 65 ---
+26 | Guidelines on Equipment Maintenance, Calibration & Testing | Guidelines on Equipment Maintenance
+49. Mobile Spotlight/ Light for conducting 
+deliveries/ Examination lamp with white light/ 
+Examination light
+Non-Critical Electromedical
+50. Multipara monitor Non-Critical Electromedical
+51. NCV machine, EMG Machine, VEP Machine Non-Critical Electromedical
+52. Nd Yag Laser Non-Critical Electromedical
+53. Nebulizer/ Ultrasonic nebulizer Non-Critical Electromedical
+54. OCT Non-Critical Electromedical
+55. Operating Microscope Non-Critical Electromedical
+56. OT light - shadowless lamp - Major (Ceiling 
+Double dome)
+Non-Critical Electromedical
+57. OT light - shadowless lamp - Minor Non-Critical Electromedical
+58. OT light standing model/ operating light 
+mobile
+Non-Critical Electromedical
+59. OT Table Non-Critical Electromedical
+60. Phaco Machine Non-Critical Electromedical
+61. Portable/ Mini Autoclave Non-Critical Electromedical
+62. Resuscitation Bed/ ICU bed Non-Critical Electromedical
+
+--- Chunk 66 ---
+62. Resuscitation Bed/ ICU bed Non-Critical Electromedical
+63. Spirometer Non-Critical Electromedical
+64. Surgical Diathermy – Bipolar Non-Critical Electromedical
+65. Ultrasound therapy Non-Critical Electromedical
+66. Washer Disinfector Non-Critical Electromedical
+67. Water Bath Non-Critical Electromedical
+68 X-ray viewer with LED light/ xray view box Non-Critical Electromedical
+69. Slit lamp Non-Critical Electromedical
+70. BP Apparatus- Digital/ Sphygmomanometer Non-Critical Non-Electromedical
+71. Otoscope Non-Critical Non-Electromedical
+72. Weighing Scale- Electronic Non-Critical Non-Electromedical
+73. Ear & nasal Suction machine Non-Critical Non-Electromedical
+74. Foetal Doppler Non-Critical Non-Electromedical
+75. Glucometer Non-Critical Non-Electromedical
+76. Goinometer Non-Critical Non-Electromedical
+77. Hemoglobinometer Non-Critical Non-Electromedical
+78. Ophthalmoscope- Direct Non-Critical Non-Electromedical
+79. Ophthalmoscope- Indirect Non-Critical Non-Electromedical
+
+--- Chunk 67 ---
+79. Ophthalmoscope- Indirect Non-Critical Non-Electromedical
+80. Streak retinoscope Non-Critical Non-Electromedical
+81. Thermometer Non-Critical Non-Electromedical
+82. Turbidometer Non-Critical Non-Electromedical
+83. BP Apparatus- Aneroid/ Sphygmomanometer Non-Critical Non-Electromedical
+84. Hysteroscopy set Non-Critical Non-Electromedical
+85. Ambu bag Non-Critical Non-Electromedical
+
+--- Chunk 68 ---
+Guidelines on Equipment Maintenance, Calibration & Testing | Guidelines on Equipment Maintenance | 27
+86. Baby Weighing Scale Non-Critical Non-Electromedical
+87. Exercise couch Non-Critical Non-Electromedical
+88. Finger exerciser web Non-Critical Non-Electromedical
+89. Foetoscope Non-Critical Non-Electromedical
+90. Labor bed Non-Critical Non-Electromedical
+91. Laryngoscopes Non-Critical Non-Electromedical
+92. Lower & upper extremity cycle/basic 
+ergometer/ static cycle
+Non-Critical Non-Electromedical
+93. Manual Vacuum Aspirator/ Vacuum extractor Non-Critical Non-Electromedical
+94. Oxygen cylinder Type D Non-Critical Non-Electromedical
+95. Percussion hammer/ Reflex Hammer Non-Critical Non-Electromedical
+96. Proctoscope Non-Critical Non-Electromedical
+97. Punctum Dilator Non-Critical Non-Electromedical
+98. Shoulder pulley Non-Critical Non-Electromedical
+99. Shoulder wheel Non-Critical Non-Electromedical
+100. Spirometer for rehabilitation Non-Critical Non-Electromedical
+
+--- Chunk 69 ---
+100. Spirometer for rehabilitation Non-Critical Non-Electromedical
+101. Stadiometer/ Wall mounted height measuring 
+scale
+Non-Critical Non-Electromedical
+102. Stethoscope Non-Critical Non-Electromedical
+103. Tongue depressor Non-Critical Non-Electromedical
+104. Tuning fork (156 Hz) Non-Critical Non-Electromedical
+105. Walking aid for training /Adjustable Walker/ 
+Reciprocal Walker
+Non-Critical Non-Electromedical
+106. Wall ladder finger exerciser/ abduction ladder Non-Critical Non-Electromedical
+(Ayushman Arogya Mandir - Primary Health Centre)
+Sl. No. Equipment Name Critical / 
+Non-Critical
+Electromedical / 
+Non-Electromedical 
+1. 3 part Haematology Analyser Critical Electromedical
+2. Dental Chair-Basic Critical Electromedical
+3. Radiant Warmer critical Electromedical
+4. Semi-automated biochemistry analyser Critical Electromedical
+5. Suction Machine electrical / Suction machine foot 
+operated
+critical Electromedical
+6. Mobile Spotlight/ Light for conducting deliveries/
+
+--- Chunk 70 ---
+operated
+critical Electromedical
+6. Mobile Spotlight/ Light for conducting deliveries/ 
+Examination lamp with white light/ Examination light
+Non-Critical Electromedical
+7. Pulse Oximeter - tabletop Non-Critical Electromedical
+8. Weighing Scale- Electronic Non-Critical Electromedical
+9. HbA1C Analyser Non-Critical Electromedical
+10. Deep Freezer- Large Non-Critical Electromedical
+
+--- Chunk 71 ---
+28 | Guidelines on Equipment Maintenance, Calibration & Testing | Guidelines on Equipment Maintenance
+11. Deep Freezer- Small Non-Critical Electromedical
+12. Electrolyte analyser Non-Critical Electromedical
+13. ESR Analyser (semi-automated) Non-Critical Electromedical
+14. Fully Loaded Dental Chair Electrically Operated Non-Critical Electromedical
+15. ILR With V oltage Stabilizer - Small/Large Non-Critical Electromedical
+16. Microscope Non-Critical Electromedical
+17. Phototherapy unit Non-Critical Electromedical
+18. BP apparatus- Digital Non-Critical Non-Electromedical
+19. Fetal Doppler Non-Critical Non-Electromedical
+20. Glucometer Non-Critical Non-Electromedical
+21. Hemoglobinometer Non-Critical Non-Electromedical
+22. Ophthalmoscope- Direct Non-Critical Non-Electromedical
+23. Ophthalmoscope- Indirect Non-Critical Non-Electromedical
+24. Pulse Oximeter- handheld Non-Critical Non-Electromedical
+25. Turbidometer Non-Critical Non-Electromedical
+
+--- Chunk 72 ---
+25. Turbidometer Non-Critical Non-Electromedical
+26. Oxygen Hood Neonatal Non-Critical Non-Electromedical
+27. Ambu Bags (for adult & neonatal) Non-Critical Non-Electromedical
+28. Baby Weighing Scale Non-Critical Non-Electromedical
+29. BP apparatus- Aneroid Non-Critical Non-Electromedical
+30. Examination table Non-Critical Non-Electromedical
+31. Exercise Couch Non-Critical Non-Electromedical
+32. Finger exerciser web Non-Critical Non-Electromedical
+33. Infantometer Non-Critical Non-Electromedical
+34. Labor Bed Non-Critical Non-Electromedical
+35. Laryngoscope Non-Critical Non-Electromedical
+36. Lower & upper extremity cycle/basic ergometer/static 
+cycle
+Non-Critical Non-Electromedical
+37. Manual Vacuum Aspiration (MV A) Non-Critical Non-Electromedical
+38. Oxygen cylinder- B type Non-Critical Non-Electromedical
+39. Shoulder pulley Non-Critical Non-Electromedical
+40. Shoulder Wheel Non-Critical Non-Electromedical
+41. Spiro meter for rehabilitation Non-Critical Non-Electromedical
+
+--- Chunk 73 ---
+41. Spiro meter for rehabilitation Non-Critical Non-Electromedical
+42. Vaccine Carrier with Ice Packs Non-Critical Non-Electromedical
+43. Walking aid for training/Adjustable Walker/Reciprocal 
+Walker
+Non-Critical Non-Electromedical
+44. Wall ladder finger exerciser/Shoulder abduction ladder Non-Critical Non-Electromedical
+45. Wheel chair Non-Critical Non-Electromedical
+
+--- Chunk 74 ---
+Guidelines on Equipment Maintenance, Calibration & Testing | Guidelines on Equipment Maintenance | 29
+(Ayushman Arogya Mandir - Sub-Health Centre)
+Sl. 
+No. Equipment Name Critical / Non-Critical Electromedical / 
+Non-Electromedical
+1. BP apparatus- Digital/ Sphygmomanometer Non-Critical Non-Electromedical
+2. Weighing machine- Electronic Non-Critical Non-Electromedical
+3. Hemoglobinometer Non-Critical Non-Electromedical
+4. Glucometer Non-Critical Non-Electromedical
+5. Thermometer Non-Critical Non-Electromedical
+6. BP apparatus- Aneroid/ Sphygmomanometer Non-Critical Non-Electromedical
+7. Baby weighing scale Non-Critical Non-Electromedical
+8. Stethoscope Non-Critical Non-Electromedical
+9. Near Vision chart Non-Critical Non-Electromedical
+10. Snellen vision chart Non-Critical Non-Electromedical
+11. Stadiometer Non-Critical Non-Electromedical
+12. Tuning fork Non-Critical Non-Electromedical
+13. Fetoscope Non-Critical Non-Electromedical
+
+--- Chunk 75 ---
+30 | Guidelines on Equipment Maintenance, Calibration & Testing | Guidelines on Equipment Maintenance
+Annexure-D : Performa for Annual 
+Equipment Inventory Survey
+Name of the Health Facility : ....................................................................................................................................
+Level of Healthcare Facility : ....................................................................................................................................
+Details of HEMC Member : ......................................................................................................................................
+Sl. 
+No.
+Department Equipment 
+Nomenclature
+Quantity 
+Held 
+(Total)
+Equipment Functional Status Remarks
+Functional Non-
+Functional
+Repairable BER
+Annexure-E : Equipment Maintenance Logbook
+Sl. 
+No.
+Preventive 
+Maintenance/
+Calibration
+Remarks 
+of Service 
+Engineer
+Breakdown 
+(Date/Time)
+Rectified on (Date/
+Time) by Service 
+Engineer 
+Total
+
+--- Chunk 76 ---
+of Service 
+Engineer
+Breakdown 
+(Date/Time)
+Rectified on (Date/
+Time) by Service 
+Engineer 
+Total 
+Breakdown 
+Time
+Remarks/
+Sign of HoD
+Annexure-F : Inventory Master Record
+Ref 
+ID
+Equipment 
+Nomenclature
+Qty Equipment 
+Make/model (Sl. 
+Num)
+Date 
+installed/
+received
+Warranty 
+Valid Till
+CAMC/
+AMC Valid 
+Till
+Current 
+Status / 
+Remarks
+
+--- Chunk 77 ---
+Guidelines on Equipment Maintenance, Calibration & Testing | Testing and Calibration of Biomedical Equipment | 31
+PART 2
+Testing and Calibration of 
+Biomedical Equipment
+
+--- Chunk 78 ---
+32 | Guidelines on Equipment Maintenance, Calibration & Testing | Testing and Calibration of Biomedical Equipment
+Testing and Calibration of Biomedical 
+Equipment
+Introduction
+1. Calibration of biomedical equipment is a crucial process in the healthcare sector, ensuring the accuracy, 
+precision, reliability, and safety of medical devices and instruments. Precise measurements and consistent 
+functionality of biomedical equipment are of utmost importance, as they directly impact the accuracy of 
+diagnosis, treatment effectiveness, and the overall well-being of patients. Calibration is essential for 
+maintaining the quality of healthcare services, minimizing the risk of errors, and therefore enhancing patient 
+health outcomes.
+2. Calibrating instruments and processes are crucial for verifying their accuracy against established standards, 
+ensuring consistent and error-reduced measurements that can be universally accepted. This procedure typically
+
+--- Chunk 79 ---
+includes comparing the instrument to either primary or secondary standards. In certain cases, calibrating a 
+device against another one with a recognized level of accuracy may be sufficient.
+Gaps in the Testing and Calibration of Biomedical Equipment
+3. The calibration of biomedical equipment encounters many challenges and shortcomings, in India, which 
+significantly affect the maintenance and management of the equipment.
+4. Inaccurate or improperly calibrated equipment can compromise patient safety and reduce the efficacy of 
+medical treatments, highlighting the critical need for improved calibration practices. The Key issues 
+pertaining to the calibration of biomedical equipment include :
+ 4.1 Limited Technical Expertise among Service Providers :  Service providers frequently encounter 
+difficulties in calibrating biomedical equipment due to lack of technical knowledge, insufficient training, 
+and resource constraints.
+
+--- Chunk 80 ---
+and resource constraints.
+ 4.2  Inadequate Infrastructure :  Many healthcare facilities in India lack the required infrastructure for 
+accurate calibration of medical equipment. This includes a shortage of dedicated calibration laboratories 
+and skilled technical personnel.
+ 4.3 Shortage of Skilled Personnel :  There is a scarcity of skilled biomedical engineers and technicians 
+capable of performing precise calibrations.
+ 4.4 Lack of Standardization : There is a lack of standardized guidelines and protocols for the calibration of 
+biomedical equipment. This insufficiency of uniform standards can lead to inconsistencies in equipment 
+performance.
+ 4.5 Limited Awareness :  Awareness among healthcare professionals & administrators regarding the 
+importance of regular equipment calibration is limited, resulting in the neglect or postponement of 
+calibration activities.
+ 4.6 Disparities in Rural Healthcare : Rural healthcare facilities often encounter even greater obstacles in
+
+--- Chunk 81 ---
+calibrating biomedical equipment due to limited access to resources and expertise.
+ 4.7 Remote and Challenging Terrains :  Calibration process faces distinctive challenges in the northern 
+and northeastern states due to geographical remoteness, harsh environmental conditions, inadequate 
+connectivity and logistical challenges.
+5. The importance of Testing and Calibration is as follows :
+ 5.1 Testing and calibration of equipment ensures accuracy, effectiveness and long life of equipment, which 
+ultimately enables one to achieve the highest degree of quality control.
+
+--- Chunk 82 ---
+Guidelines on Equipment Maintenance, Calibration & Testing | Testing and Calibration of Biomedical Equipment | 33
+ 5.2 Quality Control : Testing and calibration helps ensure that medical devices are accurate and effective, 
+and that they last a long time.
+ 5.3 Patient Safety : Regular testing and calibration can help prevent incorrect readings, misdiagnoses, and 
+inappropriate treatment plans that could harm patients.
+ 5.4 Testing and Calibration can also help identify if a device is no longer suitable or has declined in quality, 
+so that repairs or replacements can be made. For instance, the X-ray machine emitting radiation beyond 
+the recommended norms by AERB.
+Standards in Testing and Calibration of Biomedical Equipment
+6. Standards are established sets of guidelines, criteria, or specifications that act as reference benchmarks to 
+guarantee the accuracy, precision, reliability, and traceability of measurements, hence contributing to safety
+
+--- Chunk 83 ---
+and quality assurance. There are two types of standards :  written standard and measurement standard.
+ 6.1 Written standards are often established by global organizations such as International Organization for 
+Standardization (ISO), International Electrochemical Commission (IEC), Institute of Electrical and 
+Electronics Engineers (IEEE), International Laboratory Accreditation Cooperation (ILAC) and others, 
+providing a universally recognized and accepted framework.
+ 6.2 In India, Bureau of Indian Standards (BIS) is an exclusive standardization body for development of Indian 
+Standards (IS), as per the country’s requirement. BIS is a member of the International Organization for 
+Standardization (ISO) and International Electrotechnical Commission (IEC). 
+ 6.3 BIS has a dedicated division dealing with medical devices under the name “Medical Equipment and 
+Hospital Planning Division (MHD).” At present, 20 committees are operating under MHD and have
+
+--- Chunk 84 ---
+Hospital Planning Division (MHD).” At present, 20 committees are operating under MHD and have 
+published more than 1250 Indian Standards on Medical equipment (Product Standard). BIS standards 
+can be accessed from BIS website, know your standards webpage (https://www.services.bis.gov.in/php/
+BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/).
+ 6.4 By adhering to written standards, organizations can uphold the quality of their products, comply with 
+regulations, and maintain the reliability of measurements, ultimately building trust and confidence in 
+what they offer. The most widely adopted written quality management standards are IS/ISO 9001:2015 
+(Quality Management System), IS/ISO/IEC 17025:2017 (General requirements for the competence of 
+testing and calibration laboratories) & IS/ISO/IEC 13485:2016 (Medical Devices- Quality Management 
+Systems, Requirements for regulatory purpose).
+
+--- Chunk 85 ---
+Systems, Requirements for regulatory purpose).
+ 6.5 Quality management written standards mandate that laboratories showcase their adherence to a 
+comprehensive quality system encompassing processes, documentation, and quality management. 
+These labs are required to produce technically valid results, considering equipment, procedures, and 
+personnel variables.
+ 6.6 Testing & calibration of medical devices should be based on established standards. For example, for 
+testing and calibration of cardiac defibrillator should be based on IEC 60601-1:2012 (Medical electrical 
+equipment: Part 1 General Requirements for basic safety and essential performance) & IEC 60601-2-4: 
+2010 (Particular requirements for the basic safety and essential performance, Cardiac defibrillators).
+ 6.7 If there are no relevant Standard of any medical device that has been laid down by BIS or notified by 
+MoHFW, device shall conform to the standard laid down by the ISO or IEC, or by any other pharmacopeial
+
+--- Chunk 86 ---
+standards. And in case of the standards which have not been specified by any of the options given 
+above, then the device shall conform to the validated manufacturer’s standards.
+
+--- Chunk 87 ---
+34 | Guidelines on Equipment Maintenance, Calibration & Testing | Testing and Calibration of Biomedical Equipment
+Organizations Contributing to Biomedical Equipment Testing 
+and Calibration
+7. In India, medical device regulations (National Medical Device Policy, 2023 and New Drugs, Medical Devices 
+and Cosmetics Bill, 2022) emphasize on the need for quality control and periodic calibration assessments of 
+medical equipment in order to reduce errors associated with these devices.
+ 7.1 Precise and accurate measurements are crucial for correct diagnoses and critical medical decisions. 
+Conversely, using uncalibrated medical devices can lead to severe errors, resulting in incorrect 
+diagnoses, device failures, and, in some cases, even casualties and fatalities. Therefore, regular testing 
+and calibration of biomedical equipment is essential to ensure accurate and periodic measurements,
+
+--- Chunk 88 ---
+and calibration of biomedical equipment is essential to ensure accurate and periodic measurements, 
+representing a crucial step in establishing a robust national quality healthcare infrastructure within the 
+healthcare sector.
+CSIR-NPL (Council of Scientific and Industrial Research – 
+National Physical Laboratory, www.nplindia.org )
+8. CSIR-NPL is mandated to be India’s “National Metrology Institute” by the act of Parliament (The Gazette 
+of India) and is custodian of “National Standards of Measurements.” CSIR-NPL is responsible for the 
+realization, establishment, up-gradation, maintenance and dissemination of standards at par to international 
+level, providing metrological traceability across the country.
+ 8.1 The CSIR-NPL, Indian National Metrology Institute contributes to the enhancement of quality control 
+regulations for medical equipment in healthcare sector and boosts the growth of country’s biomedical 
+industries and calibration laboratories by:
+
+--- Chunk 89 ---
+industries and calibration laboratories by:
+  (i) Development, operation and maintenance of national standards for biomedical equipment as per 
+relevant national and international standards.
+  (ii)  Providing testing/calibration services to accredited testing laboratories and other stakeholders 
+within the healthcare industry by disseminating metrological traceability of physical measurements.
+  (iii) Providing training/workshop on biomedical calibration and testing.
+  (iv) The CSIR-NPL has following facilities for testing/calibration of medical device, medical device 
+simulator/analyser :
+  (a) Defibrillator & Defibrillator Analyser calibration facility is established by installing a set-
+up of a primary standard of defibrillator with its physical parameters traceable to national 
+standards. 
+  (b) Infusion Device & Infusion Device Analyser calibration facility as per IS 13450 (Part 2/Sec 
+24): 2009 equivalent to IEC 60601-2-24.
+
+--- Chunk 90 ---
+24): 2009 equivalent to IEC 60601-2-24.
+  (c) Non-Invasive Blood Pressure (NIBP) devices calibration/testing system. The system is also 
+established for Regional Reference Standards Laboratories (RRSL) at Varanasi and Faridabad. 
+  (d) Clinical Thermometer testing/calibration facility. The system is also established at Legal 
+Metrology Department (LMD), Regional Reference Standard Laboratories (RRSL) at 
+Varanasi and Ahmedabad. The facility is also useful for testing clinical glass thermometers 
+and digital thermometers as per national and international standards’ requirements.
+  (e) ECG Simulator calibration facility. 
+ 8.2 The CSIR-NPL in New Delhi has set up the Centre for Calibration & Testing (CFCT) Section with the 
+primary aim of enhancing the laboratory’s Calibration & Testing Services. Testing/Calibration services
+
+--- Chunk 91 ---
+Guidelines on Equipment Maintenance, Calibration & Testing | Testing and Calibration of Biomedical Equipment | 35
+provided by CSIR-NPL can be accessed from CSIR-NPL website Calibration and testing webpage.  
+https://www.nplindia.org/index.php/commercial-services/calibration-testing/ 
+National Accreditation Board for Testing and Calibration 
+Laboratories (NABL)
+9. NABL is an accreditation body, with its accreditation system established in accordance with ISO/ IEC 17011. 
+It undertakes the assessment and accreditation of testing (including medical), calibration, proficiency testing 
+provider and reference material producer in India and abroad. 
+10. NABL offers voluntary accreditation services to calibration laboratories in accordance with ISO/IEC 
+17025. The scope of NABL accreditation services for calibration laboratory encompass multiple disciplines, 
+including Mechanical, Electro-technical, Fluid Flow, Thermal, Optical, Radiological and Medical Devices.
+
+--- Chunk 92 ---
+11. NABL provide accreditation to calibration laboratories that adheres to stringent quality and calibration 
+standards and procedure. NABL accreditation signifies a laboratory’s competence and capability as per 
+internationally recognized standards, making them integral in ensuring the precision and safety of medical 
+devices in the healthcare sector.
+12. NABL provide accreditation to a large number of laboratories while ensuring metrological traceability to SI 
+units. NABL accredited calibration laboratories can be categorized as below: 
+ 12.1 Tier-1 calibration laboratories : These would be equivalent to those of Regional Reference Laboratories 
+of Legal Metrology and obtain measurement traceability directly from the CSIR-NPL. Therefore, these 
+Tier-1 laboratories are expected to have much lower measurement uncertainty. Laboratories falling 
+under government and/or private sectors having essential infrastructure can be assigned Tier-1 grade 
+after the approval from CSIR-NPL.
+
+--- Chunk 93 ---
+after the approval from CSIR-NPL. 
+ 12.2 Tier-2 calibration laboratories : Rest of the laboratories would be accredited under Tier-2, and they 
+will obtain measurement traceability from Tier-1 laboratories. Tier-2 laboratories will disseminate 
+measurement traceability to testing laboratories. 
+ 12.3 In the pursuit of precision and reliability in healthcare, the calibration of medical equipment is of utmost 
+importance. NABL accredited specific calibration laboratories for medical device calibration can be 
+accessed from NABL website laboratory search webpage by selection field as calibration and discipline 
+as medical devices. https://nablwp.qci.org.in/laboratorysearchone 
+Standardization of Testing and Quality Certification (STQC) 
+Directorate
+13. Standardisation Testing and Quality Certification (STQC) Directorate is an attached office of the Ministry 
+of Electronics and Information Technology, Government of India, provides quality assurance services in the
+
+--- Chunk 94 ---
+area of Electronics and IT through countrywide network of laboratories and centers. 
+14. The services include Testing, Calibration, IT & e-Governance, Training and Certification to public and 
+private organizations. STQC laboratories are having National / International accreditation and recognitions 
+in the area of testing and calibration.
+15. STQC offers calibration services to industry and organizations in the domains: Electro Technical Calibration, 
+Non-Electrical Calibration, High Precision Calibration, Onsite Calibration, and Medical Equipment 
+Calibration.
+16. There are 4 regional laboratories, 10 state level laboratories and 2 high precision calibration centres at Delhi 
+and Bangaluru. The STQC laboratories are equipped with the state-of-the-art calibrating facilities. Medical
+
+--- Chunk 95 ---
+36 | Guidelines on Equipment Maintenance, Calibration & Testing | Testing and Calibration of Biomedical Equipment
+equipment calibration services are provided by STQC laboratories at ERTL (North) Delhi and ERTL (South) 
+Thiruvananthapuram. https://www.stqc.gov.in/labs-centres  
+ 16.1 These laboratories serve as support hierarchy in establishing traceability to the National Standards 
+through their calibration services to electronic & allied industries for electro technical and non-electrical 
+parameters.
+ 16.2 All STQC laboratories have well-established quality system complying with ISO/IEC 17025 and are 
+accredited by NABL (National Accreditation Board for Laboratories).
+Location / Site of Testing and Calibration
+17. The outcome of calibration and measurement accuracy can be adversely affected by the accommodation and 
+environmental conditions. Hence, they need to be controlled along with other significant factors.
+
+--- Chunk 96 ---
+environmental conditions. Hence, they need to be controlled along with other significant factors.
+18. The laboratory can provide medical equipment testing and calibration services under different categories:
+ 18.1 Permanent Laboratory : This refers to a testing or calibration laboratory established at a specific 
+location.
+ 18.2 Site Testing/Calibration Facility : Testing/Calibration is conducted by the laboratory’s personnel at the 
+client’s site or a location other than the permanent laboratory.
+ 18.3 Mobile Facility : This consists of a self-contained, fully equipped testing or calibration facility that is 
+transportable and capable of conducting calibrations under controlled environmental conditions.
+Documentation of Calibration Results
+19. The result of calibration is documented in calibration certificate or a calibration report. The calibration 
+certificate must also include the associated measurement uncertainty. Information obtained through
+
+--- Chunk 97 ---
+certificate must also include the associated measurement uncertainty. Information obtained through 
+calibration can be conveyed through a statement, calibration function, calibration diagram, calibration curve, 
+or a calibration table. In some cases, it may consist of an additive or multiplicative correction of the indication 
+with associated measurement uncertainty.  
+20. Calibration Diagram: graphical expression of the relation between indication and corresponding measurement 
+result. This concept pertains to a calibration when the instrumental measurement uncertainty is large in 
+comparison with the measurement uncertainties associated with the quantity values of measurement standards 
+(IEC/ISO Guide99, Definition 4.30).
+21. Calibration Curve: expression of the relation between indication and corresponding measured quantity value. 
+A calibration curve expresses a one-to-one relation that does not supply a measurement result as it bears no
+
+--- Chunk 98 ---
+information about the measurement uncertainty (IEC/ISO Guide99, Definition 4.31).
+Calibration Interval
+22. A calibration interval is the predefined period between two consecutive scheduled calibrations. The primary 
+purpose is to ensure that the instrument continues to provide accurate and reliable measurements, in 
+accordance with the reference standards or manufacturer’s specifications. 
+23. Establishing and adhering to appropriate calibration intervals is essential for ensuring accuracy and 
+consistency, thereby helping to maintain product quality and regulatory compliance.
+24. Some instruments may require more frequent recalibration, while others can go longer between calibrations. 
+Striking a balance is important when establishing a calibration interval. 
+25. The frequency of calibration may vary depending on factors such as instrument type, manufacturer 
+recommendations, instrument usage, criticality of use, environmental conditions, required accuracy and
+
+--- Chunk 99 ---
+precision, maximum permissible errors, stability of the equipment and regulatory requirements etc.
+
+--- Chunk 100 ---
+Guidelines on Equipment Maintenance, Calibration & Testing | Testing and Calibration of Biomedical Equipment | 37
+26. It is recommended that healthcare facilities consult with equipment manufacturers, regulatory bodies, and 
+local experts to establish appropriate calibration schedules for their specific biomedical equipment and 
+circumstances.
+27. Biomedical Equipment at various healthcare facilities (as per IPHS 2022) has been classified according to 
+the calibration requirements, relevant standards, and the reference equipment necessary for calibration along 
+with their suggestive calibration schedule are annexed.
+Important Tests for Electro-Medical Equipment
+28. The following measures in Step 1 and 2 encompass all tests prescribed by the general rules for electro-
+medical equipment and adherence to the established criteria. The results of the tests listed below represent 
+characteristics that are common to all electro-medical equipment.
+
+--- Chunk 101 ---
+characteristics that are common to all electro-medical equipment.
+29. Furthermore, each specific equipment must adhere to its specific standard. The nature of the tests varies 
+significantly depending on the type of equipment being tested.
+Step 1 - Relevant qualitative and quantitative tests should include the following :
+1. Protection against mechanical risks
+2. Protection against risk of unwanted or excessive radiation
+3. Protection against risk of ignition of anaesthesia mixtures
+4. Protection against excessive temperatures
+5. Abnormal operations and conditions of failure
+Step 2 - With relevant general rule, with the help of an appropriate electrical safety analyser, and 
+qualified person check/verify the following :
+1. Current Consumption
+2. Insulation Resistance
+3. Leakage current to the ground
+4. Leakage current through the Cabinet
+5. Leakage current through the patient
+6. Auxiliary current through the patient
+
+--- Chunk 102 ---
+5. Leakage current through the patient
+6. Auxiliary current through the patient
+30. Tests mentioned below are suggestive in nature, the service provider may add new tests as needed. Additional 
+steps may be proposed if required by the manufacturer or client.
+Electro medical equipment in general Electrosurgical Units
+1. Insulation resistance 1. Insulation resistance
+2. Leakage current to the ground 2. Leakage current to the ground
+3. Leakage current through the Cabinet 3. Leakage current through the Cabinet
+4. Leakage current through the patient 4. Leakage current through the patient
+5. Auxiliary current through the patient 5. Auxiliary current through the patient
+6. Accuracy of the power outlet
+7. RF leakage current
+
+--- Chunk 103 ---
+38 | Guidelines on Equipment Maintenance, Calibration & Testing | Testing and Calibration of Biomedical Equipment
+Defibrillators Volumetric Infusion Pumps and Syringe Pumps
+1. Insulation resistance 1. Insulation resistance
+2. Leakage current to the ground 2. Leakage current to the ground
+3. Leakage current through the Cabinet 3. Leakage current through the Cabinet
+4. Leakage current through the patient 4. Leakage current through the patient
+5. Auxiliary current through the patient 5. Accuracy of the intermediary and minimum 
+rate infusion without return pressure
+6. Energy delivered 6. Accuracy of infusion rate
+7. Isolation of the high voltage parts
+8. Energy loss rate
+9. Battery capacity
+Conclusion
+31. Testing and calibration plays a crucial role in maintaining the accuracy, precision, and reliability of instruments. 
+Beyond being a procedural necessity, testing & calibration of biomedical equipment serves as a cornerstone
+
+--- Chunk 104 ---
+for ensuring the highest standards in patient care, diagnostics, and treatment within healthcare systems. 
+32. Biomedical equipment should comply with established standards, as this compliance ensures overall 
+effectiveness and contributes significantly to safety and quality assurance in healthcare practices. Proper 
+documentation of testing & calibration results is essential, serving as a comprehensive record that enables 
+healthcare professionals to track the performance history of biomedical equipment and make well-informed 
+decisions. 
+33. This document aims to be a valuable resource for healthcare professionals and biomedical engineers, 
+promoting the adoption of best practices in testing & calibration of biomedical equipment and contributing 
+to the delivery of high-quality healthcare services.
+
+--- Chunk 105 ---
+Guidelines on Equipment Maintenance, Calibration & Testing | Testing and Calibration of Biomedical Equipment | 39
+List of Equipment that Requires Testing / 
+Calibration
+A. For Sub Health Centre (SHC) Level
+Sl. 
+No.
+List of Equipment at SHC as per 
+IPHS 2022
+Reference Equipment for Testing / Calibration
+1. Digital Hemoglobinometer Auto - Hematology Analyzer (Gold Standard)
+2. Digital Glucometer with test strips Biochemistry Analyzer (Using Venous Blood Sugar) (Gold 
+Standard)
+3. Digital BP apparatus Non-Invasive Blood Pressure (NIBP) Simulator
+https://www.flukebiomedical.com/products/biomedi -
+cal-test-equipment/patient-simulators/bp-pump-2-nibp-blood-
+pressure-simulator
+4. Weighing Scale Non-Electronic Reference Weights with high accuracy
+https://calibrationweights.in/?gad_source=1&gclid=Cj0KCQ -
+jw-ai0BhDPARIsAB6hmP4l49gRyXgaebnlE65UNe_DAAK -
+ag2IA-Ip1pTJipTaHualZVBRuBcQaAiWjEALw_wcB 
+5. Baby Weighing Scale Reference Weights with high accuracy
+
+--- Chunk 106 ---
+5. Baby Weighing Scale Reference Weights with high accuracy
+https://calibrationweights.in/?gad_source=1&gclid=Cj0KCQ -
+jw-ai0BhDPARIsAB6hmP4l49gRyXgaebnlE65UNe_DAAK -
+ag2IA-Ip1pTJipTaHualZVBRuBcQaAiWjEALw_wcB 
+B. For Primary Health Centre (PHC) Level
+*Same as equipment mentioned in Sub Health Centre (SC)
+Sl. 
+No.
+List of Equipment at PHC as per 
+IPHS 2022
+Reference Equipment for Testing / Calibration
+1. Radiant Warmer 1. Incubator/Radiant Warmer Analyzer
+    https://helixindia.com/incubator-analyzer/ 
+2. Electrical Safety Analyzer
+    https://helixindia.com/electrical-safety-analyzers/ 
+2. Phototherapy Unit 1. Phototherapy Radiometer/ Irradiance meter
+https://www.flukebiomedical.com/products/biomedi-
+cal-test-equipment/phototherapy-radiometers/dale40-photo-
+therapy-radiometer
+2. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/ 
+3. Suction Machine 1. Pressure Calibrator 
+https://www.fluke.com/en-us/product/calibration-tools/pres-
+sure-calibrators/fluke-718
+
+--- Chunk 107 ---
+https://www.fluke.com/en-us/product/calibration-tools/pres-
+sure-calibrators/fluke-718
+2. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+
+--- Chunk 108 ---
+40 | Guidelines on Equipment Maintenance, Calibration & Testing | Testing and Calibration of Biomedical Equipment
+4. Binocular Microscope Stage Micrometre & Calibration Grids
+https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_
+id=7502&gad_source=1&gclid=Cj0KCQjws560BhCuAR-
+IsAHMqE0HsCEu1XYS_6tY4-SDKzaS2FOk2-7Fgl1sN-
+0zhXyFM4pDK7oqn_QU4aAgKKEALw_wcB
+5. BP Apparatus Aneroid Reference Manometer
+(Mercury Sphygmomanometer or Electronic Manometers)
+ https://www.flukebiomedical.com/products/biomedi-
+cal-test-equipment/patient-simulators/bp-pump-2-nibp-
+blood-pressure-simulator
+6. Foetal Doppler Foetal Simulator with Mechanical Heart
+https://www.flukebiomedical.com/products/biomedi-
+cal-test-equipment/patient-simulators/ps320-fetal-simulator
+7. HbA1c Analyzer 1. Calibrators and Controls (As per manufacturer’s  
+recommendations)  
+2. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+8. Semi-automated analyser 1. Calibrators and Controls (As per manufacturer’s
+
+--- Chunk 109 ---
+8. Semi-automated analyser 1. Calibrators and Controls (As per manufacturer’s  
+recommendations)  
+2. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+9. Turbidimeter 1. Electrical Safety Analyzer 
+https://helixindia.com/electrical-safety-analyzers/
+2.Turbidity Calibration Standard Solutions traceable to  
+primary standard reference materials
+10. 3 Part Hematology Analyzer 1. Calibrators and Controls (As per manufacturer’s  
+recommendations) 
+2. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/ 
+11. Electrolyte Analyzer 1. Calibrators and Controls (As per manufacturer’s  
+recommendations) 
+2. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/ 
+12. ESR Analyzer 1. Calibrators and Controls (As per manufacturer’s  
+recommendations)
+2. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+13. Ophthalmoscope Lux meter
+https://www.fluke.com/en-in/product/building-infrastructure/
+
+--- Chunk 110 ---
+13. Ophthalmoscope Lux meter
+https://www.fluke.com/en-in/product/building-infrastructure/
+indoor-air-quality-testing/fluke-941
+
+--- Chunk 111 ---
+Guidelines on Equipment Maintenance, Calibration & Testing | Testing and Calibration of Biomedical Equipment | 41
+14. Pulse Oximeter (handheld) Pulse Oximeter Simulator/SpO2 Signal Simulator
+https://www.flukebiomedical.com/products/biomedi-
+cal-test-equipment/patient-simulators/prosim-spot-light-
+spo2-pulse-oximeter-tester
+15. Pulse Oximeter (tabletop) Pulse Oximeter Simulator/SpO2 Signal Simulator
+https://www.flukebiomedical.com/products/biomedi-
+cal-test-equipment/patient-simulators/prosim-spot-light-
+spo2-pulse-oximeter-tester 
+16. Spirometer for rehabilitation 3 Litre Precision Calibration Syringe
+https://vitalograph.com/products/3-liter-precision- 
+calibration-syringe
+17. ILR with voltage stabilizer 1.Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+2. Reference Thermometer/Temperature Data Logger
+https://as.flukecal.com/products/process-calibration-tools/
+temperature-calibrators/precision-digital- 
+thermometers/1523-1524-
+3.V oltage Calibrator
+
+--- Chunk 112 ---
+temperature-calibrators/precision-digital- 
+thermometers/1523-1524-
+3.V oltage Calibrator
+https://www.fluke.com/en-in/learn/blog/temperature- 
+calibration/best-practices-process-temperature-calibration
+18. Deep Freezer 1.Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+2. Reference Thermometer/Temperature Data Logger
+https://as.flukecal.com/products/process-calibration-tools/
+temperature-calibrators/precision-digital- 
+thermometers/1523-1524- 
+C. For Community Health Centre (CHC) Level
+*Same as equipment mentioned in Primary Health Centre (PHC)
+Sl. 
+No.
+List of Equipment at 
+CHC as per IPHS 2022
+Reference Equipment for Testing / Calibration
+1. Mechanical ventilator 1. Electrical Safety Analyzer 
+https://helixindia.com/electrical-safety-analyzers/
+2. Gas Flow Analyzer Ventilator Tester
+https://www.flukebiomedical.com/products/biomedical-test-equip-
+ment/gas-flow-analyzers-ventilator-testers/vt900a-gas-flow-
+analyzer-ventilator-tester
+
+--- Chunk 113 ---
+ment/gas-flow-analyzers-ventilator-testers/vt900a-gas-flow-
+analyzer-ventilator-tester
+2. Transport Ventilator 1. Electrical Safety Analyzer 
+https://helixindia.com/electrical-safety-analyzers/
+2. Gas Flow Analyzer Ventilator Tester
+https://www.flukebiomedical.com/products/biomedical-test-equip-
+ment/gas-flow-analyzers-ventilator-testers/vt900a-gas-flow-
+analyzer-ventilator-tester
+
+--- Chunk 114 ---
+42 | Guidelines on Equipment Maintenance, Calibration & Testing | Testing and Calibration of Biomedical Equipment
+3. Defibrillator 1. Defibrillator Analyzer
+https://www.flukebiomedical.com/products/biomedical-test- 
+equipment/defibrillator-analyzers
+2. Electrical Safety Analyzer 
+https://helixindia.com/electrical-safety-analyzers/
+  4. Electrosurgical unit/ Dia-
+thermy Bipolar
+Electrosurgical Unit Analyzer/Cautery Analyzer
+https://www.flukebiomedical.com/products/biomedical-test- 
+equipment/electrosurgery-analyzers
+Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+5. CTG Machine 1. Foetal Simulator 
+https://www.flukebiomedical.com/products/biomedical-test- 
+equipment/patient-simulators/ps320-fetal-simulator 
+2. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+6. Multipara monitor 1. Patient Monitor Simulator
+https://helixindia.com/vital-sign-patient-simulator/
+2. Electrical Safety Analyzer
+
+--- Chunk 115 ---
+https://helixindia.com/vital-sign-patient-simulator/
+2. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/ 
+7. X-Ray 300 mA 1. Phantoms
+2. Kilo Peak V oltage Meter (kVp) Meter & Exposure Timer
+https://www.barc.gov.in/technologies/meter/meterbr.html
+3. Radiation Survey Meter
+https://www.avanttec.net/radiation-survey-meter/
+4. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+8. Infusion pump Infusion Pump Analyzer
+https://www.rigelmedical.com/gb/products/infusion-pump-testing/
+infusion-pump-analyzers/multi-flo/
+2. Electrical Safety Analyzer 
+https://helixindia.com/electrical-safety-analyzers/
+9. Goniometer Precision Angle Blocks
+https://www.fluke.com/en-in/products/calibration-tools/pressure-
+calibrators
+10. Anaesthesia machine Gas Flow Analyzer
+https://www.rigelmedical.com/gb/products/ventilator-testing/
+gas-flow-analyzers/
+Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+
+--- Chunk 116 ---
+gas-flow-analyzers/
+Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+11. Interferential Therapy Unit Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+12. NCV EMG Machine & 
+VEP Machine
+Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+
+--- Chunk 117 ---
+Guidelines on Equipment Maintenance, Calibration & Testing | Testing and Calibration of Biomedical Equipment | 43
+13. Phaco Machine As per manufacturer’s recommendation
+Electric Safety Analyser
+https://helixindia.com/electrical-safety-analyzers/
+14. Nd Yag LASER As per manufacturer’s recommendation
+Electric Safety Analyser
+https://helixindia.com/electrical-safety-analyzers/ 
+15. TENS Electrical Safety Analyzer 
+https://helixindia.com/electrical-safety-analyzers/
+16. Ultrasonic Nebulizer Gas Flow Analyzer
+https://www.rigelmedical.com/gb/products/ventilator-testing/
+gas-flow-analyzers/
+Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+17. Ultrasound Therapy 1. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/ 
+2. Ultrasound power meter/watt meter
+https://www.omnia-health.com/product/digital-ultrasound-wattmeter-
+power-meter
+18. Oxygen Concentrator Oxygen Analyzer
+https://www.indiamart.com/proddetail/oxygen-analyz-
+
+--- Chunk 118 ---
+18. Oxygen Concentrator Oxygen Analyzer
+https://www.indiamart.com/proddetail/oxygen-analyz-
+er-20732065088.html 
+Pressure Testing Gauge
+https://bajajlifecare.com/product/oxylife-pressure-test-
+ing-gauge-for-oxygen-cylinder/
+3. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+19. Resuscitation Bed/ICU 
+Bed
+Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+20. OT Table Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+21. Autoclave (HP Horizontal / 
+Flash/ Portable)
+Pressure Calibrator
+https://www.fluke.com/en-us/product/calibration-tools/pressure- 
+calibrators/fluke-718
+2.  Temperature Calibrator
+https://www.fluke.com/en-us/product/calibration-tools/tempera-
+ture-calibrators/fluke-724 
+22. Spirometer 3-Litre Calibration Syringe (Calibration V olume Syringe)
+https://www.a-msystems.com/p-60-3l-fixed-volume-calibration- 
+syringe.aspx 
+23. Obstetric/ Gynaecologic 
+Ultrasound/ Colour doppler 
+ultrasound
+
+--- Chunk 119 ---
+syringe.aspx 
+23. Obstetric/ Gynaecologic 
+Ultrasound/ Colour doppler 
+ultrasound
+1. Ultrasound Phantoms  
+2. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+3.Ultrasound Phantom or Calibration Test Object
+https://www.sunnuclear.com/products/zerdine-ultrasound-phantom
+
+--- Chunk 120 ---
+44 | Guidelines on Equipment Maintenance, Calibration & Testing | Testing and Calibration of Biomedical Equipment
+24. Ophthalmoscope Lux meter
+https://www.fluke.com/en-in/product/building-infrastructure/in-
+door-air-quality-testing/fluke-941
+25. Slit lamp Lux meter
+https://www.fluke.com/en-in/product/building-infrastructure/in-
+door-air-quality-testing/fluke-941
+26. Streak retinoscope 1. Illuminance/Lux Meter
+https://www.fluke.com/en-in/product/building-infrastructure/in-
+door-air-quality-testing/fluke-941
+2. Distance Vision Chart & Near Vision Chart
+27. Keratometer 1. Calibration Sphere or Test sphere
+https://www.zeiss.co.in/metrology/products/accessories/machine-ac-
+cessories/zeiss-reference-spheres-and-calibration-artifacts.html
+28 . A-Scan and B-Scan Biom-
+eter
+Calibration Sphere
+https://www.fluke.com/en-in/products/calibration-tools/pressure-cali-
+brators
+29. Automated Coagulation 
+Analyzer
+1. Calibrators and Controls (As per manufacturer’s recommendations)
+
+--- Chunk 121 ---
+Analyzer
+1. Calibrators and Controls (As per manufacturer’s recommendations)  
+2. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+30. Fundus Camera 1. Illuminance/Lux Meter
+https://www.fluke.com/en-in/product/building-infrastructure/in-
+door-air-quality-testing/fluke-941
+2. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+31. Refractometer 1. Auto-refractor Calibration Test Lens Set
+https://www.nidek-intl.com/product/ophthaloptom/refraction/ref_
+auto/ark-1s.html
+2. Electrical Safety Analyser
+https://helixindia.com/electrical-safety-analyzers/
+32. OCT 1. OCT Phantom
+https://www.ardenphotonics.com/products/apl-op01/
+2. Electrical Safety Analyser
+https://helixindia.com/electrical-safety-analyzers/
+33. Applanation Tonometer Electrical Safety Analyser
+https://helixindia.com/electrical-safety-analyzers/
+34. ECG Machine 12 channel 1. ECG Simulator
+https://www.flukebiomedical.com/products/biomedical-test-equip-
+
+--- Chunk 122 ---
+https://www.flukebiomedical.com/products/biomedical-test-equip-
+ment/patient-simulators
+2.  Electrical Safety Analyser
+https://helixindia.com/electrical-safety-analyzers/
+35. Otoscope 1. Ear Simulator
+https://www.indiamart.com/proddetail/type-4195-ear-simulator-for-
+telephonometry-itu-t-type-3-2-coupler-b-k-2853934184848.htm-
+l?pos=8&pla=n
+2. Electrical Safety Analyser
+https://helixindia.com/electrical-safety-analyzers/
+
+--- Chunk 123 ---
+Guidelines on Equipment Maintenance, Calibration & Testing | Testing and Calibration of Biomedical Equipment | 45
+36. Auditory Brainstem Re-
+sponse Machine
+Acoustic Calibrator
+https://www.noisemeters.asia/help/faq/calibrator/
+2. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+37. 5 Part Hematology Ana-
+lyzer
+1. Calibrators and Controls (As per manufacturer’s recommendations)  
+2. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+38. ESR Analyzer 1. Calibrators and Controls (As per manufacturer’s recommendations)  
+2. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+39. Fully Automatic Biochem-
+istry Analyzer
+1. Calibrators and Controls (As per manufacturer’s recommendations)  
+2. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+40. ELISA Reader & Washer 1. Calibrators and Controls (As per manufacturer’s recommendations)  
+2. Electrical Safety Analyzer
+
+--- Chunk 124 ---
+2. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+41. Chemiluminescence Ana-
+lyzer
+1. Calibrators and Controls (As per manufacturer’s recommendations) 
+2. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+42. Automated Blood Culture 
+System
+1. Calibrators and Controls (As per manufacturer’s recommendations) 
+2. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+
+--- Chunk 125 ---
+46 | Guidelines on Equipment Maintenance, Calibration & Testing | Testing and Calibration of Biomedical Equipment
+D. For District Hospital (DH) Level
+*Same as equipment mentioned in Community Health Centre (CHC)
+Sl. 
+No.
+List of Equipment at DH as per 
+IPHS 2022
+Reference Equipment for Testing / Calibration
+1. C.T. Scan Multi slice (64 SLIC-
+ES)
+1. CT Phantoms
+https://www.indiamart.com/proddetail/phantoms-to-
+ctiq-15090879155.html 
+2. Radiation Survey Meter
+https://www.avanttec.net/radiation-survey-meter/ 
+3. Electric Safety Analyzer 
+https://helixindia.com/electrical-safety-analyzers/ 
+2. MRI System 1.5 Tesla 1. Phantoms 
+2. Radio Frequency (RF) Power Meter
+3. Electric Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+3. Mammography Unit Mammographic Phantoms 
+2.  Radiation Survey Meter
+https://www.avanttec.net/radiation-survey-meter/ 
+3. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+4. Bubble CPAP 1. Gas Flow Analyzer
+
+--- Chunk 126 ---
+https://helixindia.com/electrical-safety-analyzers/
+4. Bubble CPAP 1. Gas Flow Analyzer
+https://www.rigelmedical.com/gb/products/ventilator-testing/
+gas-flow-analyzers/
+2. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+5. CARM with accessories 1. Phantoms 
+2. Electric Safety Analyzer 
+https://helixindia.com/electrical-safety-analyzers/
+6. Defibrillator with TCP and AED 1. Defibrillator Analyzer
+https://www.flukebiomedical.com/products/biomedi-
+cal-test-equipment/defibrillator-analyzers
+2. Electrical Safety Analyzer 
+https://helixindia.com/electrical-safety-analyzers/ 
+7. Hemodialysis Machine 1. Dialysis Reference Meter
+https://helixindia.com/dialysis-reference-meters/
+2. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+8. Dialyzer reprocessing unit 1. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+2. Conductivity Meter 
+3. pH Calibration Solutions (As per manufacturer’s recom-
+mendation)
+
+--- Chunk 127 ---
+Guidelines on Equipment Maintenance, Calibration & Testing | Testing and Calibration of Biomedical Equipment | 47
+9. Electrical cautery 1. Electrosurgical Generator Analyzer/Cautery Analyzer
+https://www.flukebiomedical.com/products/biomedi-
+cal-test-equipment/electrosurgery-analyzers
+2. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+10. EEG machine Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+11. Arterial Blood Gas Analyzer 1. Electrical Safety Analyzer 
+https://helixindia.com/electrical-safety-analyzers/
+2. pH Buffers Solutions and Electrolyte Standards 
+(As per manufacturer’s recommendation)
+12. ACT machine 1. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+2. Calibration Plasma and Control Solutions 
+(As per manufacturer’s recommendation)
+13. Multi para monitor for ICU 1. Patient Monitor Simulator
+https://helixindia.com/vital-sign-patient-simulator/ 
+2. Electrical Safety Analyzer
+
+--- Chunk 128 ---
+https://helixindia.com/vital-sign-patient-simulator/ 
+2. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+14. Bilirubinometer Bilirubin Standard Solutions
+(As per manufacturer’s recommendation)
+15. CPAP 1. Gas Flow Analyzer
+https://www.rigelmedical.com/gb/products/ventilator-testing/
+gas-flow-analyzers/
+2. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+16. RTPCR machine 1. Calibrators and Controls (As per manufacturer’s recom-
+mendations) 
+2. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/ 
+17. Transport Incubator 1. Incubator Analyzer 
+https://helixindia.com/incubator-analyzer/
+2. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+18. DVT pump (Deep Vein Thrombo-
+sis prevention devices)
+1. Pressure Calibrator
+https://www.fluke.com/en-us/product/calibration-tools/pres-
+sure-calibrators/fluke-718
+2. Flow Meter / Calibrator
+3. Electrical Safety Analyzer
+
+--- Chunk 129 ---
+sure-calibrators/fluke-718
+2. Flow Meter / Calibrator
+3. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+
+--- Chunk 130 ---
+48 | Guidelines on Equipment Maintenance, Calibration & Testing | Testing and Calibration of Biomedical Equipment
+19. ECMO machine 1. Pressure Calibrator
+https://www.fluke.com/en-us/product/calibration-tools/pres-
+sure-calibrators/fluke-718
+2.  Temperature Calibrator
+https://www.fluke.com/en-us/product/calibration-tools/tem-
+perature-calibrators/fluke-724
+3. Electrical Safety Analyzer 
+https://helixindia.com/electrical-safety-analyzers/
+20. Flame Photometer 1. Electrical Safety Analyzer 
+https://helixindia.com/electrical-safety-analyzers/
+2. Standard Solutions
+(As per manufacturer’s recommendation)
+21. Phototherapy Single surface LED 1. Illuminance/Lux Meter
+https://www.fluke.com/en-in/product/building-infrastructure/
+indoor-air-quality-testing/fluke-941
+2. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+22. X-Ray machine 500 ma 1. Electrical Safety Analyzer
+Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+
+--- Chunk 131 ---
+Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+2. Radiology Test Equipment 
+https://humanhealth.iaea.org/HHW/MedicalPhysics/Diagnos-
+ticRadiology/DosimetryInstrumentationandCalibration/Radio-
+logicaltestequipmentmeasurementandpractice/index.html
+3. Radiation Leakage Detector1
+https://instrukart.com/lutron-emf-810-micro-wave-leakage-
+detector/
+23. Blood Separation /Apheresis 
+Machine
+Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+24. Digital Thermometer Reference thermometer
+https://as.flukecal.com/products/process-calibration-tools/ 
+temperature-calibrators/precision-digital- 
+thermometers/1523-1524-
+25. Syringe Pump 1. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+2. Infusion Device Analyzer
+https://www.flukebiomedical.com/products/ 
+biomedical-test-equipment/infusion-pump-analyzers
+26. Slit Pump 1. Illuminance/Lux Meter
+https://www.fluke.com/en-in/product/building-infrastructure/
+
+--- Chunk 132 ---
+26. Slit Pump 1. Illuminance/Lux Meter
+https://www.fluke.com/en-in/product/building-infrastructure/
+indoor-air-quality-testing/fluke-941
+2. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+
+--- Chunk 133 ---
+Guidelines on Equipment Maintenance, Calibration & Testing | Testing and Calibration of Biomedical Equipment | 49
+27. Portable X-Ray 1. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/ 
+2. Radiology Test Equipment 
+https://humanhealth.iaea.org/HHW/MedicalPhysics/Diagnos-
+ticRadiology/DosimetryInstrumentationandCalibration/Radio-
+logicaltestequipmentmeasurementandpractice/index.html
+3. Radiation Leakage Detector1
+https://instrukart.com/lutron-emf-810-micro-wave-leakage-
+detector/
+28. Cell Counter Electronic 1. Calibrators and Controls (As per manufacturer’s recom-
+mendations)  
+2. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+29. NAAT Machine 1. Calibrators (Nucleic Acid, qPCR & Fluorescence Stan-
+dards) As per manufacturer’s recommendations
+2. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+30. Plasma Expressor 1. Calibrators and Controls (As per manufacturer’s recom-
+mendations)
+
+--- Chunk 134 ---
+30. Plasma Expressor 1. Calibrators and Controls (As per manufacturer’s recom-
+mendations)  
+2. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+31. Irradiance Meter 1. Illuminance/Lux Meter
+https://www.fluke.com/en-in/product/building-infrastructure/
+indoor-air-quality-testing/fluke-941
+2. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+3. NIST-Traceable Standard Light Source
+https://www.google.com/search?q=NIST-Traceable+Stan-
+dard+Light+Source&rlz=1C1CHBF_enIN959IN960&o-
+q=NIST-Traceable+Standard+Light+Source&gs_lcrp=EgZ-
+jaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBBzg4N2owa-
+jSoAgCwAgA&sourceid=chrome&ie=UTF-8
+32. Hysteroscope 1. Illuminance/Lux Meter
+https://www.fluke.com/en-in/product/building-infrastructure/
+indoor-air-quality-testing/fluke-941
+2. Pressure and Flow calibrators (As per manufacturer’s rec-
+ommendations)
+3. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+
+--- Chunk 135 ---
+ommendations)
+3. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+33. HPLC Analyzer 1. Calibrators and Controls (As per manufacturer’s recom-
+mendations)
+2. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+
+--- Chunk 136 ---
+50 | Guidelines on Equipment Maintenance, Calibration & Testing | Testing and Calibration of Biomedical Equipment
+34. Flow Cytometer 1. Calibrators and Controls (As per manufacturer’s recom-
+mendations)  
+2. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+35. Centrifuge 1. Tachometer
+https://www.testo.com/en-IN/testo-470/p/0563-0470
+2. Electrical Safety Analyzer
+https://helixindia.com/electrical-safety-analyzers/
+36. Bi-PAP Machine 1. Electric Safety Analyser
+https://helixindia.com/electrical-safety-analyzers/
+2. Gas Flow Analyzer
+https://www.flukebiomedical.com/products/ 
+biomedical-test-equipment/gas-flow-analyzers-ventilator- 
+testers
+ Note : For all Analysers / Cell Counters / Semi-Auto Analysers / Fully Automatic Analysers, Calibrators & 
+Controls (as per manufacturer’s recommendations), and an Electrical Safety Analyzer is required for testing 
+and calibration
+
+--- Chunk 137 ---
+Guidelines on Equipment Maintenance, Calibration & Testing | Testing and Calibration of Biomedical Equipment | 51
+Statewise List of NABL Accredited 
+Calibration Laboratories for Biomedical 
+Devices
+Sl.No. State/UT Address
+1. Andhra Pradesh Global Bio Medical Services India, Visakhapatnam
+10-35-5/1, 3rd Floor, Bhanoji Narag, Visakhapatnam, Andhra Pradesh-530002
+2. Delhi 1. Centre for Calibration & Testing (CFCT), CSIR-National Physical 
+Laboratory, New Delhi
+Dr. K. S. Krishnan Road, New Delhi-110012
+2. Quality Certification & Laboratories, New Delhi 
+Plot No. 10, First Floor, DSIDC Scheme - III, Okhla, Industrial Area, Phase - II, 
+New Delhi- 110020
+3. Kirloskar Technologies (P) Ltd. (Quality Assessment Services), New 
+Delhi
+D 97-98 Ground Floor, Lajpat Nagar, Part-1, New Delhi, Delhi-110024
+3. Gujarat 1. Pramukh Technical & Calibration Centre Pvt. Ltd., Ahmedabad
+A/201, Abhishek Complex-2, Ahmedabad, Gujarat- 380016
+2. Electronics and Quality Development Centre (EQDC), Gandhinagar
+
+--- Chunk 138 ---
+2. Electronics and Quality Development Centre (EQDC), Gandhinagar
+B 177/178, GIDC Electronics Estate, Sector 25, Gandhinagar, Gujarat-382024
+3. Prism Calibration Centre, Ahmedabad
+GF-101,F/101,101 A,B, TF-85 To101, Rudraksh Complex-II, Jashoda Nagar 
+Cross Roads, Phase III GIDC, Vatva, Ahmedabad, Gujarat-382445
+4. Haryana Fare Labs Private Limited, Gurgaon 
+D-18, Infocity Phase-II, Sector-33,Gurgaon, Haryana-122001D-18, Infocity 
+Phase-II, Sector-33, Gurgaon, Haryana-122001
+5. Himachal 
+Pradesh
+National Research and Technology Consortium (C-ACT), Himachal 
+Pradesh
+Parwanoo Department of Industries Complex, Sector- 1, Parwanoo, Sector-1, 
+Parwanoo, Himachal Pradesh-173220
+6. Karnataka 1. Transcaal Engineers India Pvt. Limited, Bengaluru
+#116, 3rd Floor, 11th Cross, Margosa Road (3rd Main), Malleswaram, 
+Bengaluru, Karnataka- 560003
+2. Helix Private Limited, Bengaluru 
+878, 17th Cross, 9th B Main Road, ISRO Layout, Bengaluru, Karnataka-560078
+3. Oregon Healthcare Pvt. Ltd., Bengaluru
+
+--- Chunk 139 ---
+3. Oregon Healthcare Pvt. Ltd., Bengaluru 
+No: 160, 9th Main, 6th Sector, HSR Layout, Bengaluru, Karnataka-560102
+4. Roots Metrology & Testing Laboratory, Bengaluru
+156, Bommasandra Industrial Area, Bommasandra-Jigani Taluk, Bengaluru, 
+Karnataka-560099
+
+--- Chunk 140 ---
+52 | Guidelines on Equipment Maintenance, Calibration & Testing | Testing and Calibration of Biomedical Equipment
+7. Kerala 1. Hindustan Health Care, Kannur, Kerala
+PP - XII 313, Opposite Hp Pump, Padannapalam, Kannur, Kerala-670014
+2. Biomedical Techniques-Calibration Laboratory, Thrissur
+II/446, S N Park, Ayyanthole, Thrissur, Kerala-680004
+3. Mecom Services, Aluva, Kerala
+15/582 B, AM Road, St. Mary’s Building, South Vazhakulam, Aluva-683105 
+Kerala
+8. Madhya 
+Pradesh
+Kailtech Test and Research Centre Private Limited, Indore
+141-C, Electronic Complex, Indore, Madhya Pradesh-452010
+9. Maharashtra Godrej & Boyce Mfg. Co. Ltd., Lawkim Motors Group, Calibration & 
+Inspection,
+Plant-18 B 1st Floor, Pirojshanagar, Vikhroli (E), Mumbai,Maharashtra-400079
+Creative Electronics and Bio Medicals, Pimpri S.No.-92/1, Galli No. -4, 
+Pawana Nagar, Kalewadi, Pimpri Chinchwad, Pimpri, Maharashtra-411017
+Autocal Medi Systems, Pune
+
+--- Chunk 141 ---
+Pawana Nagar, Kalewadi, Pimpri Chinchwad, Pimpri, Maharashtra-411017
+Autocal Medi Systems, Pune
+48/413, 1 St Floor, Sant Tukaram Nagar, Pimpri, Pune, Maharashtra-411018
+Reliable Technocare Pvt.Ltd. (Medical Division), Pune  Reliable House, 
+Palazzo Greens, Wing-A, Unit No.101-104,, Vadgaon Maval, Pune -412106, 
+Maharashtra
+10. Manipur Necatel Solutions Pvt. Ltd., Imphal 
+Khurai Thangjam Leikai, Imphal, Manipur-795005
+11. Odisha Electro Meter Corporation, Bhubaneswar 
+Plot No-1294(P), CRP Square, Bhubaneswar, Odisha- 751012
+12. Rajasthan Apex Quality Certification Services Pvt. Ltd., Jaipur
+161 Kasturba Nagar, Nirman Nagar, Jaipur, Rajasthan-302019
+13. Tamil Nadu 1. Sunshine Biomedical Solutions, Chennai 
+No.68, Poomagal Main Road, Chennai, Tamil Nadu- 600032
+2. Transindia Calibration Services Pvt. Ltd., Tirunelveli
+763/19,Block No 10, KTC Nagar, Kulasekarapatti, Tirunelveli
+3. Bio Vision Medical Systems, Chennai
+No 49&50, Second Floor, Samuvel Nagar, Chennai, Tamil Nadu-600060
+
+--- Chunk 142 ---
+No 49&50, Second Floor, Samuvel Nagar, Chennai, Tamil Nadu-600060
+3. Northlab India Pvt. Ltd., Chennai
+Plot No 1 SV Nagar Perumalpattu, Chennai, Tamil Nadu-602024
+5. Centre For Calibration and Testing of Medical Equipment, Chennai
+National Hub for Healthcare Instrumentation Development, 2nd Floor, 
+Kalanjiyam Building, Anna University, Chennai, Tamil Nadu-600025
+6. Department of Biomedical Engineering, Christian Medical College, 
+Vellore
+#4, IDA Scudder Road, Vellore, Tamil Nadu
+7. Vanavil Calibrations Private Limited, Salem
+S2,Rishi Maharaj Apartment, Indrani Nagar, Salem, Tamil Nadu-636004
+8. PSG Centre for Industrial Research & Development, Coimbatore
+A115, PSG College of Technology, Avinashi Road, Peelamedu, Coimbatore, 
+Tamil Nadu-641004
+9. Sindoori Management Services Private Limited, Chennai
+No. 77, Pottipati Plaza, 4th Floor, Nungambakkam High Road, 
+Nungambakkam, Chennai, Tamil Nadu-600034
+
+--- Chunk 143 ---
+Guidelines on Equipment Maintenance, Calibration & Testing | Testing and Calibration of Biomedical Equipment | 53
+14. Telangana Trimed Solutions (India) Private Limited, Hyderabad 
+Plot No. 40 to 43 and 54 to 57, Kavuri Hills, Phase III, Guttala 
+Begumpet, Serilingampally, Hyderabad, Telangana- 500081
+Radian Health Care, Hyderabad 
+8-2-310/3A/5, Road Number 14, Nandi Nagar, Banjara Hills, Hyderabad, 
+Telangana- 500034
+15. Uttar Pradesh 1. Central Institute of Petrochemicals Engineering and Technology 
+(CIPET), Calibration Centre, Lucknow
+ B-27, Amausi Industrial Area, Lucknow,  Uttar Pradesh-226008
+2. AOV International LLP (Medical Devices Calibration Laboratory), 
+Noida
+C-22/25, Sector-57,Noida, Uttar Pradesh-201301
+16. West Bengal 1. Sodexo India Services Private Limited- Calibration Lab, Kolkata
+2nd Floor, EN-7, Biwanath Building, Sector-V , Salt Lake, Kolkata, West 
+Bengal-700091
+2. Measure Techno Lab, Kolkata 
+2,B.T.Road, (Jayanti Cinema Complex), Barrackpore, Kolkata, West
+
+--- Chunk 144 ---
+2. Measure Techno Lab, Kolkata 
+2,B.T.Road, (Jayanti Cinema Complex), Barrackpore, Kolkata, West 
+Bengal-700120
+3. Young Engg. And Calibration Services Pvt Ltd., Howrah
+Kamardanga Road, Ichapur, Howrah, West Bengal-711104
+ Note : States/UTs where accredited NABL calibration labs are not available are  advised to avail the nearby 
+state facility and enter into MoU or service level agreement for undertaking equipment calibration. Funds for 
+the same can be projected in PIP under BMMP programme (FMR Code: 184).
+
+--- Chunk 145 ---
+54 | Guidelines on Equipment Maintenance, Calibration & Testing | Testing and Calibration of Biomedical Equipment
+Sample Format for Calibration Report
+Calibration Protocol & Report or Medical Equipment
+Equipment Name : ............................. Protect Class/Test : .............................
+Make : ............................. S.No. : .............................
+Model : ............................. Location : .............................
+Sl. No. Measurement Parameters Status Remarks
+1. Electrical Test (a) Safety Standards
+(b) Equipotential ground & Earthing
+(c) Risk of shock/fire
+(d) Battery Conditions
+2. Physical Condition Test (a) Risk of mechanical damage
+(b) Power supply unit
+3. Performance Test Specific to equipment
+4. Calibration Test Specific to equipment
+Formulated By: (Company Name) Issued By : User Department :
+Endorsed By :
+Reviewed On :
+Next Review :
+
+--- Chunk 146 ---
+Guidelines on Equipment Maintenance, Calibration & Testing | List of equipment at PHC and SHC as per IPHS 2022 | 55
+PART 3
+List of Equipment at Ayushman 
+Arogya Mandir (Sub Health Centre 
+and Primary Health Centre) as Per 
+IPHS-2022 For Service Delivery of 
+12 CP-CPHC Packages
+
+--- Chunk 147 ---
+56 | Guidelines on Equipment Maintenance, Calibration & Testing | List of equipment at PHC and SHC as per IPHS 2022
+List of equipment at PHC and SHC as per 
+IPHS 2022
+AT AAM - Primary Health Care
+Sl. 
+No. Equipment Essential Desirable
+1. Ambu Bag (Adult & Neonatal) Essential
+2. Baby Weighing Scale Essential
+3. Binocular Microscope Essential
+4. BP Apparatus- Aneroid Essential
+5. BP Apparatus-Digital Essential
+6. Cell Counter/ Hematology analyser  – 3 Part Essential
+7. Deep Freezer-Small Essential
+8. Deep Freezer-Small-Large Essential
+9. Dental Chair-Basic Essential
+10. Electrolyte Analyzer Desirable
+11. ESR Analyzer Desirable
+12. Examination Table Essential
+13. Exerciser Couch/Table Essential
+14. Finger Exerciser Web Essential
+15. Foetal Doppler Essential
+16. Fully Loaded Dental Chair Electrically Operated Essential
+17. Glucometer Essential
+18. Haemoglobinometer Essential
+19. HbA1C Analyser Essential
+20. ILR With V oltage Stabilizer-Large Essential
+
+--- Chunk 148 ---
+19. HbA1C Analyser Essential
+20. ILR With V oltage Stabilizer-Large Essential
+21. ILR With V oltage Stabilizer-Small Essential
+22. Infantometer Essential
+23. Labor Bed Essential
+24. Laryngoscope Essential
+25. Lower and Upper Extremity Cycle/Basic Ergometer/Static Cycle Essential
+26. Manual Vacuum Aspirator Essential
+27. Mobile Spotlight/ Examination light Essential
+28. Ophthalmoscope Essential
+29. Oxygen Cylinder- B Type Essential
+30. Oxygen Hood Neonatal Essential
+31. Phototherapy Unit Essential
+32. Pulse Oximeter-Finger Tip Essential
+33. Pulse Oximeter-Table Top Essential
+34. Radiant Warmer Essential
+
+--- Chunk 149 ---
+Guidelines on Equipment Maintenance, Calibration & Testing | List of equipment at PHC and SHC as per IPHS 2022 | 57
+35. Spirometer for Rehabilitation Essential
+36. Semi-Automated Biochemistry Analyser Essential
+37. Shoulder Abduction Ladder Essential
+38. Shoulder Pulley Essential
+39. Shoulder Wheel Essential
+40. Stethoscope Essential
+41. Suction Machine Essential
+42. Thermometer Essential
+43. Turbidimeter Essential
+44. Vaccine Carrier with Ice Packs Essential
+45. Weighing Scale Essential
+46. Walking Aid for Training- Adjustable walker/ Reciprocal Walker Essential
+Instruments
+47. Kelly Pads & blankets Essential
+48. Sponge holding forceps Essential
+49. Velsellum uterine forceps Essential
+50. Equipment for assisted forceps delivery Essential
+51. Cusco’s Speculum Essential
+52. Dental mouth mirror Essential
+53. Puncture proof box Essential
+54. Cold box Essential
+55. Wall ladder Finger exerciser Essential
+At AAM-Sub Health Centre
+Sl. 
+No. Equipment Essential / 
+Desirable
+
+--- Chunk 150 ---
+At AAM-Sub Health Centre
+Sl. 
+No. Equipment Essential / 
+Desirable
+1. Ambu Bag (Paediatric size) with baby mask Essential
+2 BP apparatus- Digital/ Sphygmomanometer Essential
+3. Baby weighing scale / Hanging Type Essential
+4. BP apparatus- Aneroid/ Sphygmomanometer Essential
+5. Examination Lamp Essential
+6. Examination Table Essential
+7. Glucometer Essential
+8. Digital Hemoglobinometer Essential
+9. Manual Vacuum Aspirator (MV A) / Mucus Extractor Essential
+10. Near Vision chart Essential
+11. Nebulizer Essential
+12. Oxygen Cylinder with Trolley Essential
+13. Snellen vision chart Essential
+14. Stadiometer Essential
+15. Stethoscope Essential
+
+--- Chunk 151 ---
+58 | Guidelines on Equipment Maintenance, Calibration & Testing | List of equipment at PHC and SHC as per IPHS 2022
+16. Suction Machine Essential
+17. Thermometer Essential
+18. Tuning fork Essential
+19. Vaccine Carrier with Ice pack box, tracking bag and tickler box Essential
+20. Weighing Scale - Electronic Essential
+Instruments / Consumables
+21. Sahli’s Hemoglobinometer Essential
+22. Kelly Pads & blankets Essential
+23. Sponge holding forceps Essential
+24. Velsellum uterine forceps Essential
+25. Equipment for assisted forceps delivery Essential
+26. Cusco’s Speculum Essential
+27. IV Stand Essential
+28. Foetoscope Essential
+29. Tongue Depressor Essential
+30. LED Torch/ Flashlight Essential
+31. Measuring Tape Essential
+32. Dental Mouth mirror Essential
+33. Ice pack box Essential
+34. Minor Treatment Instruments like Trays, Forceps, Cord Cutting Scissors (Curved 
+Blunt/ Flat), Needle holder  etc.
+Essential
+
+--- Chunk 152 ---
+Guidelines on Equipment Maintenance, Calibration & Testing | List of equipment at PHC and SHC as per IPHS 2022 | 59
+Equipment Required for 
+Operationalisation of 12 CPHC Packages
+I. Care in Pregnancy and Child-Birth
+Sl. 
+No. Equipment List
+1. Haemoglobinometer
+2. Ambu bag- Adult and neonatal
+3. BP apparatus (Digital/ Aneroid)
+4. Cord cutting scissor (Umbilicus – Blunt )
+5. Cover slips
+6. Delivery kit
+7. Fetoscope
+8. Glucometer
+9. Instrument tray
+10. Microscope
+11. Microscope glass slides
+12. Mucus extractor
+13. Oxygen cylinder
+14. Stadiometer
+15. Surgical scissors
+16. Thermometer
+17. Vaccine carrier Ice pack box
+18. Weighing machine (Adult & Baby)
+19. Accessories: Urine test kit, RDT test Kit, Pregnancy Test kit, HIV TRI-DOT
+20. Labor bed
+21. Foetal Doppler
+22. Radiant Warmer
+23. 7 Delivery trays (Forceps delivery kits, Episiotomy Kit, Cusco’s speculum, Cord Cutting Scissors 
+(Curved/ Blunt/ Flat), Needle holder etc)
+24. Pulse Oximeter (Adult & Neonatal)
+25. Nebuliser
+
+--- Chunk 153 ---
+(Curved/ Blunt/ Flat), Needle holder etc)
+24. Pulse Oximeter (Adult & Neonatal)
+25. Nebuliser
+26. Baby weighing Scale
+27. Baby measuring scale
+28. Phototherapy Unit
+29. Emergency Resuscitation Kit- Baby
+
+--- Chunk 154 ---
+60 | Guidelines on Equipment Maintenance, Calibration & Testing | List of equipment at PHC and SHC as per IPHS 2022
+30. Oxygen Concentrator
+31. LED Mobile Examination Light
+32. Suction Machine (Electric & Foot-operated)
+33. Kelly Pads & Blankets
+34. IV Set with Stand
+II. Neonatal and Infant Health Care Services
+Sl. No. Name of Equipment
+1. Ambu bag- Adult and neonatal
+2. BP apparatus (Digital/ Aneroid)
+3. Cold Box
+4. Deep Freezer
+5. Glucometer
+6. ILR
+7. Neonatal mask size 0,1
+8. Overhead warmer
+9. Oxygen Hood Neonatal
+10. Pencil torch
+11. Pulse oximeter
+12. Puncture proof box
+13. Radiant warmer
+14. Stadiometer
+15. Suction Machine (Electric & Foot-operated)
+16. Thermometer
+17. LED Torch
+18. Vaccine carrier Ice pack box
+19. Vision charts
+20. Weighing machine (Adult & Baby)
+21. Nebuliser
+22. LED Phototherapy Unit
+23. Room Thermometer
+24. Neonatal Stethoscope
+
+--- Chunk 155 ---
+Guidelines on Equipment Maintenance, Calibration & Testing | List of equipment at PHC and SHC as per IPHS 2022 | 61
+25. Oxygen Hood ( Neonatal / Infant Size)
+26. Measuring Tape
+27. Neonatal Resuscitation Kit with Neonatal Laryngoscope with Blades
+28. Oxygen cylinder/ Oxygen Concentrator
+29. LED Mobile Examination Light
+30. Examination Table
+31. Syringe Hub cutter
+32. Instruments like Dressing tray, stainless steel 300x200x30 mmm, Kidney basin, stainless steel
+33. Infantometer
+III. Childhood and Adolescent Health Services
+Sl. No. Name of Equipment
+1. BP apparatus (Digital/ Aneroid)
+2. Vaccine carrier Ice pack box
+3. Deep Freezer
+4. Examination table
+5. Haematology Analyzer
+6. Hemoglobinometer
+7. ILR
+8. Pulse Oximeter
+9. Stadiometer
+10. Stethoscope
+11. Thermometer
+12. Weighing Scale (Adult & Baby)
+13. Consumables: HIV TRI-DOT
+14. Laryngoscope set, neonate
+15. Stadiometer
+16. Suction Machine (Electric & Foot-operated)
+17. LED Mobile Examination Light
+18. Syringe Hub cutter
+
+--- Chunk 156 ---
+17. LED Mobile Examination Light
+18. Syringe Hub cutter
+19. Ambu bag with mask (paediatric and adult size)
+20. Nebulizer
+
+--- Chunk 157 ---
+62 | Guidelines on Equipment Maintenance, Calibration & Testing | List of equipment at PHC and SHC as per IPHS 2022
+21. X-ray view box
+22. Measuring Tape
+IV. Family Planning, Contraceptive Services and other 
+Reproductive Health Care Services
+Sl. No. Name of Equipment
+1. Bed
+2. BP apparatus (Digital/ Aneroid)
+3. Examination Table
+4. Foetal Doppler
+5. Normal Delivery kit
+6. Oxygen cylinder
+7. Seven trays: Delivery, episiotomy, EMR drug, medicine, MV A, PPIUCD, Baby
+8. Speculum
+9. Weighing Scale- Electronic
+10. Consumables: Pregnancy test kits etc
+11. Basket of Choice (ANTARA, MAYA, IUCD/ PPIUCD/ PAIUCD etc)
+V. Management of Communicable Diseases including National
+Health Programmes
+Sl. No. Name of Equipment
+1. Microscope with Slide Box (20-25 slides)
+2. Digital Thermometer
+3. Weighing machine (Adult & Baby)
+4. Consumables: Rapid test kits Malaria, Dengue rapid test kit, Kala azar Rapid Test Kits, HIV test
+
+--- Chunk 158 ---
+(Antibodies 1/2 and HIV 1/2), Hepatitis B surface antigen test, HCV Antibody Test (Anti HCV)
+5. Refrigerator
+6. Micropipette (20ul/ 200 ul/ 1000 ul)
+7. Semi biochemistry analyser
+8. Cell counter/ 3 part haematology analyser
+9. Needle Holder and stitch remover
+10. Instruments like Kidney Tray, Steel Tray, Surgical Scissors, etc)
+
+--- Chunk 159 ---
+Guidelines on Equipment Maintenance, Calibration & Testing | List of equipment at PHC and SHC as per IPHS 2022 | 63
+VI.  Management of Common Communicable Diseases, and OPD 
+for acute illness and minor ailments
+Sl. No. Name of Equipment
+1. BP apparatus (Digital/ Aneroid)
+2. Glucometer
+3. Pulse Oximeter
+4. Semi-automated biochemistry analyser
+5. Spirometer for rehabilitation
+6. Stethoscope
+7. Thermometer
+8. Turbidometer
+9. Binocular Microscope
+10. Microscope with Slide Box (20-25 slides)
+VII. Screening, Prevention, Control and Management of
+Non-Communicable Diseases
+Sl. No. Name of Equipment
+1. Cusco’s speculum
+2. Dental Mouth mirror
+3. LED Mobile Examination Light
+4. Examination Table
+5. Glucometer
+6. BP apparatus (Digital/ Aneroid)
+7. LED Torch
+8. Wooden disposable spatula
+9. Consumables: Gluco-strips, Gloves, cotton swabs, distilled water, dilute acetic acid (5%), (freshly 
+prepared), wooden sticks, gauze, normal saline solution, wooden blades wooden sticks, gauze,
+
+--- Chunk 160 ---
+prepared), wooden sticks, gauze, normal saline solution, wooden blades wooden sticks, gauze, 
+normal saline solution, wooden blades, urine test
+10. Autoclave
+11. IV Set with Stand
+12. ECG Machine – 12 Channel
+13. Oxygen Cylinder
+
+--- Chunk 161 ---
+64 | Guidelines on Equipment Maintenance, Calibration & Testing | List of equipment at PHC and SHC as per IPHS 2022
+14. Pulse Oximeter
+15. Stethoscope
+16. Semi-automated biochemistry analyser
+17. Cell counter/ 3 part haematology analyser
+18. Urine dipsticks (strip based testing)
+19. Kit for VIA examination
+VIII. Oral Healthcare
+Sl. No. Name of Equipment
+1. Dental chair with all accessories 
+2. Mouth mirror
+3. Needle holder/ artery forceps
+4. Tissue holding forceps
+5. Torch
+6. Tweezer
+7. Wooden spatula
+8. Consumables: Cement carriers, needle, suturing material, scissors, curved haemostat, scalpel, 
+blade no 11 & 15
+9. Autoclave (electronic)
+10. Extraction forceps 
+IX. Care for Common Ophthalmic and ENT problems
+Sl. No. Name of Equipment
+1. Ophthalmoscope
+2. Stainless steel tray with sterile cottons/ swabs/ gloves
+3. Snellen & Near Vision Charts
+4. LED head lamp
+5. Lid speculum
+6. Nasal Speculum
+7. Tongue depressor
+8. LED Torch
+9. Trial frame (adult and child) with Trial set
+
+--- Chunk 162 ---
+6. Nasal Speculum
+7. Tongue depressor
+8. LED Torch
+9. Trial frame (adult and child) with Trial set
+10. Tuning fork – 512 Hz
+11. Otoscope
+12. Head Light
+
+--- Chunk 163 ---
+Guidelines on Equipment Maintenance, Calibration & Testing | List of equipment at PHC and SHC as per IPHS 2022 | 65
+X. Screening and Basic Management of Mental Health Ailments
+Sl. No. Equipment List
+1. Patient Health Questionnaire (PHQ-9)
+2. Hamilton Depression Scale
+3. Beck Depression Inventory (BDI)
+XI. Elderly and Palliative Health Care Services
+Sl. No. Equipment List
+1. Glucometer
+2. Torch
+3. Forceps
+4. BP apparatus (Digital/ Aneroid)
+5. Stethoscope
+6. Tongue Depressors
+7. Charts for Exercise Guidance
+8. Wheelchair
+9. Lower and Upper Extremity Cycle/Ergometer
+10. Spirometer for Breathing Exercises
+11. Shoulder Wheel
+12. Wall Ladder Finger Exerciser
+13. Finger Exerciser Web
+14. Free Weights (0.5 kg, 1 kg, 1.5 kg)
+15. Shoulder Pulley
+16. Adjustable and Reciprocal Walkers
+17. Exercise Couch with Accessories
+18. Colored Floor Patterns for Gait Training
+19. Light-weight foldable stool
+20. Positioning Chart for Special Patients
+21. Pulse Oximeter
+22. Snellen & Near Vision Chart
+
+--- Chunk 164 ---
+20. Positioning Chart for Special Patients
+21. Pulse Oximeter
+22. Snellen & Near Vision Chart
+23. Haemoglobinometer
+24. Glucometer
+
+--- Chunk 165 ---
+66 | Guidelines on Equipment Maintenance, Calibration & Testing | List of equipment at PHC and SHC as per IPHS 2022
+25. Thermometer
+26. Dressing Trays
+27. Consumables: Scissors, gauze pieces, syringes and needles
+28. Ambu bag- Adult and neonatal
+29. Bed
+30. Examination Table
+31. Exercise Bicycle
+32. Nebuliser
+33. Ophthalmoscope
+34. Otoscope
+35. Walking Stick 
+36. X-ray Viewing box
+XII. Management of Common Emergencies, Burns and Trauma
+Sl. No. Name of Equipment
+1. Ambu bag- Adult and neonatal
+2. IV Stand
+3. Medicine Trolley with emergency drugs(e.g. Adrenaline, Hydrocortisone)
+4. Multipara Monitor (to monitor Heart Rate, BP, SPO2, ECG, Temp.)
+5. Oxygen Cylinder (to be used during Transport of patients for investigation or shifting)
+6. Pulse Oximeter
+7. Suction Machine (Electric & Foot-operated)
+8. Temporary splints for fractures
+9. Warmer (warm air blower to prevent hypothermia)
+10. Consumables: Philadelphia Cervical collar, Neck stabilization device, spine board, IV cannula,
+
+--- Chunk 166 ---
+10. Consumables: Philadelphia Cervical collar, Neck stabilization device, spine board, IV cannula, 
+drip set, IV fluids, IO needle, Pressure dressing, Tourniquet (Adult & paediatric), Suturing set, 
+Urinary catheter, Uro-bag, Oxygen cannula, mask, non-rebreather mask, airway adjuncts
+11. LED Mobile Examination Light
+
+--- Chunk 167 ---
+Guidelines on Equipment Maintenance, Calibration & Testing | List of equipment at PHC and SHC as per IPHS 2022 | 67
+List of Contributors
+Ministry of Health and Family Welfare
+1. Ms. Aradhana Patnaik AS & MD (NHM), MoHFW
+2. Dr. Anil Kumar Additional Deputy Director General, DGHS, MoHFW
+3. Dr. Saroj Kumar Director-NHM-lll
+4. Dr. Kaustubh Sandip Giri Deputy Secretary (NHM-IV & NHM-F)
+5. Sh. Adwait Singh Former DS, NHM-IV
+6. Dr. Anil Kumar Gupta Lead Consultant MoHFW
+7. Dr. Nidhi Shrivastava Sr. Consultant, MoHFW
+National Health Systems Resource Centre
+1. Maj Gen (Dr. Prof.) Atul Kotwal, SM, VSM Executive Director
+2. Air Cmde (Dr) Ranjan Kumar Choudhury VSM Advisor, Healthcare Technology
+3. Mr. Anjaney Shahi Lead Consultant, Healthcare Technology
+4. Ms. Vertika Agarwal Sr. Consultant, Healthcare Technology
+5. Dr. Prakamya Gupta Consultant, Healthcare Technology
+6. Ms. Charu Rai Sr. Consultant, Healthcare Technology
+7. Dr. Manisha Sharma Consultant, Healthcare Technology
+
+--- Chunk 168 ---
+7. Dr. Manisha Sharma Consultant, Healthcare Technology 
+8. Ms. Ritu Malik Consultant, Healthcare Technology 
+9. Dr. Ragini Bhatia Consultant, Healthcare Technology
+10. Ms. Ashi Karke Secretarial Executive
+11. Dr. Abhay Consultant, Quality and Patient Safety
+12. Mr. Bhaswat Kumar Das Sr. Consultant, Healthcare Technology RRC-NE
+13. Mr. Iqbal Hussian Consultant, Healthcare Technology RRC-NE
+Representatives from National Institutes
+1. Mr. Aseem Sahu Deputy Drugs Controller, CDSCO
+2. Prof Ramakrishnan Swaminathan Professor, Department of Applied Mechanics IIT Madras
+3. Mr. Avijeet Das Senior Director, NABL, Kolkata
+4. Dr. Dabbu Suman Director, Biomedical Instrumentation Centre, BME Department, 
+Osmania University, Hyderabad
+5. Dr. Rajesh Head & Chief Scientist, NPL New Delhi
+6. Ms. Sudesh Yadav Scientist, Biomedical Metrology, NPL New Delhi
+
+--- Chunk 169 ---
+68 | Guidelines on Equipment Maintenance, Calibration & Testing | List of equipment at PHC and SHC as per IPHS 2022
+7. Mr. Prasanth Deputy Director and Scientist-C, MHD, BIS New Delhi
+8. Mr. Vinit Deputy Director and Scientist-C, MHD, BIS New Delhi
+Representatives from States/ UTs
+1. Er. E. Jayavel Asst Engineer - Bio medical NHM Tamil Nadu
+2. Mr. Manish Ranjan BMMP State Nodal Officer, Bihar
+3. Mr. Amit Das Biomedical Engineer, NHM Assam
+4. Mr. Debabrat Sarma Biomedical Engineer, NHM, Assam
+5. Mr. Y S Kaurav Hospital Administration, DHS MP
+6. Mr Ganapti Rao State Nodal Officer, NHM Andhra Pradesh
+7. Mr. Kevichalie Ciesotsu State BME NHM Nagaland
+8. Mr. Konthoujam Sanamatum State Nodal Officer, NHM Tripura
+9. Ms. Indasuka Biomedical Engineer, NHM Meghalaya
+10. Er. Sukumar Asst Executive Engineer - Procurement TNMSC
+11. Er. Meganathan Asst Executive Engineer- Maintenance TNMSC
+12. Ms. Ngangbam Boney State Nodal Officer, NHM Nagaland
+
+--- Chunk 170 ---
+12. Ms. Ngangbam Boney State Nodal Officer, NHM Nagaland
+13. Mr. Ramesh N Biomedical Engineer, NHM Andhra Pradesh
+14. Mr. Prakash Mallick Biomedical Engineer, NHM Oddisha
+

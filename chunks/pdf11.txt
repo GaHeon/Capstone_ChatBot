@@ -1,0 +1,1036 @@
+--- Chunk 1 ---
+Quality Improvement in Health Care105
+https://dx.doi.org/10.14371/QIH.2024.30.1.105
+Original Articles
+Quality Improvement in Health Care vol.30 no.1
+ⓒ The Author 2024. Published by Korean Society for Quality in Health Care; all rights reserved
+pISSN: 1225-7613 · eISSN: 2288-078X
+Korean Society for Quality in Health Care
+Received: Apr.01.2024       Revised: May.10.2024       Accepted: Jun.05.2024
+Correspondence: Sun-Gyo Lee
+Asan Medical Center, 88, Olympic-ro 43-gil, Songpa-gu, Seoul, 05505, Republic of Korea
+Tel: +82-2-3010-5341    E-mail: sglee73@amc.seoul.kr
+Funding: None      Conflict of Interest: None
+Development and Validation of the Korean Patient Safety 
+Culture Survey Instrument for Hospitals
+Sun-Gyo Lee
+Team Leader, Customer Experience Team, Asan Medical Center, Seoul, Repulbic of Korea
+Purpose: This study aimed to develop a survey instrument to assess the Patient Safety Culture in Korean hospitals and 
+evaluate its validity and reliability.
+
+--- Chunk 2 ---
+evaluate its validity and reliability. 
+Methods: A preliminary instrument was developed through a literature review, focus group interviews, content validity 
+testing, and pretesting for face validity. A total of 467 hospital employees participated in the psychometric testing. Validity 
+and reliability assessments included content validity, construct validity, criterion-related validity, and internal consistency. 
+Results: The Korean Patient Safety Culture Survey Instrument comprised 35 items across seven factors: leadership, 
+patient safety policy and procedure, patient safety improvement system, teamwork, non-punitive environment, patient 
+safety knowledge and attitudes, and patient safety priority. These seven factors contributed 60.98% of the variance of the 
+total scale. Cronbach’s alpha for internal consistency was .93; the seven factors ranged from .66 to .91.
+
+--- Chunk 3 ---
+Conclusion: The results of this study showed that the Korean Patient Safety Culture Survey Instrument is reliable, valid, 
+and suitable for measuring patient safety culture in Korean hospitals.
+Keywords:  Patient Safety, Culture, Hospitals
+한국형 환자안전문화 측정도구 개발 및 평가
+이순교
+서울아산병원 고객만족팀
+
+--- Chunk 4 ---
+V oL 30, Number 1, 2024 106
+한국형 환자안전문화 측정도구 개발 및 평가
+이순교
+Ⅰ. 서론
+  현대의 환자안전을 위한 노력은 1990년대 후반 미국 의
+학원(Institute of Medicine, IOM)의 보고서 ‘To Err is 
+Human :  Building a Safer Health System’에서 발표
+한 의료오류에 관한 자료로부터 시작되었다[1]. 최신 의료
+장비와 전산시스템, 조직구조의 개편 등 환자 안전을 향상
+시키기 위한 지속적인 노력과 관심에도 불구하고 보건의료
+계에서는 의료오류가 여전히 흔하다. 매년 의료오류로 사
+망하는 미국인들의 수가 매년 44,000명에서 98,000명에 
+이르는 것으로 추산되었고, 2000년에서 2002년까지 캐나
+다 입원환자 중 예방 가능한 의료오류로 인한 사망자가 최
+소 10,000명에 달한다는 추정치가 제시된 바가 있었다[2]. 
+또한 병원에 입원한 사람들의 약 7.5%가 한 번 이상의 의
+료오류에 노출된 적이 있었고, 이 중 7,000건 이상이 예방 
+가능한 오류였음을 보고하였다. 병원에서의 위해사건에 대
+한 체계적 문헌고찰을 시행한 결과에 의하면 위해사건의 
+평균 발생률은 입원 당 9.2%이고, 예방 가능한 위해사건은 
+43.5%이며 위해사건 발생 환자 중 7.0%는 영구적 손상을 
+입고, 7.4%의 환자는 사망에 이른다고 하였다[3].
+ ‘안전한 시스템’ʼ에 대한 연구는 보건의료 분야에 앞서 항
+공산업과 핵 발전 산업과 같은 다른 산업분야에서 먼저 연
+구가 시작되었고 많은 방법론들이 제시되고 있다. 보건의
+료 분야에서도 환자안전을 개선하기 위하여 법적 규제 강
+화, 첨단 정보기술 도입 및 임상 가이드라인 제공 등 다양
+한 방법이 적용되고 있다. 그러나 가장 기본적인 환자안전 
+개선방안은 직원들이 환자의 안전을 중요시하고 가장 높은 
+우선순위를 두도록 하는 환자안전문화를 형성하는 것이라 
+할 수 있다[4]. 또한 환자안전문화를 변화시키는 것이 환자
+
+--- Chunk 5 ---
+개선방안은 직원들이 환자의 안전을 중요시하고 가장 높은 
+우선순위를 두도록 하는 환자안전문화를 형성하는 것이라 
+할 수 있다[4]. 또한 환자안전문화를 변화시키는 것이 환자
+의 결과를 개선하는 것으로 나타났고[5], 의료기관의 환자
+안전문화 점수가 직원들의 안전 수행도를 잘 반영하는 것
+으로도 나타났다[6]. 환자안전문화가 형성되어 있지 않은 
+환경에서는 환자안전 보고시스템이나 근본원인분석, 고장
+유형 및 영향분석 등과 같은 환자안전 개선 전략도 효과를 
+거둘 수 없다. 환자안전은 의료기관을 포함한 모든 조직에
+서 강조되어야 할 중요한 요소로, 의료기관은 단순히 안전
+을 소개하는 차원이 아니라 문화적 차원으로 서의 변화를 
+시도해야 하며, 강제적 수행보다 조직의 사명과 비전에 통
+합시켜 전체 구성원이 받아들일 수 있도록 해야 한다[7].
+  문화를 변화시키기 위해서는 우선 이를 이해하고 정면으
+로 대면하는 것이 필요한데, 환자안전문화 측정도구를 통
+해 환자안전문화를 측정함으로써 조직의 상태를 진단하고 
+앞으로 개선해야 할 과제를 도출할 수 있다[4]. 2001년에 
+Institute of Medicine에서 환자에게 위해가 되는 것을 줄
+이는데 가장 중요한 결정적 요소가 환자안전문화라고 언급
+한 이후로 환자안전문화를 측정하고자 하는 움직임이 활발
+히 진행되고 있다[8].
+  그러나 보건의료 분야에서 안전문화측정은 비교적 초기
+단계로 연구자들 사이에 환자안전문화의 주요 차원에 대한 
+합의가 부족한 상황이며[9], 지금까지 개발된 환자안전문
+화 측정도구들은 과학적으로 정확히 측정해야 하는 도구로
+서는 부족한 점이 많다. 각 도구들의 차원, 내용, 길이, 대
+상 인구 집단 등이 다양하고 신뢰도와 타당도 검증 등과 같
+은 개발과정의 엄격성과 투명성에도 차이가 많다[10]. 또
+한 대부분의 도구들은 서양권 특히 미국에서 개발된 도구
+로서 사회적, 문화적 그리고 경제적인 차이가 있는 개별 국
+가에 그대로 적용하는 데에는 한계가 있다. 각국의 문화 유
+
+--- Chunk 6 ---
+한 대부분의 도구들은 서양권 특히 미국에서 개발된 도구
+로서 사회적, 문화적 그리고 경제적인 차이가 있는 개별 국
+가에 그대로 적용하는 데에는 한계가 있다. 각국의 문화 유
+형을 분석한 연구에 의하면 미국은 전 세계에서 가장 개인
+주인적인 국가로 나타났으며 한국은 매우 집단주의적인 성
+격이 강한 국가로 구분되었다[11]. 한국 문화는 관계지향
+적 성향이 강하므로 대인관계에서의 조화와 질서를 무엇보
+다 중시하는 특성이 있는 반면, 미국을 대표하는 서양권 문
+화는 독립심, 개인간의 경쟁, 개인의 성취욕 등을 강조하는 
+경향이 있다[12]. 
+  환자안전문화 측정도구를 개발함에 있어 각 문화권의 다
+양성의 원천에 대한 이해가 필요하며, 한 문화권에서 개
+발된 질문지는 다른 문화권에 직접 적용되는데 제한 점
+이 있으며 적용될 문화권의 특성을 고려하여야 한다[13]. 
+미국의 환자안전문화 측정도구 중 하나인 Agency for 
+Healthcare Research and Quality(AHRQ)에서 개발한 
+Hospital Survey on Patient Safety Culture(HSOPSC)
+를 이용하여 대만의 환자안전문화를 측정한 결과, 미국과
+
+--- Chunk 7 ---
+Quality Improvement in Health Care107
+Korean Society for Quality in Health Care
+Original Articles
+대만의 결과에는 차이가 있으며 환자안전문화 측정도구를 
+다른 문화권에 적용할 때에는 문화적인 고유성을 고려해야 
+한다는 주장이 제기되었다[14]. 이와 같이 환자안전문화는 
+각 나라의 문화의 다양성을 고려하여 연구되어야 하며, 의
+료기관의 환자안전문화를 정확하게 측정하기 위해서는 국
+가별 보건의료 환경과 문화적 차이를 고려해야 한다[15].
+  따라서 우리나라 의료기관에서 나타나는 환자안전문화 
+현상을 면밀히 관찰하기 위해서는 현장에서 의료를 직접 
+제공하는 의료 종사자들과 환자안전 전담자들을 통한 탐색
+적인 연구부터 시작되어야 한다. 이에 이 연구는 우리나라 
+의료기관에 적합한 한국형 환자안전문화 측정도구를 개발
+하고 이에 대한 신뢰도와 타당도를 검증하여, 우리나라 의
+료기관의 환자안전문화 조성에 기여하고자 한다.
+Ⅱ. 연구방법
+1. 연구설계
+  이 연구는 우리나라 병원의 환자안전문화 측정 도구를 개
+발하고 신뢰도와 타당도를 검증하는 방법론적 연구이다. 
+2. 도구 개발 과정
+1) 환자안전문화 측정도구의 개념적 기틀 구성
+  Reason의 조직 역동적 사고모델에 의하면 경영관리 의
+사결정과 조직프로세스 등과 같은 잠재적인 조직적 요소
+에 의해 관리감독체계, 의사소통, 업무부담 등의 부서의 업
+무환경이 결정된다. 이런 환경에서 개인의 실수나 부주의 
+등이 영향을 받으며 이로 인해 의료오류가 발생하게 된다
+[16]. 이 이론에 근거하여 이 연구의 환자안전문화를 구성
+하는 개념적 기틀은 조직 차원, 부서 차원, 개인 차원 등의 
+세 영역으로 구성하였다(Figure 1). 문헌고찰과 관련 직원
+과의 심층면담을 통하여 조직차원의 하부 요인으로는 경영
+진 리더십, 안전시스템, 정책과 절차로 구성하였으며, 부서
+차원의 하부 요인으로는 중간관리자 리더십, 팀워크, 근무
+
+--- Chunk 8 ---
+과의 심층면담을 통하여 조직차원의 하부 요인으로는 경영
+진 리더십, 안전시스템, 정책과 절차로 구성하였으며, 부서
+차원의 하부 요인으로는 중간관리자 리더십, 팀워크, 근무
+환경으로 구성하였다. 개인차원의 하부 요인으로는 안전행
+동, 안전가치관, 위험인식으로 구성하였다. 
+Figure 1. Conceptual framework of the study.
+
+--- Chunk 9 ---
+V oL 30, Number 1, 2024 108
+한국형 환자안전문화 측정도구 개발 및 평가
+이순교
+2) 예비도구 개발
+  문헌고찰과 환자안전 전문가 및 의료인을 대상으로 한 
+인터뷰를 근거로 환자안전문화 척도의 구체적인 예비문
+항을 개발하였다. 예비문항 구성 시 연구의 개념적 기틀
+에 근거하여 문항을 추출하였고 문헌고찰, 인터뷰 등을 
+통해 반복적으로 언급된 내용을 위주로 추출하였다. 조직 
+차원을 위한 문항은 경영진 리더십 7문항, 정책과 절차 6
+문항, 안전 시스템 10문항(환자안전 보고체계 7문항, 환
+자안전 교육체계 3문항) 등 23문항으로 구성하였고, 부서 
+차원을 위한 문항은 중간관리자의 리더십 7문항, 팀워크 
+3문항, 환자안전 개선활동 8문항, 근무환경 4문항 등 22
+문항으로 구성하였다. 개인 차원을 위한 문항은 안전행동 
+3문항, 안전가치관 5문항, 위험인식 5문항 등 13문항으
+로 구성하여 최종 58문항의 환자안전문화 예비도구를 개
+발하였다.
+3. 연구 대상 및 자료 수집 방법
+  사전조사를 통해 구성된 한국형 환자안전문화 측정도구
+의 신뢰도와 타당도를 검증하기 위한 본조사를 시행하였
+다. 도구의 신뢰도와 타당도를 검증하는데 있어서 안정된 
+결과를 얻기 위해서는 표본의 크기가 충분해야 하는데, 표
+본수가 문항 수보다 적어도 5배 이상은 되어야 요인분석 
+결과를 신뢰할 수 있다. 따라서 이 연구의 설문 문항 수의 
+5배 이상인 300명 이상을 대상으로 본 조사를 실시하였다.
+2014년 9월 29일부터 10월 18일까지 서울 시내 1개 상급
+종합병원에서 환자진료 업무에 직접 종사하는 의사, 간호
+사, 약사, 의료기사 등 총 467명이 참여하였다. 설문 대상
+자 표본을 추출하기 위해 각 직종별 전체 인원의 약 10%를 
+편의 추출하였다. 
+  배부된 설문지는 총 489부이었고, 이 중 수거된 설문지
+는 총 467부로 설문지 회수율은 95.5%이었다. 회수된 전
+체 설문지 중 응답이 불성실한 설문지 12건을 제외하고 총
+
+--- Chunk 10 ---
+는 총 467부로 설문지 회수율은 95.5%이었다. 회수된 전
+체 설문지 중 응답이 불성실한 설문지 12건을 제외하고 총 
+455건(의사 66부, 간호사 311부, 약사 30부, 의료기사 48
+부)이 분석에 사용되었다.  
+4. 자료분석 방법
+  수집된 자료는 SPSS version 19.0 통계 프로그램과 
+AMOS version 16.0 통계 프로그램을 사용하여 분석하였
+다. 환자안전문화 측정도구의 내용타당도는 내용타당도 지
+수(Content Validity Index, CVI) I-CVI, S-CVI를 산출
+하여 검증하였고, 구성타당도는 탐색적 요인분석과 확인
+적 요인분석을 통해 검증하였다. 탐색적 요인분석은 주요
+인(성분) 분석방법과 Varimax 회전을 이용하였으며, 고
+유값(eigen value) 1이상, 요인 적재량 ±0.5 이상에 의해 
+요인을 추출하였고, 확인적 요인분석은 구조방정식 모형
+을 이용하여 검증하였다. 환자안전문화 측정도구의 준거타
+당도 검증은 환자안전문화 척도로 측정된 점수와 단일문항
+으로 구성된 주관적 환자안전문화 점수인 NRS (Numeric 
+Rating Scale)와의 관계는 피어슨 상관계수를 통하여 분석
+하였다. 환자안전문화 측정도구 예비문항의 신뢰도 검증은 
+내적 일관성을 확인하는 Cronbach’s alpha 계수를 산출
+하였다.
+5. 윤리적 고려
+  이 연구는 연구대상 병원의 임상연구심의위원회의 심의
+를 거쳐 승인(AMCIRB-20140094)을 받은 연구계획서에 
+따라 진행되었다. 연구 대상자의 윤리적 고려를 위해 심층
+면담 대상자와 설문 대상자에게 연구목적, 연구내용, 자료
+의 익명성과 비밀보장, 설문조사 참여 도중에 언제라도 자
+유의사에 의해 중도 철회가 가능함을 설명하고, 참여에 동
+의한 자에 한하여 설문지를 배부하였다.
+III. 연구 결과
+1.대상자의 일반적 특성
+  연구 대상자의 인구통계적 분석을 실시한 결과, 성별에서
+는 여자가 85.1%, 남자가 14.9%로 나타났으며, 연령은 평
+
+--- Chunk 11 ---
+III. 연구 결과
+1.대상자의 일반적 특성
+  연구 대상자의 인구통계적 분석을 실시한 결과, 성별에서
+는 여자가 85.1%, 남자가 14.9%로 나타났으며, 연령은 평
+균 31.68세였으며, 20대가 46.8%로 가장 많았다. 직종에
+
+--- Chunk 12 ---
+Quality Improvement in Health Care109
+Korean Society for Quality in Health Care
+Original Articles
+서는 간호사가 68.4%로 가장 많았으며, 의사, 보건의료기
+사, 약사 순으로 나타났다. 근무경력은 평균 7.44년으로 2 
+~ 5년이 33.4%로 가장 많았으며, 11년 이상, 6 ~ 10년, 1
+년 이하의 순으로 나타났다. 부서에서는 병동이 56.0%로 
+가장 많았으며, 중환자실/수술실, 검사실, 약국, 응급실, 기
+타의 순으로 나타났다(Table 1). 
+Table 1. General Characteristics.
+Characteristics Categories n (%)
+Gender
+Male 68 (14.9)
+Female 387 (85.1)
+Age(years)
+<30 213 (46.8)
+30-39 180 (39.6)
+≥40 62 (13.6)
+Job title
+Doctor 66 (14.5)
+Nurse 311 (68.4)
+Medical technologist 48 (10.5)
+Pharmacist 30 (6.6)
+Working period(years)
+<2 73 (16.0)
+2-5 152 (33.4)
+6-10 104 (22.9)
+≥11 126 (27.7)
+Department
+Inpatient ward 255 (56.0)
+Intensive Care Unit 48 (10.5)
+Emergency Room 24 (5.3)
+Operating Room 48 (10.5)
+Imaging/laboratory test room 40 (8.8)
+Pharmacy 28 (6.2)
+Others 12 (2.6)
+2. 타당도 검증
+1) 내용타당도 검증
+  도구의 문항들이 측정하고자 하는 영역을 얼마나 잘 대표
+하는지 확인하기 위해 환자안전 분야 간호학 교수 2인, 환
+자안전 전담자 4인, 수간호사 2인 등 총 8명으로 구성된 전
+문가 집단으로부터 내용타당도 검증을 받았다. 내용타당도
+
+--- Chunk 13 ---
+하는지 확인하기 위해 환자안전 분야 간호학 교수 2인, 환
+자안전 전담자 4인, 수간호사 2인 등 총 8명으로 구성된 전
+문가 집단으로부터 내용타당도 검증을 받았다. 내용타당도 
+지수(Content Validity Index, CVI)가 0.8 미만인 3문항
+을 삭제하여 55문항으로 축소되었다. 내용타당도 검증을 
+받은 측정도구에 대한 사전조사를 실시하였다. 실제로 본 
+측정도구를 사용할 수간호사, 일반간호사, 전문의 및 레지
+던트, 의료기사 등 총 22명을 대상으로 시행하였고 중복된
+다고 판단되는 문항 6개를 삭제하고 어려운 문구를 수정하
+여 총 49문항으로 축소하였으며 설문에 응답하는 데에는 
+10 ~ 15분이 소요됨을 확인하였다.
+2) 구성타당도 검증
+2.1 탐색적 요인분석
+
+--- Chunk 14 ---
+V oL 30, Number 1, 2024 110
+한국형 환자안전문화 측정도구 개발 및 평가
+이순교
+(1) 1차 탐색적 요인분석
+  예비도구 49문항이 요인분석에 적합한 표본인지를 확인
+한 KMO (Kaiser-Meyer-Olkin) 측정값은 0.93이었고, 
+Bartlett의 구형성 검정 결과는 9640.083(df=.903)로 이 
+값의 유의수준이 p=.000이므로 요인분석이 가능한 적합한 
+자료로 확인되었다.
+  문항들의 구성타당도를 검증하는 1차 탐색적 요인분석에
+서 주성분 분석과 직교회전의 하나인 Varimax 회전을 실
+시한 결과, 고유값(eigen value) 1.0이상인 9개의 요인이 
+도출되었다. 각 변량은 3.043 ~ 14.833으로 나타났으며, 
+총 누적 변량은 62.112로서 요인분석의 설명력은 62.1%
+로 나타났다. 설문번호 Q20, Q22, Q37, Q46, Q48, Q49
+는 요인 적재치가 0.5이하로 나타나고 있어 분석에서 제외
+하였다. 
+(2) 2차 탐색적 요인분석
+  요인추출의 기준으로 고유값(eigen value)과 총 분산 중 
+요인이 설명해 주는 정도를 사용하는데, 고유값을 기준으
+로 하는 경우는 1.0을 기준으로 한다. 고유값이 1.0 이하
+가 되면 1개 변수의 분산에 해당하는 만큼도 설명하지 못
+하므로 요인으로서 의미가 없다. 설명 분산을 기준으로 하
+는 경우에는 총 분산 중 특정 요인의 설명 분산의 백분율
+이 5% 이상일 때까지 선정하거나 요인들에 의한 설명 분산
+의 누적 백분율이 60% 정도를 설명해 주는 요인까지를 선
+정한다. 1차 탐색적 요인분석 결과 9개 요인 모두 고유값
+(eigen value)이 1.0 이상이었으나 요인8까지의 누적 백
+분율이 59.1%로 나타났으며, 요인9를 구성하고 있는 문항
+의 내용이 ‘우리 병원의 최상위 리더십은 업무의 효율성보
+다는 환자안전 원칙을 준수하는 것을 중요하게 생각한다’, 
+‘우리 병원에서는 환자안전을 위한 교육시간이 충분하다’
+
+--- Chunk 15 ---
+의 내용이 ‘우리 병원의 최상위 리더십은 업무의 효율성보
+다는 환자안전 원칙을 준수하는 것을 중요하게 생각한다’, 
+‘우리 병원에서는 환자안전을 위한 교육시간이 충분하다’
+로 공통요인으로 해석하기 어려워 요인9는 요인추출에서 
+제외하고 2차 탐색적 요인분석을 실시하였다. 
+  요인9(Q3, Q26)를 삭제하고 2차 탐색적 요인분석을 실
+시한 결과, 요인 적재치가 0.5이하로 나타난 Q1을 삭제하
+였다. 2차 탐색적 요인분석 결과, 8개의 요인으로 추출되
+었으며, 고유값(eigen value)은 1.884 ~ 5.701로서 모두 
+1.0이상으로 나타났으며, 각 변량은 4.711 ~ 14.253이었
+으며, 총 누적 변량은 60.980으로서 요인분석의 설명력은 
+60.980%로 나타났다. KMO값은 0.927로 매우 높아 요인
+분석의 타당성이 높게 나타나고 있었고, Bartlett의 검정치
+는 8767.684(df=.780)로 이 값의 유의수준이 p=.000이므
+로 요인분석이 통계적으로 적절히 수행되고 있음을 나타나
+고 있었다(Table 2).
+  요인 1은 리더십에 해당하는 9문항이 적재되었으며 ‘리
+더십’으로 명명하였고, 요인 2는 총 7문항으로 ‘팀워크’ 로 
+명명하였다. 요인 3은 총 5문항으로 구성되었으며 환자안
+전 교육체계 2문항과 환자안전 보고체계, 안전행동 문항
+이 포함되었으며 ‘환자안전 지식/태도’ 로 요인명을 명명하
+였다. 요인 4는 환자안전 정책과 절차에 해당하는 4문항이 
+적재되었으며 ‘환자안전 정책/절차’로 명명하였다. 요인 5
+는 총 5문항으로 구성되었으며 ‘비처벌적 환경’으로 명명
+하였고, 요인 6은 4문항으로 구성되었으며 요인명은 ‘환자
+안전 개선시스템’으로 명명하였다. 요인 7은 3문항으로 구
+성되었으며 ‘환자안전 우선순위’로 명명하였고, 마지막 요
+인 8은 위험인식 3문항이 적재되어 ‘위험인식’으로 요인명
+을 명명하였다. 40개 모든 문항들의 해당 요인 적재값은 
+.50 이상을 충족시키고 있었다. 
+2.2 확인적 요인분석
+
+--- Chunk 16 ---
+인 8은 위험인식 3문항이 적재되어 ‘위험인식’으로 요인명
+을 명명하였다. 40개 모든 문항들의 해당 요인 적재값은 
+.50 이상을 충족시키고 있었다. 
+2.2 확인적 요인분석
+(1) 1차 확인적 요인분석
+  앞서 탐색적 요인분석을 통하여 도출된 환자안전문화의 8
+개 요인구조가 적합한지를 검증하기 위해 확인적 요인분석
+을 실시하였다. 1차 확인적 요인분석 결과, x2 =1312.083으
+로 p<.001수준에서 유의하며, CMIN/DF는 2.000으로 적합
+하며, RMR은 0.027로 적합하며, GFI는 0.863으로 다소 낮
+지만 수용 가능한 수준이었으며, NFI는 0.851로 다소 낮지만 
+수용 가능한 수준이었고, IFI는 0.919로 적합하며, RMSEA
+는 0.047로 적합한 것으로 나타났다. 즉 모든 적합도 지수로
+
+--- Chunk 17 ---
+Quality Improvement in Health Care111
+Korean Society for Quality in Health Care
+Original Articles
+Table 2. 2nd exploratory factor analysis.
+Items Factor 1 Factor 2 Factor 3 Factor 4 Factor 5 Factor 6 Factor 7 Factor 8
+Q 8 .827        
+Q 7 .818        
+Q 6 .767        
+Q 9 .764        
+Q11 .716        
+Q 2 .575        
+Q 5 .569        
+Q10 .555        
+Q 4 .528        
+Q31  .695       
+Q33  .631       
+Q29  .585       
+Q30  .571       
+Q35  .536       
+Q34  .528       
+Q32  .517       
+Q27   .766      
+Q19   .749      
+Q38   .574      
+Q36   .571      
+Q28   .516      
+Q14    .689     
+Q15    .611     
+Q13    .610     
+Q12    .578     
+Q16     .717    
+Q17     .712    
+Q18     .664    
+Q39     .576    
+Q44     .572    
+Q24      .725   
+Q21      .647   
+Q25      .629   
+Q23      .526   
+Q42       .720  
+Q41       .636  
+Q40       .621  
+Q45        .758
+Q43        .719
+Q47        .718
+Eigen values 5.701 3.287 3.192 3.014 2.675 2.483 2.155 1.884
+
+--- Chunk 18 ---
+Q43        .719
+Q47        .718
+Eigen values 5.701 3.287 3.192 3.014 2.675 2.483 2.155 1.884
+variance(%) 14.253 8.217 7.981 7.534 6.688 6.208 5.388 4.711
+Accumulative
+Variance(%) 14.253 22.470 30.451 37.985 44.673 50.881 56.569 60.980
+판단하여 보면 해당 모형은 적합한 수준이라는 것을 알 수 있
+다. 또한 각 문항들의 요인에 대한 설명력도 모두 p<.001수준
+으로 매우 적합하다는 것을 알 수 있었다. 그러나 표준화 계
+수 값을 보면, Q44 문항의 경우 0.446으로 낮게 나타나고 있
+어 문항이 삭제되어야 함을 알 수가 있다. 따라서 Q44번 문
+항인 ‘나는 업무 중 다른 사람에게 도움을 요청하는 것은 나
+의 능력이 부족하다는 것을 보여주는 행동이라고 생각한다’
+를 삭제한 후 2차 확인적 요인분석을 실시하였다.
+
+--- Chunk 19 ---
+V oL 30, Number 1, 2024 112
+한국형 환자안전문화 측정도구 개발 및 평가
+이순교
+(2) 2차 확인적 요인분석
+  Q44 문항을 삭제한 후 2차 확인적 요인분석을 실시
+한 결과, x 2=927.943으로 p<.001수준에서 유의미하며, 
+CMIN/DF는 1.570으로 적합하며, RMR은 0.025로 적
+합하며, GFI는 0.901로 적합하며, NFI는 0.893으로 다
+소 낮지만 수용 가능한 수준이었고, IFI는 0.958로 적합하
+며, RMSEA는 0.035로 적합한 것으로 나타났다. 즉 2차 
+확인적 요인분석 결과 모형은 적합하다는 것을 알 수가 있
+다. 그리고 리더십, 팀워크, 환자안전 지식/태도, 환자안
+전 정책/절차, 비처벌적 환경, 환자안전 개선시스템, 환자
+안전 우선순위, 위험인식의 모든 하위 문항들이 통계적으
+로 유의미한 것으로 나타나고 있었으며, 표준화 계수 값도 
+모두 0.5이상으로 해당 요인을 잘 설명하고 있음을 알 수
+가 있다.  환자안전문화의 구조방정식 모형은 다음과 같다
+(Figure 2). 
+Figure 2. Structural equation model of patient safety culture.
+
+--- Chunk 20 ---
+Quality Improvement in Health Care113
+Korean Society for Quality in Health Care
+Original Articles
+2.3 측정 요인간 상관관계 분석
+  최종 측정도구의 판별타당성을 확인하기 위해 시행한 측
+정요인 간 상관관계 분석 결과 요인 간 모두 정(+)의 상관
+관계가 존재하는 것으로 나타났으나 ‘위험인식’ 요인은 음
+(-)의 상관관계가 나타나거나 타 변수와 상관관계가 없는 
+것으로 나타나 최종 측정도구에서 삭제하였다(Table 3). 
+최종 도출된 환자안전문화 측정도구는 ‘리더십’, ‘팀워크’, 
+‘환자안전 지식/태도’, ‘환자안전 정책/절차’, ‘비처벌적 환
+경’, ‘환자안전 개선시스템’, ‘환자안전 우선순위’ 등 7개 
+요인 35문항으로 구성되었다. 
+3) 준거타당도 검증
+3.1  환자안전문화 척도와 주관적 환자안전문화 점수(NRS) 
+간 상관관계 분석
+  최종 확정된 환자안전문화 척도 점수와 주관적 환자안전
+문화 점수(NRS) 간 상관관계를 분석한 결과, 상관 계수값
+이 .258 ~ .615로 유의수준 p<.001수준에서 통계적으로 
+유의한 정(+)의 상관관계가 나타났다(Table 4). 즉 이 연구
+결과로 개발된 측정도구는 조직원들이 인지하고 있는 환자
+안전문화와 동일한 개념으로 사용될 수가 있다는 것을 의
+미하는 것이다. 
+Table 3. Inter-correlation of patient safety culture factors.
+Leadership Teamwork
+Patient
+safety
+knowledge /attitude
+Patient 
+safety
+Policy /procedure
+Non-puni-
+tive environ-
+ment
+Patient safety
+Improvement 
+system
+Patient 
+safety
+priorities
+Risk 
+perception
+Leadership 1        
+Teamwork .597*** 1       
+Patient
+
+--- Chunk 21 ---
+Patient 
+safety
+priorities
+Risk 
+perception
+Leadership 1        
+Teamwork .597*** 1       
+Patient 
+safety
+knowledge/attitude
+.556*** .641*** 1      
+Patient 
+safety
+Policy/procedure
+.698*** .619*** .511*** 1     
+Non-punitive envi-
+ronment .226*** .355*** .261*** .261*** 1    
+Patient 
+safety
+Improvement 
+system
+.564*** .572*** .476*** .584*** .359*** 1   
+Patient
+ safety
+priorities
+.292*** .362*** .287*** .276*** .467*** .321*** 1  
+Risk perception .102* -.001 .084 .014 -.062 .007 -.173*** 1
+Mean 4.10 3.81 4.05 3.84 3.45 3.66 3.22 3.94
+SD .53 .49 .47 .56 .71 .58 .70 .59
+ * : p<.05, *** : p<.001
+Table 4. Intercorrelation of patient safety culture factors and Numeric Rating Scale (NRS).
+Total
+score Leadership Teamwork Patient safety
+knowledge/attitude
+Patient safety
+Policy/procedure
+Non-puni-
+tive environ-
+ment
+Patient safety
+Improvement system
+Patient safety
+priorities
+NRS .6151) .5271) .5591) .4331) .5741) .2581) .5261) .2741)
+1)  p<.001
+
+--- Chunk 22 ---
+V oL 30, Number 1, 2024 114
+한국형 환자안전문화 측정도구 개발 및 평가
+이순교
+3. 신뢰도 검증
+  최종 측정도구에 대한 신뢰도 검증 결과, 전체 신뢰도 
+Cronbach’ alpha는 0.934로 매우 높게 나타나고 있었으
+며, 하위영역의 신뢰도는 0.656 ~ 0.914로 신뢰도가 있는 
+것으로 나타났다(Table 5). 
+Table 5. Factor reliability and patient safety culture score.
+Factors Cronbach’s alpha
+Leadership .914
+Teamwork .837
+Patient safety knowledge/attitude .802
+Patient safety Policy/procedure .812
+Non-punitive environment .731
+Patient safety Improvement system .786
+Patient safety priorities .656
+Total .934
+4. 환자안전문화 측정도구 최종 문항 개발
+  이상과 같은 과정을 거쳐 한국형 환자안전문화 측정도구
+는 7개 요인의 총 35개 문항으로 구성되었으며(Table 6), 5점 
+Likert 척도의 자가 보고형 설문문항이다. 제 1요인은 ‘우리 
+병원의 최상위 리더십은 환자안전의 중요성에 대해 직원들과 
+지속적으로 소통한다’, ’우리 병원 최상위 리더십의 행동은 환
+자안전이 우선순위가 높음을 보여준다’ 등 9개 문항이 추출되
+었다. 이러한 문항들은 최고 경영층 및 중간관리자가 환자안
+전문화 형성을 이끄는 측면을 평가하는 문항이기 때문에 ‘리
+더십’이라고 명명하였다.  ‘리더십’ 영역의 설명 변량은 14.3%
+로 환자안전문화를 가장 크게 설명하는 요인으로 나타났다.
+  제 2요인은 ’우리 병원의 모든 부서들은 환자에게 안전한 
+진료를 제공하기 위해 서로 잘 협력한다’, ’나와 나의 동료
+들은 바쁠 때 서로 지지하고 도와준다’ 등 ’ 6개 문항이 추
+
+--- Chunk 23 ---
+진료를 제공하기 위해 서로 잘 협력한다’, ’나와 나의 동료
+들은 바쁠 때 서로 지지하고 도와준다’ 등 ’ 6개 문항이 추
+출되어 업무를 수행함에 있어 환자안전 원칙을 잘 지킬 수 
+있도록 서로 지지하고 격려하는 정도와 환자안전 개선에 
+직접 참여하는 협력의 정도를 측정하는 문항으로 구성되었
+기 때문에 ‘팀워크’로 명명하였다.  ‘팀워크’ 영역의 설명 
+변량은 8.2%로 나타났다.
+  제 3요인은 ‘나는 어떤 환자안전 사례를 보고해야 하는지 
+잘 알고 있다’, ’나는 환자안전에 대한 개념을 잘 알고 있
+다’ 등 5개 문항이 추출되어 의료서비스를 제공하는 과정
+에서 환자안전에 대한 제공자의 지식과 안전을 위해 주의
+하고 노력하는 태도의 정도를 평가하는 문항으로 구성되었
+기 때문에 ‘환자안전 지식/태도’로 명명하였다. ‘환자안전 
+지식/태도’ 영역의 설명 변량은 8.0%로 나타났다.
+  제 4요인은 ‘우리 병원에서는 환자안전을 위한 병원의 정
+책이 진료현장까지 잘 전달된다’, ‘우리 병원의 시스템과 
+절차는 실수를 예방하도록 설계되어 있다’ 등 4개 문항이 
+추출되어 환자안전을 위한 정책과 절차에 대한 정도를 평
+가하기 때문에 ‘환자안전 정책/절차’로 명명하였다.  ‘환자
+안전 정책/절차’ 영역의 설명 변량은 7.5%로 나타났다.
+  제 5요인은 ‘나는 환자안전 사례를 보고하면 불이익을 당
+할까 봐 걱정된다’, ’나와 동료들은 실수했을 경우 수치심
+을 유발하는 비난을 받는다’ 등 4개 문항이 추출되어 환자
+안전 사례 보고 및 환자안전 사례 발생 시 이에 대한 조직
+의 분위기를 평가하는 문항으로 구성되었기 때문에 ‘비처
+벌적 환경’으로 명명하였다. ‘비처벌적 환경’ 영역의 설명 
+변량은 6.7%로 나타났다.
+  제 6요인은 ‘나는 환자안전 사례 보고를 통해 병원이 보
+다 안전하게 변화되는 것을 경험하였다’, ’우리 병원에서는 
+환자안전 문제를 개선하기 위한 근본적인 원인을 찾는 분
+석이 잘 이루어진다’ 4개 문항이 추출되어 환자안전 문제
+
+--- Chunk 24 ---
+Quality Improvement in Health Care115
+Korean Society for Quality in Health Care
+Original Articles
+를 효과적으로 개선하여 재발을 방지하기 위한 정도를 평
+가하는 문항으로 구성되었기 때문에 ‘환자안전 개선시스
+템’으로 명명하였다. ‘환자안전 개선시스템’ 영역의 설명 
+변량은 6.2%로 나타났다.
+  제 7요인은 ‘나는 업무로 인해 바쁘면 환자안전 절차를 
+지키지 못할 때도 있다’, ’나는 환자안전 문제를 개선하기 
+위해 추가적인 업무가 생기는 것이 귀찮다’ 등 3문항이 추
+출되어 환자진료 서비스를 제공하는 매일의 과정에서 환자
+안전과 효율성이 상충되었을 경우 무엇을 우선적으로 선택
+하는지를 결정하는 정도를 평가하는 문항으로 구성되었기 
+때문에 ‘환자안전 우선순위’라고 명명하였다. ‘환자안전 우
+선순위’ 영역의 설명 변량은 5.4%로 나타났다. 
+Table 6. Patient safety culture factors and items.
+Factors Items
+Leadership
+Q2 Our hospital’s executives continuously communicates with employees about the importance of patient safety
+Q4 Our hospital has a support system to resolve patient safety issues
+Q5 Our hospital leadership demonstarates that patient safety is a high priority
+Q6 Our department leader emphasizes patient safety as a high priority
+Q7 Our department leader encourages staff effors to improve patient safety
+
+--- Chunk 25 ---
+Q7 Our department leader encourages staff effors to improve patient safety
+Q8 Our department leader takes the lead and strives to improve patient safety
+Q9 Our department leader does not overlook patient safety issues 
+Q10 Our department has a well-established system(e.g.meetings, councils , etc) to ensure patient safety
+Q11 Our department leader actively reviews staff suggestions to improve patient safety
+Teamwork
+Q30 Patient safety permeates every day work at our hospital
+Q31 All departments of our hospital work well together to provide safe care to patiens
+Q32 My colleagues and I support and help each other when we are busy
+Q33 At our hospital, all departments, including the medical department, have high participation in improving patient safety
+Q34 When I work, I stick to principles even if it is somewhat inconvenient
+Q35 The staff of our hospital strictly adhere to policy and procedure for patient safety
+Patient safety 
+knowledge/
+attitude
+
+--- Chunk 26 ---
+Patient safety 
+knowledge/
+attitude
+Q19 I know which patient safety issues to report
+Q27 I am familiar with the concept of patient safety
+Q28 Patient safety education contents of our hospital are comprehensive including policy on patient safety 
+Q36 I believe that adhere to patient safety principles is a basic task
+Q38 I try to act safely to avoid harm to patients
+Patient safety
+Policy/
+procedure
+Q12 At our hospital, the policy for patient safety is well communicated to the patient care area
+Q13 At our hospital, the policy for patient safety is well established at the patient care area
+Q14 Our hospital’s systems and procedures are designed to prevent mistakes
+Q15 The safety procedures that staff must adhere are well documented in the rule and regulation
+Non-punitive 
+environment
+Q16 I am worried that I may be penalized if I report a patient safety incident
+Q17 When we make mistakes, we face shame-inducing criticism
+
+--- Chunk 27 ---
+Q17 When we make mistakes, we face shame-inducing criticism
+Q18 The high number of patient safety case reports is believed to indicate there are many problems in the department
+Q39 I think that patient safety issues are something we are afraid of and want to hide
+Patient safety
+Improvement 
+system
+Q21 I experienced hospital became safer through patient safety incident reports
+Q23 At our hospital, analysis to find the root causes of patient safety issues is well conducted
+Q24 At our hospital, when improving patient safety issues we take a system and process approach rather than punishing individuals
+Q25 Our hospital has an atmosphere that encourages learning from others’ mistakes
+Patient safety
+priorities
+Q40 Sometimes I cannot adhere patient safety procedure when I am busy
+Q41 I am annoyed by the extra work which take to improve patient safety issues
+Q42 When there is a conflict between efficiency(performing many tasks in a given time) and patient safety, I choose efficiency
+
+--- Chunk 28 ---
+V oL 30, Number 1, 2024 116
+한국형 환자안전문화 측정도구 개발 및 평가
+이순교
+IV. 고찰
+  
+  이 연구는 국내 의료기관의 환자안전문화를 측정할 수 있
+는 도구를 개발하고자 실시하였으며, 8단계를 거쳐 총 7개 
+영역 35개 문항으로 구성된 5점 Likert 척도의 자가 보고
+형 한국형 환자안전문화 측정도구를 개발하였다.
+  환자안전문화란 기관이나 조직에서 형성되는 문화로서 
+조직의 구성원이 지닌 가치, 신념, 정보교환, 행동 등 그 집
+단에서 습득하여 계승되어 온 행동과 양식의 종합체이다. 
+현재 우리나라 대부분의 환자안전관련 연구에서 환자안전
+문화를 측정하기 위한 도구로 미국에서 개발된 HSOPSC도
+구와 SAQ 도구를 사용하고 있다. 미국에서 개발한 도구를 
+그대로 번역하여 사용할 때에는 한국과 미국의 문화 차이
+로 인한 해석의 한계가 있을 뿐만 아니라 번역상의 의미 전
+달의 한계 등도 존재한다[15]. 또한 진료비 지불 제도와 같
+은 보건의료제도의 근본적인 차이로 인해 보건의료 종사자
+들의 안전에 대한 개념 인식의 차이 등도 존재할 것으로 사
+료된다. 따라서 국내 의료기관의 환자안전문화 현상을 정
+확히 측정하기 위해서는 국내 의료기관에서 직접 환자진료
+를 제공하는 종사자들과 환자안전 업무를 담당하는 전담자
+들의 환자안전문화에 대한 탐색적 연구부터 시작되어야 할 
+필요성이 있어서 이 연구를 진행하였다.
+  연구 결과 최종 도출된 환자안전문화 측정도구는 7개 요
+인으로 구성되어 있고, 7개 요인에 의한 설명력은 61.0% 
+이었다. 조직 차원으로는 리더십, 환자안전 정책/절차, 환
+자안전 개선시스템이 요인으로 추출되었고, 부서 차원으로
+는 팀워크, 비처벌적 환경이 요인으로 추출되었으며, 개인 
+차원으로는 환자안전 지식/태도, 환자안전 우선순위가 요
+인으로 추출되었다. 본 도구를 개발하기 위해 초기에 설정
+한 개념적 기틀의 큰 틀은 유지되는 것으로 도출되었으나 
+각 차원을 구성하는 하부 요인에는 일부 변화가 있었다.
+
+--- Chunk 29 ---
+인으로 추출되었다. 본 도구를 개발하기 위해 초기에 설정
+한 개념적 기틀의 큰 틀은 유지되는 것으로 도출되었으나 
+각 차원을 구성하는 하부 요인에는 일부 변화가 있었다. 
+조직 차원의 ‘경영진 리더십’과 부서 차원의 ‘중간관리자 
+리더십’이 하나의 요인인 ‘리더십’ 요인으로 분류되었다. 
+직원들의 실제 업무에 직접적으로 영향을 주는 중간관리자 
+즉 부서장의 리더십이 총 9개 문항 중 6개 문항을 구성하
+는 것으로 나타났다. 이는 환자 업무를 직접 제공하는 의료 
+제공자들의 환자안전문화 형성에 부서장이 미치는 영향이 
+큼을 보여주는 결과로 해석할 수 있겠다. 이를 통해 임상 
+진료 현장에서 업무를 하고 있는 직원들이 인지하는 리더
+십은 경영진과 중간관리자의 리더십이 크게 다르지 않음을 
+알 수 있었다. 이는 규모가 큰 종합병원의 경우 최고경영층
+과 별도로 부서관리자의 리더십을 포함시켜 리더십을 측정
+하는 것이 필요하다는 연구결과[17]와도 일치하는 결과로 
+해석된다. 환자안전분야에서 리더의 역할은 리더가 보건
+의료분야가 고위험 환경 임을 알고 비전/미션과 연결시키
+고자 노력하고 직원의 역량과 자원을 투입하는 것을 의미
+한다[18]. 리더십은 안전문화를 증진시키는데 매우 중요한 
+요인이므로 리더십에 대한 교육은 매우 중요하다.
+  ‘환자안전 정책/절차’는 요인분석 결과 다른 문항과 섞이
+지 않고 초기 문항 그대로 추출되었다. 단순히 환자안전 정
+책/절차가 존재하는지를 평가하는 문항으로 구성되지 않고 
+환자안전 정책/절차가 의료오류를 실질적으로 예방할 수 
+있게 구성되어 있고 진료 현장에 잘 전달되어 정착 되었는
+지를 평가하는 항목으로 구성되어 있어 환자안전 정책/절
+차의 실효성 측면을 평가할 수 있을 것으로 사료된다.
+  초기 문항에서 ‘환자안전 시스템’의 하부 요인인 ‘환자안
+전 보고체계’, ‘환자안전 교육체계’ 등은 의미 있는 요인으
+로 도출되지 않았고, ‘환자안전 개선시스템’만이 의미 있는 
+요인으로 도출되었다. 이는 심층 면담 결과 높은 빈도로 추
+
+--- Chunk 30 ---
+로 도출되지 않았고, ‘환자안전 개선시스템’만이 의미 있는 
+요인으로 도출되었다. 이는 심층 면담 결과 높은 빈도로 추
+출되었던 개념으로서, 환자안전 문제를 보고한 이후에 실
+질적으로 개선된 내용에 대한 피드백 여부에 따라 추가적
+인 환자안전 문제 보고가 뒤따르는 선순환의 고리가 연결
+되는 점을 강조한 것과 같은 맥락으로 해석된다. 아무리 환
+자안전 보고체계가 잘 갖추어져 있고 환자안전에 대한 직
+원 교육이 이루어 진다고 하더라도 환자안전을 위한 실질
+적인 변화가 이루어지지 않으면 환자안전문화는 형성되지 
+않는다. 따라서 ‘환자안전 개선시스템’ʼ이 환자안전문화 형
+성에 있어 다른 환자안전 시스템보다 중요한 요인임을 알 
+수 있었다. 이는 간호사의 안전 절차 순응도를 가장 잘 예
+측할 수 있는 예측 인자로 ‘안전성과에 대한 피드백ʼ’으로 
+나타난 DeJoy 등의 연구 결과와도 일치한다[19].
+  부서 차원의 요인을 살펴보면 다음과 같다. 초기 이론적
+
+--- Chunk 31 ---
+Quality Improvement in Health Care117
+Korean Society for Quality in Health Care
+Original Articles
+기틀에서의 하부 요인이었던 ‘팀워크’와 ‘근무환경’이 하나
+의 요인으로 합쳐져 ‘팀워크’ 요인으로 도출되었다. 의료환
+경이 점점 복잡해져 가고 있고 환자의 진료 업무가 분업화
+되어 가고 있는 현대 의료체계에서 다양한 직종 간의 협력
+과 팀워크는 안전한 환자진료를 위해 매우 중요하다. 그 외 
+부서 차원의 하부 요인으로 도출된 요인은 ‘비처벌적인 환
+경’이다. 환자안전문화 형성을 위해서는 자발적인 보고 및 
+학습 분위기 형성이 필요한데 동양권의 문화 특성은 서양
+권에 비해 위계질서를 더 중요시 여기기 때문에 비난이나 
+처벌과 같은 환경이 보건의료환경에서도 형성되기 쉽기 때
+문에 ‘비처벌적 환경’ 요인을 측정하는 것은 중요하다. 
+  개인 차원의 요인을 살펴보면 다음과 같다. ‘환자안전 지
+식/태도’ 요인과 ‘환자안전 우선순위’ 요인이 도출되었는데 
+도구개발 과정을 거치면서 이 연구를 위해 수립한 이론적 
+기틀의 하부 요인과 다소 다르게 추출되었다. 이론적 기틀
+에서의 안전행동, 안전가치관, 위험인식 등 세부영역에서 
+위험인식 영역은 최종 도구에서 탈락되었다. 의료계를 제
+외한 일반 산업분야의 안전문화를 측정할 때 가장 공통적
+으로 언급되는 주제 중 하나가 ‘위험(risk)’이다[20]. 이는 
+다양한 개념으로 표현되는데, 위험 감수, 작업장에 대한 위
+험인식, 위험에 대한 태도 등으로 표현된다. 위험인식이 안
+전문화 도구의 기본적인 요소 인지에 대한 연구에서, 이는 
+근로자의 안전에 대한 참여라는 개념과 긴밀하게 연결되었
+다고 하였다[21]. 그러나 의료기관의 환자안전문화는 다른 
+산업분야의 안전문화와 구성요소가 일부 다르므로 직원들
+이 스스로를 위험으로부터 지키기 위한 요소인 위험인식은 
+환자를 안전하게 보호하기 위한 환자안전문화 요인으로는
+
+--- Chunk 32 ---
+산업분야의 안전문화와 구성요소가 일부 다르므로 직원들
+이 스스로를 위험으로부터 지키기 위한 요소인 위험인식은 
+환자를 안전하게 보호하기 위한 환자안전문화 요인으로는 
+부적합한 것으로 나타난 것으로 해석할 수 있겠다. 또한 초
+기 설정한 하부 요인인 안전행동, 안전가치관 요인이 ‘환자
+안전 지식/태도’ 요인과 ‘환자안전 우선순위’ 요인으로 도
+출되었는데, 의료기관의 환자안전문화를 구성하는 개인 차
+원의 속성을 명확히 규명하기 위한 면밀한 연구가 필요할 
+것으로 사료된다.
+  입원 환자의 관점에서 환자안전을 측정하기 위해 개발된 
+‘입원 환자의 환자안전인식 측정도구’와 본 도구를 비교한 
+결과, 공통으로 추출된 요인은 없었다. 환자를 대상으로 개
+발한 도구에서는 ‘안전보장활동’, ‘환자의 안전 실천’, ‘의
+료시스템 신뢰' 등 세가지 요인이 도출되었으며, 환자의 관
+점에서 관찰한 의료인의 행동, 의료시스템 및 환자 자신이 
+준수해야 하는 안전 행동 실천 등의 문항으로 구성되어 있
+다[22]. 의료 서비스가 제공되는 기반 시스템, 환경 및 리
+더십 등에 대해서는 환자 관점에서 인식하기 어려운 영역
+이므로 의료기관 종사자를 대상으로 개발한 측정 도구와 
+공통된 요인이 추출되지 않은 것으로 사료된다. 다만 의료
+기관 종사자가 인식한 환자안전문화 측정 결과와 환자가 
+인식한 환자안전인식 측정 결과 간에는 상관성이 있을 것
+으로 추정되며 추후 이에 대한 연구를 통해 의료기관 종사
+자와 환자의 관점을 모두 고려한 환자안전문화 구축에 유
+용하게 활용할 수 있을 것으로 판단한다.
+  이상과 같이 환자안전문화 연구에서는 문화의 다양성을 
+고려해야 하며 문화와 환자안전 간의 가능한 관련성에 대
+한 이슈가 여전히 남아 있다[23]는 점과 서양과 동양의 문
+화에는 현저한 차이가 존재하므로 환자에게 의료서비스를 
+제공하는 의료기관에서 형성되는 환자안전문화의 주요 속
+성도 다를 것이라는 가정이 이 연구를 통해 일부 설명되었
+
+--- Chunk 33 ---
+화에는 현저한 차이가 존재하므로 환자에게 의료서비스를 
+제공하는 의료기관에서 형성되는 환자안전문화의 주요 속
+성도 다를 것이라는 가정이 이 연구를 통해 일부 설명되었
+다고 볼 수 있다. 또한 Flin 등[24]은 12개의 연구를 검토
+한 결과 의료기관에서 사용하는 안전문화의 정의 및 도구
+가 산업체의 연구에 기반을 두고 하였는데 이 연구는 실제 
+의료기관에서 의료서비스를 제공하고 있는 종사자 및 환자
+안전 전담자와의 심츰 면접을 통해 문항을 도출했다는 것
+에 의의가 있다고 할 수 있다.
+  개발된 도구의 타당도를 보기 위한 방법으로 준거 타당도
+를 검증하였다. 설문자가 응답한 주관적 환자안전문화 점
+수인 NRS점수와 개발된 도구와의 관련성을 측정하였다. 
+연구자가 개발한 환자안전문화 측정도구와 주관적 환자안
+전문화 점수인 NRS점수와는 통계적으로 유의한 상관관계
+가 나타났다. 이로써 한국형 환자안전문화 측정도구가 조
+직원들이 인지하고 있는 환자안전문화와 동일한 개념을 측
+정하는 것을 알 수 있었다. 
+  이 연구의 제한점은 다음과 같다. 한국형 환자안전문화 
+측정도구의 신뢰도와 타당도를 검증하기 위한 본 조사를 
+서울시내 일개 의료기관에서 임의 표출한 표본을 대상으로
+
+--- Chunk 34 ---
+V oL 30, Number 1, 2024 118
+한국형 환자안전문화 측정도구 개발 및 평가
+이순교
+실시한 설문조사 결과로서 국내 전체 의료기관에 적용하는 
+데에는 대표성에 있어서 한계가 있다. 국내 의료기관에는 
+상급종합병원, 종합병원, 병원, 요양병원, 의원 등 다양한 
+형태와 규모의 의료기관이 있으므로 이러한 병원에도 적용 
+가능한 도구인지를 검증하기 위한 보다 체계적이고 광범위
+한 연구가 시행되지 못했다. 또한 도구의 준거 타당도를 검
+증하기 위해 설문지 내에 포함된 자가 보고형 환자안전문
+화점수(NRS) 만을 사용하였기에 두 변수간의 상관관계가 
+실제보다 크게 발생하는 동일방법편의가 생길 수 있는 방
+법을 사용한 제한점이 있다. 기존에 개발된 환자안전문화 
+측정도구 및 객관적으로 환자안전을 측정할 수 있는 지표
+와 비교하여 도구의 준거타당도를 보다 면밀하게 검증하지 
+못하였다.
+V. 결론
+  이 연구는 국내 보건의료 환경의 특성을 고려한 한국형 
+환자안전문화 측정도구를 개발하기 위한 방법론적 연구로, 
+문헌고찰과 국내 의료기관 관계자와의 심층 면담 내용을 
+분석한 실증적 자료를 바탕으로 의료 기관용 환자안전문화 
+측정 예비도구를 개발하고, 서울시내 1개 상급종합병원에 
+종사하는 의료진의 직종별 약 10%를 임의 표본 추출한 표
+본조사를 통하여 도구의 신뢰도와 타당도를 확인하여 한국
+형 환자안전문화 측정도구를 개발하였다. 최종 개발된 한
+국형 환자안전문화 측정도구는 ‘리더십’ʼ, ‘팀워크’ʼ, ‘환자안
+전 지식/태도’ʼ, ‘환자안전 정책/절차’ʼ, ‘비처벌적 환경’ʼ, ‘환
+자안전 개선시스템’ʼ, ‘환자안전 우선순위’ʼ 등 7개 요인 35
+문항으로 구성되었다. 이 연구를 통해 개발된 환자안전문
+화 측정도구는 외국에서 개발된 도구와는 다소 차이가 있
+는 요인으로 구성되었으며 신뢰도와 타당도가 높은 것으로 
+입증되었다. 본 도구를 활용하여 우리나라 의료기관의 환
+자안전문화의 현주소를 파악하고 문제점을 확인하여 환자
+
+--- Chunk 35 ---
+는 요인으로 구성되었으며 신뢰도와 타당도가 높은 것으로 
+입증되었다. 본 도구를 활용하여 우리나라 의료기관의 환
+자안전문화의 현주소를 파악하고 문제점을 확인하여 환자
+안전 개선 전략을 수립하는데 기여할 수 있을 것으로 기대
+한다. 
+  또한 본 도구를 다양한 형태의 의료기관에 적용할 수 있
+도록 의료기관 규모별로 대상자를 확대한 추후 연구가 필
+요하며, 환자안전문화를 직접적으로 측정할 수 있는 결과 
+지표를 활용하여 척도의 준거타당도를 검증하는 추후 연구
+를 제안한다.
+Ⅵ. 참고문헌
+1. Wachter RM, Kiran G. Understanding Patient Safe-
+ty. 3rd ed. New York, USA: McGraw Hill Educa-
+tion;2018.
+2. Baker GR, Norton PG, Flintoft V, Blais R, Brown A, 
+Cox J, et al. The Canadian Adverse Events Study: 
+the incidence of adverse events among hospital 
+patients in Canada. Canadian Medical Association 
+Journal. 2004;170(11):1678-86. 
+3. De Vries EN, Ramrattan MA, Smorenburg SM, Gou-
+ma DJ, Boermeester MA. The incidence and nature 
+of in-hospital adverse events: a systematic review. 
+Quality and Safety in Health Care. 2008;17(3):216-
+23. 
+4. Nieva V, Sorra J. Safety culture assessment: a 
+tool for improving patient safety in health-
+care organizations. Quality and Safety in Health
+
+--- Chunk 36 ---
+tool for improving patient safety in health-
+care organizations. Quality and Safety in Health 
+Care.2003;12(suppl 2):ii17-ii23. 
+5. Krumberger J. Building a culture of safety. Regis-
+tered Nurses. 2001;64(1):32ac2-3. 
+6. Castle N, Sonon KA. Culture of patient safety in 
+nursing homes. Quality and Safety in Health Care. 
+2006;15(6):405-8. 
+7. Kim EK, Kang MA, KIM HJExperience and per-
+ception on patient safety culture of employees in 
+hospitals. Journal of Korean Academy of Nursing 
+Administration. 2007; 13(3):321-34. 
+8. Singer S, Meterko M, Baker L, Gaba D., Falwell A, 
+Rosen A. Workforce perceptions of hospital safety 
+culture: development and validation of the patient 
+safety climate in healthcare organizations survey.
+
+--- Chunk 37 ---
+Quality Improvement in Health Care119
+Korean Society for Quality in Health Care
+Original Articles
+Health Services Research. 2007;42(5):1999-2021.
+9. Pronovost PJ, Miller MR, & Wachter RM. Tracking 
+progress in patient safety. Journal of the American 
+Medical Association. 2006;296(6):696-9. 
+10.  Pumar-Méndez MJ, Attree M, Wakefield A. Method-
+ological aspects in the assessment of safety culture 
+in the hospital setting.: A review of the literature. 
+Nurse Education Today. 2014;34(2):162-70.
+11.  Hofstede G. The cultural relativity of organiza-
+tional practices and theories. Journal of Interna-
+tional Business Studies.1983;14(2);75-89.
+12.  Joo YJ. Integration and empirical analysis of or-
+ganizational culture studies [dissertation]. Seoul: 
+Graduate School of Chung-Ang University; 2010.
+13.  Matsubara S, Hagihara A, Nobutomo K. Develop-
+ment of a patient safety climate scale in Japan. 
+International Journal for Quality in Health Care. 
+2008;20(3):211-20.
+
+--- Chunk 38 ---
+International Journal for Quality in Health Care. 
+2008;20(3):211-20. 
+14.  Chen IC, Li HH. Measuring patient safety culture 
+in Taiwan using the Hospital Survey on Patient 
+Safety Culture (HSOPSC). BMC Health Services 
+Research. 2010;10(1)
+15.  Yoon SH, Wu X. Content analysis of patient safety 
+culture in nursing homes.Journal of Korean Acad-
+emy of Nursing Administration. 2013;19(1):118-27.
+16.  Reason J. Human error: models and management. 
+British Medical Journal. 2000;320(7237):768-70. 
+17.  Pfeiffer Y, Manser T. Development of the German 
+version of the Hospital Survey on Patient Safety 
+Culture: Dimensionality and psychometric prop-
+erties. Safety Science. 2010;48(10):1452-62. 
+18.  Sammer CE, Lykens K, Singh KP, Mains DA, Lack-
+an NA. What is patient safety culture? A review 
+of the literature. Journal of Nursing Scholarship. 
+2010;42(2):156-65. 
+19.  DeJoy DM, Searcy CA, Murphy LR, Gershon RR. 
+Behavior–diagnostic analysis of compliance with
+
+--- Chunk 39 ---
+19.  DeJoy DM, Searcy CA, Murphy LR, Gershon RR. 
+Behavior–diagnostic analysis of compliance with 
+universal precautions among nurses. Journal of Oc-
+cupational Health Psychology. 2000;5(1):127-41. 
+20.  Flin R, Mearns K, O'Connor P, Bryden R. Measur-
+ing safety climate: identifying the common fea-
+tures. Safety Science. 2000;34(1):177-92. 
+21.  Freyer A, Williamson A. Occupatioal Injury: Risk 
+Prevention and Intervention. London, UK: Taylor 
+and Francis Press;1998.
+22.  Kim KJ, Lee EH, Shin SH. Development and val-
+idation of the patient safety perception scale for 
+hospitalized patients.Korean Journal of Adult 
+Nursing. 2018;30(4):404-16.
+23.  Johnstone MJ, & Kanitsaki O. Culture, lan-
+guage, and patient safety: making the link. In-
+ternational Journal for Quality in Health Care. 
+2006;18(5):383-8. 
+24.  Flin R, Burns C, Mearns K, Yule S, Robertson E. 
+Measuring safety climate in health care. Quality 
+and Safety in Health Care. 2006;15(2):109-15.
+
