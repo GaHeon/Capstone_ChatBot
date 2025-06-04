@@ -38,4 +38,8 @@ ENV/
 embed_faiss/
 slm_lora/
 chunks/
-*.log 
+*.log
+test_search.py
+create_embeddings.py
+train_data.jsonl
+.env 
