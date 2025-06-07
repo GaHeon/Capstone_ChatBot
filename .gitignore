@@ -22,7 +22,8 @@ wheels/
 *.egg
 
 # Virtual Environment
-venv/
+venv1/
+venv2/
 ENV/
 
 # IDE
@@ -35,11 +36,12 @@ ENV/
 .ipynb_checkpoints
 
 # Project specific
-embed_faiss/
 slm_lora/
 chunks/
 *.log
 test_search.py
 create_embeddings.py
 train_data.jsonl
-.env 
+.env
+eval_results.jsonl
+evaluate/eval_results.jsonl 

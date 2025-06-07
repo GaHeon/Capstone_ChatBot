@@ -27,7 +27,8 @@ develop-eggs/
 
 # Virtual Environments
 env/
-venv/
+venv1/
+venv2/
 ENV/
 
 # Logs and temporary files
@@ -43,9 +44,9 @@ Thumbs.db
 # Local files (not needed in image)
 .env
 Dockerfile # Dockerfile 자체는 이미지에 보통 불필요
-check_env.py
 test_search.py
 create_embeddings.py
+evaluate/
 
 # Large data / Model data (should be handled differently, e.g., mounted volumes or downloaded at runtime if needed)
 embed_faiss/
