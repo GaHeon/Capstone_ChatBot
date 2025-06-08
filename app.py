@@ -1,10 +1,9 @@
 import streamlit as st
 from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
-from google.cloud import aiplatform, storage
+from google.cloud import aiplatform
 from vertexai.generative_models import GenerativeModel
 import os
-import tempfile
 from dotenv import load_dotenv
 
 # .env 파일로부터 환경 변수 로드
@@ -13,33 +12,22 @@ load_dotenv()
 # GCP 프로젝트/리전 설정
 PROJECT_ID = os.getenv("PROJECT_ID")
 LOCATION = os.getenv("LOCATION")
-BUCKET_NAME = os.getenv("BUCKET_NAME")
 
 # Vertex AI 초기화
 aiplatform.init(project=PROJECT_ID, location=LOCATION)
 
-# Cloud Storage에서 벡터 DB 로드
+# 로컬 경로에서 벡터 DB 로드
 @st.cache_resource
 def load_vector_db():
-    # 임시 디렉토리 생성
-    with tempfile.TemporaryDirectory() as temp_dir:
-        # Cloud Storage 클라이언트
-        storage_client = storage.Client()
-        bucket = storage_client.bucket(BUCKET_NAME)
-        
-        # 벡터 DB 파일 다운로드
-        blobs = bucket.list_blobs(prefix="embed_faiss/")
-        for blob in blobs:
-            if not blob.name.endswith('/'):  # 디렉토리 제외
-                local_path = os.path.join(temp_dir, os.path.basename(blob.name))
-                blob.download_to_filename(local_path)
-        
-        # FAISS 로드
-        embeddings = HuggingFaceEmbeddings(
-            model_name="sentence-transformers/distiluse-base-multilingual-cased-v1"
-        )
-        db = FAISS.load_local(temp_dir, embeddings, allow_dangerous_deserialization=True)
-        return db
+    # Docker 이미지에 포함된 경로
+    local_path = "embed_faiss"
+    
+    # FAISS 로드
+    embeddings = HuggingFaceEmbeddings(
+        model_name="sentence-transformers/distiluse-base-multilingual-cased-v1"
+    )
+    db = FAISS.load_local(local_path, embeddings, allow_dangerous_deserialization=True)
+    return db
 
 # 벡터 DB 로드
 db = load_vector_db()
@@ -72,30 +60,29 @@ if user_query:
     history = "\n".join([f"{msg['role']}: {msg['content']}" for msg in st.session_state.messages])
 
     # 프롬프트 구성 (대화 기록 포함)
-    prompt = f"""당신은 방사선장비 품질관리(QA)와 유지보수, 안전 점검 항목에 대한 전문 지식을 갖춘 챗봇입니다.
+    prompt = f"""당신은 방사선 장비의 품질관리(QA), 유지보수, 안전 점검에 대한 전문 지식을 갖춘 챗봇입니다.
 
-당신의 목적은:
+당신의 역할은:
+사용자가 제공한 문서 내용과 이전 대화 흐름을 참고하여,  
+방사선 장비의 작동, 오류 대응, 유지보수, 안전관리 등에 대해  
+실무적이고 정확하며 자연스러운 방식으로 답변하는 것입니다.
 
-사용자가 제공하는 품질관리 관련 문서 조각과 이전 대화 내용을 바탕으로,
-방사선 장비의 점검, 이상징후, 보안, 오류 대응, 유지보수 등의 질문에
-기술적으로 정확하고 실무 중심의 응답을 제공하는 것입니다.
-**문서에 해당 내용이 없는 경우에도, 당신의 전문 지식을 바탕으로 추론하여 답변해야 합니다.**
-
-다음은 참고할 이전 대화 내용입니다:
+다음은 이전 대화 내용입니다:
 {history}
 
-다음은 참고할 문서 내용입니다:
+다음은 참고 가능한 문서 정보입니다:
 {context}
 
-응답 시 다음의 규칙을 지키세요:
+사용자 질문:
+{user_query}
 
-문서에 기반했다는 표현은 하지 마세요.
-문서 내용 외에도, 실제 의료 현장에서의 방사선 장비 QA 맥락에 맞추어 추론을 덧붙이세요.
-답변은 명확하고, 용어는 전문적이며, 가독성은 높게 구성하세요.
-응답은 일반적 설명 → 구체적 적용 사례 → 결론 순으로 구조화하세요.
-답변을 간략하게 작성하세요.
+응답 지침:
+- 문서에 "나와 있지 않다", "직접적으로 나타나진 않는다", "제공된 문서에는" 등의 표현은 절대 사용하지 마세요.
+- 문서에 명확한 내용이 없더라도, 전문가의 입장에서 자연스럽게 지식을 바탕으로 설명하세요.
+- 설명은 너무 딱딱하지 않게, 하지만 명확하고 실무적으로 서술형으로 작성하세요.
+- 기술 용어는 필요한 경우 명확히 설명하고, 문맥에 맞는 예시를 덧붙이세요.
+- 답변 길이는 질문의 난이도에 따라 유연하게 조절하세요.
 
-사용자 질문: {user_query}
 답변:
 """
 

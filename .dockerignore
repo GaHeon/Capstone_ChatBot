@@ -49,7 +49,6 @@ create_embeddings.py
 evaluate/
 
 # Large data / Model data (should be handled differently, e.g., mounted volumes or downloaded at runtime if needed)
-embed_faiss/
 slm_lora/
 chunks/
 train_data.jsonl 

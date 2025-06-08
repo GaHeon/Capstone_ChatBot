@@ -5,6 +5,8 @@ WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
+COPY embed_faiss/ /app/embed_faiss/
+
 COPY . .
 
 EXPOSE 8080
